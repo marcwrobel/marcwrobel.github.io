@@ -1,0 +1,26 @@
+# Jekyll configuration - https://jekyllrb.com/docs/configuration/
+
+# Site settings
+title: Marc Wrobel
+email: marc.wrobel@gmail.com
+description: Site personnel de Marc Wrobel.
+baseurl: ""
+url: "https://marcwrobel.fr"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
