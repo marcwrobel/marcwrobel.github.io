@@ -2,12 +2,16 @@
 
 # Site settings
 title: Marc Wrobel
+author: Marc Wrobel
 lang: fr
 email: marc.wrobel@gmail.com
 description: Site personnel de Marc Wrobel.
 url: https://marcwrobel.fr
 
 # Build settings
+encoding: utf-8
+timezone: Europe/Paris
+
 plugins:
   - jekyll-feed
 

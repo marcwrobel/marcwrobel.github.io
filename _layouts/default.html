@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang }}">
+{%- include head.html -%}
 <body>
-Hello, world !
+<main>
+  {{ content }}
+</main>
 </body>
 </html>
