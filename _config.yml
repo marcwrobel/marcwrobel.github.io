@@ -2,25 +2,20 @@
 
 # Site settings
 title: Marc Wrobel
+lang: fr
 email: marc.wrobel@gmail.com
 description: Site personnel de Marc Wrobel.
-baseurl: ""
-url: "https://marcwrobel.fr"
+url: https://marcwrobel.fr
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 
-# Exclude from processing.
 exclude:
-  - .sass-cache/
+  - .idea
   - .jekyll-cache/
-  - gemfiles/
+  - .sass-cache/
   - Gemfile
   - Gemfile.lock
-  - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+  - LICENSE
+  - README.md
