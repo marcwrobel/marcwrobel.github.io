@@ -2,20 +2,14 @@
 layout: default
 ---
 
-{%- include header.html -%}
+<article>
+  {%- if page.title -%}
+  <header>
+    <h1>{{ page.title | escape }}</h1>
+  </header>
+  {%- endif -%}
+  <div>
+    {{ content }}
+  </div>
+</article>
 
-<main>
-  <article>
-    {%- if page.title -%}
-    <header>
-      <h1>{{ page.title | escape }}</h1>
-    </header>
-    {%- endif -%}
-
-    <div>
-      {{ content }}
-    </div>
-  </article>
-</main>
-
-{%- include footer.html -%}

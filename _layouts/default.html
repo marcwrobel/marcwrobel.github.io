@@ -2,7 +2,11 @@
 <html lang="{{ page.lang | default: site.lang }}">
 {%- include head.html -%}
 <body>
+{%- include header.html -%}
+<main>
 {{ content }}
+</main>
+{%- include footer.html -%}
 {%- include google-analytics.html -%}
 </body>
 </html>
