@@ -3,8 +3,12 @@
 {%- include head.html -%}
 <body>
 {%- include header.html -%}
-<main>
-{{ content }}
+<main class="container-fluid text-center">
+  <div class="row">
+    <div class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 mx-auto">
+      {{ content }}
+    </div>
+  </div>
 </main>
 {%- include footer.html -%}
 {%- include google-analytics.html -%}
