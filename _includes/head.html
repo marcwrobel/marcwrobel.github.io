@@ -2,9 +2,7 @@
   <meta charset="{{ site.encoding }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{{ page.title | default: site.title | escape }}</title>
-
-  <meta name="author" content="{{ page.author | default: site.author }}" />
+  {%- seo -%}
 
   <link rel="manifest" href="{{ '/manifest.json' | relative_url }}">
   <link rel="apple-touch-icon" href="{{ '/images/icon-192.png' | relative_url }}">
