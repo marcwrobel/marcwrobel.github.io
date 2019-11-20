@@ -1,0 +1,24 @@
+---
+# See https://developers.google.com/web/fundamentals/web-app-manifest/
+---
+
+{
+  "short_name": "{{ site.short_title }}",
+  "name": "{{ site.title }}",
+  "icons": [
+    {
+      "src": "{{ '/images/icon-192.png' | relative_url }}",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "{{ '/images/icon-512.png' | relative_url }}",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "{{ '/' | relative_url }}?utm_source=homescreen",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "theme_color": "#fafafa"
+}
