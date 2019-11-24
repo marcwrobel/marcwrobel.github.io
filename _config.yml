@@ -7,14 +7,18 @@ short_title: MW
 description: Site personnel de Marc Wrobel.
 lang: fr
 
-author: Marc Wrobel
-email: marc.wrobel@gmail.com
+author:
+  name: Marc Wrobel
+  email: marc.wrobel@gmail.com
+  uri: https://marcwrobel.fr
 
 google_analytics: UA-31088911-1
 
 # Build settings
 encoding: utf-8
 timezone: Europe/Paris
+date_format: "%b %-d, %Y"
+permalink: /:categories/:title
 
 plugins:
   - jekyll-feed
