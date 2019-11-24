@@ -1,7 +1,7 @@
 # Jekyll configuration - https://jekyllrb.com/docs/configuration/
 
 # Site settings
-url: https://marcwrobel.fr
+url: https://www.marcwrobel.fr
 title: Marc Wrobel
 short_title: MW
 description: Site personnel de Marc Wrobel.
@@ -10,7 +10,7 @@ lang: fr
 author:
   name: Marc Wrobel
   email: marc.wrobel@gmail.com
-  uri: https://marcwrobel.fr
+  uri: https://www.marcwrobel.fr
 
 google_analytics: UA-31088911-1
 
