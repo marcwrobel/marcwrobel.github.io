@@ -11,7 +11,6 @@ Les ressources et outils suivants sont ou ont aussi été utilisés :
   pour la mesure et l'amélioration des performances.
 * [favicon.io](https://favicon.io/favicon-generator/?t=MW&ff=Geo&fs=70&fc=%23FFFFFF&b=circle&bc=%23000)
   pour la création du favicon.
-* [logohub.io](https://logohub.io/) pour la création du logo.
 
 
 ## Modifier le site
