@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang }}">
 {%- include head.html -%}
-<body>
+<body class="d-flex flex-column h-100">
 {%- include header.html -%}
-<main class="container-fluid text-center">
+<main role="main" class="container flex-shrink-0  ">
   <div class="row">
-    <div class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 mx-auto">
+    <div class="col-12 py-3 px-5 mx-auto">
       {{ content }}
     </div>
   </div>
