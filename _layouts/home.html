@@ -2,23 +2,19 @@
 layout: default
 ---
 
-<main role="main" class="flex-shrink-0">
-  <div class="container">
-    {%- for post in site.posts -%}
-    <article itemscope itemtype="http://schema.org/BlogPosting">
-      <header>
-        <h2 itemprop="name headline">
-          <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-        <time datetime="{{ page.date | date_to_xmlschema }}" class="text-secondary">
-          {{ post.date | date: site.date_format }}
-        </time>
-      </header>
+{%- for post in site.posts -%}
+<article itemscope itemtype="http://schema.org/BlogPosting">
+  <header>
+    <h2 itemprop="name headline">
+      <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+    </h2>
+    <time datetime="{{ page.date | date_to_xmlschema }}" class="text-secondary">
+      {{ post.date | date: site.date_format }}
+    </time>
+  </header>
 
-      <div itemprop="articleBody">
-        {{ post.content }}
-      </div>
-    </article>
-    {%- endfor -%}
+  <div itemprop="articleBody">
+    {{ post.content }}
   </div>
-</main>
+</article>
+{%- endfor -%}
