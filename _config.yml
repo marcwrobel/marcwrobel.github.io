@@ -20,6 +20,10 @@ timezone: Europe/Paris
 date_format: "%b %-d, %Y"
 permalink: /:categories/:title
 
+sass:
+  sass_dir: _sass
+  style: compressed
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -32,4 +36,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
+  - node_modules
+  - package.json
+  - package-lock.json
   - README.md
+  - src
+  - webpack.config.js

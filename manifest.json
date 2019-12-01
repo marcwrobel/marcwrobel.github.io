@@ -7,12 +7,12 @@
   "name": "{{ site.title }}",
   "icons": [
     {
-      "src": "{{ '/images/icon-192.png' | relative_url }}",
+      "src": "{{ '/assets/icon-192.png' | relative_url }}",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "{{ '/images/icon-512.png' | relative_url }}",
+      "src": "{{ '/assets/icon-512.png' | relative_url }}",
       "type": "image/png",
       "sizes": "512x512"
     }

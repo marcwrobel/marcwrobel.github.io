@@ -7,3 +7,6 @@ vendor
 
 # Intellij IDEA
 .idea/
+
+# NPM
+node_modules
