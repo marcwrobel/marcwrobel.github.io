@@ -8,7 +8,9 @@ layout: default
     <div class="col-sm-12 col-lg-10 col-xl-8 py-3 mx-auto">
       <article itemscope itemtype="http://schema.org/BlogPosting" class="text-justify">
         <header>
-          <h1 itemprop="name headline">{{ page.title | escape }}</h1>
+          <a href="{{ page.link }}" title="{{ page.title | escape }}">
+            <h1 itemprop="name headline">{{ page.title | escape }}</h1>
+          </a>
           <p class="text-secondary small">
             {% assign category = page.categories[0] %}
             {%- include category-icon.html -%}
@@ -25,6 +27,11 @@ layout: default
 
         <div itemprop="articleBody">
           {{ content }}
+        </div>
+        <div>
+          <a href="{{ page.link }}" title="{{ page.title | escape }}">
+            Ouvrir le lien <span class="fas fa-external-link-alt"></span>
+          </a>
         </div>
       </article>
     </div>

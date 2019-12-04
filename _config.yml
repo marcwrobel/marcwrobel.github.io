@@ -12,12 +12,29 @@ author:
   email: marc.wrobel@gmail.com
   uri: https://www.marcwrobel.fr
 
+links:
+  - title: Github
+    url: https://github.com/marcwrobel
+    icon: fab fa-github
+  - title: LinkedIn
+    url: http://www.linkedin.com/in/marcwrobelfr
+    icon: fab fa-linkedin
+  - title: Stack Overflow
+    url: https://stackoverflow.com/cv/marcwrobel
+    icon: fab fa-stack-overflow
+  - title: Email
+    url: mailto:marc.wrobel@gmail.com
+    icon: fas fa-at
+  - title: RSS
+    url: /feed.xml
+    icon: fas fa-rss
+
 google_analytics: UA-31088911-1
 
 # Build settings
 encoding: utf-8
 timezone: Europe/Paris
-date_format: "%b %-d, %Y"
+date_format: "%d/%m/%Y"
 permalink: /:categories/:title
 
 sass:
