@@ -13,20 +13,35 @@ author:
   uri: https://www.marcwrobel.fr
 
 links:
+  - title: Accueil
+    url: /
+    display: menu
+    order: 0
+    icon: fas fa-home
   - title: Github
     url: https://github.com/marcwrobel
+    display: home
+    order: 10
     icon: fab fa-github
   - title: LinkedIn
     url: http://www.linkedin.com/in/marcwrobelfr
+    display: home
+    order: 20
     icon: fab fa-linkedin
   - title: Stack Overflow
     url: https://stackoverflow.com/cv/marcwrobel
+    display: home
+    order: 30
     icon: fab fa-stack-overflow
   - title: Email
     url: mailto:marc.wrobel@gmail.com
+    display: everywhere
+    order: 40
     icon: fas fa-at
   - title: RSS
     url: /feed.xml
+    display: everywhere
+    order: 50
     icon: fas fa-rss
 
 google_analytics: UA-31088911-1

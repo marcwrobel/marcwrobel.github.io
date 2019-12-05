@@ -1,10 +1,10 @@
 <header>
   <nav class="navbar navbar-expand-lg">
     <div class="d-flex flex-wrap mx-auto">
-      <a class="nav-item nav-link" title="Accueil" href="{{ '/' | relative_url }}">
-        <span class="fas fa-home"></span>
-      </a>
-      {%- for link in site.links -%}
+      {% assign menu = site.links | where: "display", "menu" %}
+      {% assign everywhere = site.links | where: "display", "everywhere" %}
+      {% assign links = menu | concat: everywhere | sort: "order" %}
+      {%- for link in links -%}
       <a class="nav-item nav-link" title="{{ link.title }}" href="{{ link.url }}">
         <span class="{{ link.icon }}"></span>
       </a>

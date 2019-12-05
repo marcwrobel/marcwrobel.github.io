@@ -18,7 +18,10 @@ layout: default
           </div>
 
           <ul class="nav justify-content-center">
-            {%- for link in site.links -%}
+            {% assign home = site.links | where: "display", "home" %}
+            {% assign everywhere = site.links | where: "display", "everywhere" %}
+            {% assign links = home | concat: everywhere | sort: "order" %}
+            {%- for link in links -%}
             <li class="nav-item" title="{{ link.title }}">
               <a class="nav-link" href="{{ link.url }}">
                 <span class="{{ link.icon }} fa-2x"></span>
