@@ -5,8 +5,11 @@ Sources du site Web [www.marcwrobel.fr](http://www.marcwrobel.fr/).
 Le site Web [www.marcwrobel.fr](http://www.marcwrobel.fr/) utilise le générateur de site statique
 [Jekyll](https://jekyllrb.com) et est hébergé sur [GitHub Pages](https://pages.github.com/).
 
-Les ressources et outils suivants sont ou ont aussi été utilisés :
+Les outils suivants sont ou ont aussi été utilisés :
 * [Bootstrap](https://getbootstrap.com/),
+* [Font Awesome](https://fontawesome.com/),
+* [npm](https://www.npmjs.com/),
+* [webpack](https://webpack.js.org/),
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/),
 * [favicon.io](https://favicon.io/favicon-generator/?t=MW&ff=Geo&fs=70&fc=%23FFFFFF&b=circle&bc=%23000),
 * [Google Analytics](https://analytics.google.com),
