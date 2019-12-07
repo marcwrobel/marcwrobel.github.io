@@ -6,30 +6,21 @@ layout: default
   <main role="main" class="container">
     <div class="row">
       <div class="col-sm-6 py-3">
-        <div>
-          <div class="d-flex justify-content-center">
-            <a class="py-3" href="{{ '/' | relative_url }}">
-              <img src="{{ '/assets/icon-192.png' | relative_url }}">
-            </a>
-          </div>
-
-          <div class="text-center">
-            {{ content }}
-          </div>
-
-          <ul class="nav justify-content-center">
-            {% assign home = site.links | where: "display", "home" %}
-            {% assign everywhere = site.links | where: "display", "everywhere" %}
-            {% assign links = home | concat: everywhere | sort: "order" %}
-            {%- for link in links -%}
-            <li class="nav-item" title="{{ link.title }}">
-              <a class="nav-link" href="{{ link.url }}">
-                <span class="{{ link.icon }} fa-2x"></span>
-              </a>
-            </li>
-            {%- endfor -%}
-          </ul>
+        <div class="d-flex justify-content-center">
+          <a class="py-3" href="{{ '/' | relative_url }}">
+            <img src="{{ '/assets/icon-192.png' | relative_url }}">
+          </a>
         </div>
+
+        <div class="text-center">
+          {{ content }}
+        </div>
+
+        {%- assign home = site.links | where: "display", "home" -%}
+        {%- assign everywhere = site.links | where: "display", "everywhere" -%}
+        {%- assign links = home | concat: everywhere | sort: "order" -%}
+        {%- assign icon_size = "2" -%}
+        {% include navigation.html %}
       </div>
 
       <div class="col-sm-6 py-3 mx-auto">
@@ -39,7 +30,7 @@ layout: default
             <a class="text-decoration-none" href="{{ post.url | relative_url }}">
               <div class="d-flex flex-row">
                 <div class="p-2 py-4">
-                  {% assign category = post.categories[0] %}
+                  {%- assign category = post.category -%}
                   {%- include category-icon.html -%}
                 </div>
 
@@ -55,6 +46,7 @@ layout: default
             </a>
           </li>
           {%- endfor -%}
+        </ul>
       </div>
     </div>
   </main>

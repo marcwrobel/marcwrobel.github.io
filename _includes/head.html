@@ -1,12 +1,14 @@
 <head>
-  <meta charset="{{ site.encoding }}">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="{{ site.encoding }}">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% seo %}
 
-  {%- seo -%}
+{%- for s in site.stylesheets %}
+<link href="{{ s.url }}" rel="stylesheet" integrity="{{ s.integrity }}" crossorigin="anonymous">
+{%- endfor %}
+<link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
 
-  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-  <link rel="manifest" href="{{ '/manifest.json' | relative_url }}">
-  <link rel="apple-touch-icon" href="{{ '/assets/icon-192.png' | relative_url }}">
-
-  {%- feed_meta -%}
+<link rel="manifest" href="{{ '/manifest.json' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/assets/icon-192.png' | relative_url }}">
+{% feed_meta %}
 </head>

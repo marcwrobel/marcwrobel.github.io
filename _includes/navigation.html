@@ -1,0 +1,7 @@
+<nav class="nav d-flex flex-wrap mx-auto justify-content-center">
+  {%- for link in links %}
+  <a class="nav-item nav-link" aria-label="{{ link.title }}" href="{{ link.url }}">
+    <span class="fa fa-{{ link.icon }} fa-{{ icon_size }}x" aria-hidden="true" title="{{ link.title }}"></span>
+  </a>
+  {%- endfor  %}
+</nav>

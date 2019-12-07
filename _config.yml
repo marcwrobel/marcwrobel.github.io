@@ -12,37 +12,43 @@ author:
   email: marc.wrobel@gmail.com
   uri: https://www.marcwrobel.fr
 
+category_icons:
+  - title: notes
+    icon: pencil
+  - title: liens
+    icon: link
+
 links:
   - title: Accueil
     url: /
     display: menu
     order: 0
-    icon: fas fa-home
+    icon: home
   - title: Github
     url: https://github.com/marcwrobel
     display: home
     order: 10
-    icon: fab fa-github
+    icon: github
   - title: LinkedIn
     url: http://www.linkedin.com/in/marcwrobelfr
     display: home
     order: 20
-    icon: fab fa-linkedin
+    icon: linkedin
   - title: Stack Overflow
     url: https://stackoverflow.com/cv/marcwrobel
     display: home
     order: 30
-    icon: fab fa-stack-overflow
+    icon: stack-overflow
   - title: Email
     url: mailto:marc.wrobel@gmail.com
     display: everywhere
     order: 40
-    icon: fas fa-at
+    icon: at
   - title: RSS
     url: /feed.xml
     display: everywhere
     order: 50
-    icon: fas fa-rss
+    icon: rss
 
 google_analytics: UA-31088911-1
 
@@ -52,9 +58,14 @@ timezone: Europe/Paris
 date_format: "%d/%m/%Y"
 permalink: /:categories/:title
 
-sass:
-  sass_dir: _sass
-  style: compressed
+stylesheets:
+  - name: Bootstrap
+    url: https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css
+    integrity: sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh
+  - name: Font Awesome
+    url: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+    integrity: sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN
+
 
 plugins:
   - jekyll-feed
@@ -68,9 +79,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - node_modules
-  - package.json
-  - package-lock.json
   - README.md
-  - src
-  - webpack.config.js

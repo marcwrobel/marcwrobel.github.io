@@ -8,9 +8,16 @@ layout: default
     <div class="col-sm-12 col-lg-10 col-xl-8 py-3 mx-auto">
       <article itemscope itemtype="http://schema.org/BlogPosting" class="text-justify">
         <header>
+          {%- if page.category == "liens" -%}
+          <a href="{{ page.link }}" title="{{ page.title | escape }}">
+            <h1 itemprop="name headline">{{ page.title | escape }}</h1>
+          </a>
+          {%- else -%}
           <h1 itemprop="name headline">{{ page.title | escape }}</h1>
+          {%- endif -%}
+
           <p class="text-secondary small">
-            {% assign category = page.categories[0] %}
+            {% assign category = page.category %}
             {%- include category-icon.html -%}
             •
             <time datetime="{{ page.date | date_to_xmlschema }}">
@@ -18,7 +25,7 @@ layout: default
             </time>
             •
             <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-              <span itemprop="name">{{ site.author.name | escape }}</span>
+              <span itemprop="name">{{ page.author | default: site.author.name | escape }}</span>
             </span>
           </p>
         </header>

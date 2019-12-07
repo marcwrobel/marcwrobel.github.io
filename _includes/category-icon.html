@@ -1,7 +1,2 @@
-{% if category == "notes" %}
-<span class="fas fa-pen-nib"></span>
-{% elsif category == "liens" %}
-<span class="fas fa-link"></span>
-{% else %}
-<span class="fas fa-book-open"></span>
-{% endif %}
+{% assign category_icon = site.category_icons | where: "title", category | first | map: "icon" | default: "question" %}
+<span class="fa fa-{{ category_icon }}" aria-hidden="true" title="Catégorie des {{ category }}"></span>
