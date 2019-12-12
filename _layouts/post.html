@@ -8,13 +8,7 @@ layout: default
     <div class="col-sm-12 col-lg-10 col-xl-8 py-3 mx-auto">
       <article itemscope itemtype="http://schema.org/BlogPosting" class="text-justify">
         <header>
-          {%- if page.category == "liens" -%}
-          <a href="{{ page.link }}" title="{{ page.title | escape }}">
-            <h1 itemprop="name headline">{{ page.title | escape }}</h1>
-          </a>
-          {%- else -%}
           <h1 itemprop="name headline">{{ page.title | escape }}</h1>
-          {%- endif -%}
 
           <p class="text-secondary small">
             {% assign category = page.category %}

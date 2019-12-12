@@ -15,8 +15,8 @@ author:
 category_icons:
   - title: notes
     icon: pencil
-  - title: liens
-    icon: link
+  - title: java
+    icon: coffee
 
 links:
   - title: Accueil
@@ -56,7 +56,7 @@ google_analytics: UA-31088911-1
 encoding: utf-8
 timezone: Europe/Paris
 date_format: "%d/%m/%Y"
-permalink: /:categories/:title
+permalink: /:title
 
 stylesheets:
   - name: Bootstrap
