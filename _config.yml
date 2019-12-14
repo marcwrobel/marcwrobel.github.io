@@ -60,6 +60,9 @@ timezone: Europe/Paris
 date_format: "%d/%m/%Y"
 permalink: /:title
 
+sass:
+  style: compressed
+
 stylesheets:
   - name: Bootstrap
     url: https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css
