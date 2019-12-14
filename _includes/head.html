@@ -3,9 +3,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {% seo %}
 
-{%- for s in site.stylesheets %}
-<link href="{{ s.url }}" rel="stylesheet" integrity="{{ s.integrity }}" crossorigin="anonymous">
-{%- endfor %}
 <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
 
 <link rel="manifest" href="{{ '/manifest.json' | relative_url }}">
