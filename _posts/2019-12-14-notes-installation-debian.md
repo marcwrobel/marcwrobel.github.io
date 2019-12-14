@@ -5,7 +5,7 @@ category: linux
 tags: linux debian
 ---
 
-Quelques notes sur l'installation d'une Debian 10 "Buster".
+Quelques notes sur l'installation d'une Debian 10 "Buster" (sur un ordinateur personnel).
 
 ## Lancement de l'installation
 Tout d'abord télécharger l'image _netinst_ amd64 de Debian [sur le site de debian](https://www.debian.org/distrib/netinst).
@@ -29,7 +29,7 @@ Utiliser la configuration suivante quand c'est nécessaire :
 * Timezone = Europe/Paris
 * Locale = en_US.UTF-8
 * Keyboard keymap = French
-* Hostname : <whatever>
+* Hostname : xxx
 * DomainName : marcwrobel.fr
 * username : mwrobel
 * Create a normal user account : YES
@@ -55,12 +55,12 @@ Une fois cela fait utilisez un schéma de partitionnement similaire à :
 | docker         | 10 Go                                       | ext4              | /var/lib/docker     |
 | postgresql     | 10 Go                                       | ext4              | /var/lib/postgresql |
 | tmp            | 2 Go                                        | ext4              | /tmp                |
-| swap           | X Go                                        | swap              |                     |
 
 Quelques informations complémentaires :
-* X = quantité de mémoire disponible.
-* les options de montage par défaut suffisent (elles contiennent l'option `relatime` - cf. 
-  https://unix.stackexchange.com/questions/371812/difference-between-nointegrity-noatime-relatime)
-* L'installation de grub ne doit pas se faire sur le MBR. Si le MBR venait à être vidé sans aucun
-  avertissement (au hasard, suite à une installation de ouinouin...), cela permettra de récupérer
-  un linux bootable en réactivant la bonne partition.
+* Pour la swap utiliser un fichier plutôt qu'une partition. Pour plus d'informations, consulter [la
+  dédiée sur le Wiki Debian](https://wiki.debian.org/Swap).
+* Les options de montage par défaut suffisent car elles contiennent l'option `relatime` - cf. [cette
+  question sur Stack Exchange](https://unix.stackexchange.com/questions/17844/when-was-relatime-made-the-default).
+* L'installation de grub ne doit pas se faire sur le [MBR](https://wikipedia.org/wiki/Master_boot_record).
+  Si le MBR venait à être vidé sans aucun avertissement (au hasard, suite à une installation de
+  Windows...), cela permettra de récupérer un Linux bootable en réactivant la bonne partition.
