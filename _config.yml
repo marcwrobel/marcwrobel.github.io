@@ -17,6 +17,8 @@ category_icons:
     icon: pencil
   - title: java
     icon: coffee
+  - title: linux
+    icon: linux
 
 links:
   - title: Accueil
