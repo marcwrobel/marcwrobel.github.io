@@ -38,7 +38,7 @@ Quelques dates clés concernant le JDK :
 * Septembre 2019 : [Sortie de Java SE 13](https://openjdk.java.net/projects/jdk/13/).
 * Mars 2020 : [Sortie de Java SE 14](https://openjdk.java.net/projects/jdk/14/).
 
-Pour plus d'information sur l'historique du Java vous pouvez consulter l'article [Java version
+Pour plus d'information sur l'historique de Java vous pouvez consulter l'article [Java version
 history](https://wikipedia.org/wiki/Java_version_history).
 
 Pour plus d'information sur Oracle JDK vs OpenJDK, ainsi que sur les différents builds et
