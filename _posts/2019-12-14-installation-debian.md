@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes d'installation de Debian
+title: Installation de Debian
 category: linux
 tags: linux debian
 ---
