@@ -19,6 +19,8 @@ category_icons:
     icon: coffee
   - title: linux
     icon: linux
+  - title: tools
+    icon: wrench
 
 links:
   - title: Accueil
