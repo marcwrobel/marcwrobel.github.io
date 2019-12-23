@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Installation de Debian
-category: linux
-tags: linux debian
+category: administration
+tags: administration linux debian
 ---
 
 Quelques notes sur l'installation d'une Debian 10 "Buster" (sur un ordinateur personnel).

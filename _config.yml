@@ -15,10 +15,10 @@ author:
 category_icons:
   - title: notes
     icon: pencil
-  - title: java
-    icon: coffee
-  - title: linux
-    icon: linux
+  - title: développement
+    icon: code
+  - title: administration
+    icon: server
   - title: tools
     icon: wrench
 
