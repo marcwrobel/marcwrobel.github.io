@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Maven
-category: java
-tags: java maven
+category: développement
+tags: développement java maven
 ---
 
 ## Configuration projet

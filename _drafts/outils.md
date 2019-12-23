@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Outils
-category: outils
-tags: outil
+category: développement
+tags: développement outil
 ---
 
 ## Outils

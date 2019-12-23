@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Livres
-category: dev
-tags: dev livre
+category: développement
+tags: développement livre
 ---
 
 ## Liens

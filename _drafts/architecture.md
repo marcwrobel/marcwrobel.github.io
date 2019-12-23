@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Architecture
-category: dev
-tags: dev architecture
+category: développement
+tags: développement architecture
 ---
 
 ## Liens
