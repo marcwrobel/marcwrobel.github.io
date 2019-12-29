@@ -49,7 +49,7 @@ Une fois cela fait utilisez un schéma de partitionnement similaire à :
 | opt            | 10 Go           | ext4              | /opt                |
 | docker         | 10 Go           | ext4              | /var/lib/docker     |
 | postgresql     | 10 Go           | ext4              | /var/lib/postgresql |
-| srv            | 1 Go            | ext4              | /tmp                |
+| srv            | 1 Go            | ext4              | /srv                |
 | tmp            | 5 Go            | ext4              | /tmp                |
 
 Les options de montage par défaut suffisent car elles contiennent l'option `relatime` [depuis
