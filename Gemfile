@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-gem 'github-pages'
+gem 'github-pages', group: :jekyll_plugins
 
 # Uniquement pour être au courant des mises à jour.
 gem 'bootstrap', '~> 4.4.0'

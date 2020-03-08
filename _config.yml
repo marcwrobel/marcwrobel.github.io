@@ -62,6 +62,10 @@ timezone: Europe/Paris
 date_format: "%d/%m/%Y"
 permalink: /:title
 
+paginate: 5
+paginate_path: ":num"
+future: true
+
 sass:
   style: compressed
 

@@ -24,29 +24,7 @@ layout: default
       </div>
 
       <div class="col-sm-6 py-3 mx-auto">
-        <ul class="nav flex-column">
-          {%- for post in site.posts limit: 5 -%}
-          <li class="nav-item">
-            <a class="text-decoration-none" href="{{ post.url | relative_url }}">
-              <div class="d-flex flex-row">
-                <div class="py-4">
-                  {%- assign category = post.category -%}
-                  {%- include category-icon.html -%}
-                </div>
-
-                <div class="p-2">
-                  <div class="text-primary h3">
-                    {{ post.title | escape }}
-                  </div>
-                  <div class="text-secondary small">
-                    {{ post.date | date: site.date_format }}
-                  </div>
-                </div>
-              </div>
-            </a>
-          </li>
-          {%- endfor -%}
-        </ul>
+        {% include posts-list.html %}
       </div>
     </div>
   </main>
