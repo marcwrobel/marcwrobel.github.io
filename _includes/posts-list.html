@@ -1,7 +1,7 @@
 {%- assign next_class = "disabled" -%}
 {%- if paginator.next_page -%}{%- assign next_class = "" -%}{% endif %}
-{%- assign previous_class = "disabled" -%}
-{%- if paginator.previous_page -%}{%- assign previous_class = "" -%}{% endif %}
+{%- assign prev_class = "disabled" -%}
+{%- if paginator.previous_page -%}{%- assign prev_class = "" -%}{% endif %}
 
 <ul class="nav flex-column">
   <main class="all-posts">
@@ -31,13 +31,20 @@
 
 <ul class="nav nav-pills">
   <li class="nav-item">
-    <a href="{{ paginator.next_page_path }}" class="nav-link {{ next_class }}">
-      &laquo;&nbsp;Articles précédents
+    <a href="{{ paginator.next_page_path | relative_url }}" class="nav-link {{ next_class }}"
+       title="Articles précédents">
+      &laquo;&nbsp;Précédents
     </a>
   </li>
   <li class="nav-item">
-    <a href="{{ paginator.previous_page_path }}" class="nav-link {{ previous_class }}">
-      Articles suivants&nbsp;&raquo;
+    <a href="{{ '/search.html' | relative_url }}" class="nav-link" title="Recherche">
+      <span class="fa fa-search" aria-hidden="true" title="Recherche"></span>
+    </a>
+  </li>
+  <li class="nav-item">
+    <a href="{{ paginator.previous_page_path | relative_url }}" class="nav-link {{ prev_class }}"
+       title="Articles suivants">
+      Suivants&nbsp;&raquo;
     </a>
   </li>
 </ul>

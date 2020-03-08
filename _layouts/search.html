@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+{%- include header.html -%}
+<main role="main" class="container">
+  <div id="search-container" class="input-group mb-6">
+    <div class="input-group-prepend">
+      <div class="input-group-text">
+        <span class="fa fa-search form-control-feedback"></span>
+      </div>
+    </div>
+    <input id="search-input" class="form-control form-control-lg form-control-borderless"
+           type="text" placeholder="Rechercher..." aria-label="Rechercher">
+  </div>
+
+  <ul id="results-container" class="nav flex-column"></ul>
+</main>
+
+<script src="{{ '/assets/search.js' | relative_url }}" type="text/javascript"></script>
+<script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    searchResultTemplate: `<li class="nav-item p-2">
+      <a class="text-decoration-none" href="{url}">
+      <div class="text-primary h3">{title}</div>
+      </a>
+      <div class="text-secondary small">{date} • {category} • {tags}</div>
+      <div>{excerpt}</div>
+    </li>
+    `,
+    noResultsText: 'Aucun résultat',
+    json: '/search.json'
+  });
+  document.getElementById('search-input').focus();
+</script>

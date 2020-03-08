@@ -9,6 +9,8 @@ Le site Web [www.marcwrobel.fr](http://www.marcwrobel.fr/) utilise le générate
 * [Bootstrap](https://getbootstrap.com/) pour la mise en forme,
 * [Font Awesome 4](https://fontawesome.com/v4.7.0/icons/) pour les icônes (la version 5 étant
   beaucoup moins pratique à utiliser dans le cadre de ce site web, on reste sur la 4),
+* [Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search) pour la
+  fonctionnalité de recherche,
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) pour le développement du site et la rédaction du
   contenu,
 * [favicon.io](https://favicon.io/favicon-generator/?t=MW&ff=Geo&fs=70&fc=%23FFFFFF&b=circle&bc=%23000)
