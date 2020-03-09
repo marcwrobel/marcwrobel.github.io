@@ -4,14 +4,16 @@ layout: default
 
 {%- include header.html -%}
 <main role="main" class="container">
-  <div id="search-container" class="input-group mb-6">
-    <div class="input-group-prepend">
-      <div class="input-group-text">
-        <span class="fa fa-search form-control-feedback"></span>
+  <div class="form-group row">
+    <div class="input-group mt-3 mb-3">
+      <div class="input-group-prepend">
+        <div class="input-group-text">
+          <span class="fa fa-search form-control-feedback"></span>
+        </div>
       </div>
+      <input id="search-input" class="form-control form-control-lg form-control-borderless"
+             type="text" placeholder="Rechercher..." aria-label="Rechercher">
     </div>
-    <input id="search-input" class="form-control form-control-lg form-control-borderless"
-           type="text" placeholder="Rechercher..." aria-label="Rechercher">
   </div>
 
   <ul id="results-container" class="nav flex-column"></ul>
