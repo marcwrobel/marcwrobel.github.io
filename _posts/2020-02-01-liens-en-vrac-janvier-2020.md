@@ -48,6 +48,8 @@ tags: tls hpkp cybersécurité postgresql email tdd http api windows semver calv
 * [Problem Details for HTTP APIs](https://tools.ietf.org/html/rfc7807)
   – il y a vraiment des RFC pour tout !
 
+That's all folks !
+
 *[API]: Application Programming Interface
 *[CD]: Continuous Delivery
 *[CI]: Continuous Integration

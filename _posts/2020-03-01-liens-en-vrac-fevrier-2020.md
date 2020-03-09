@@ -59,6 +59,8 @@ tags: tomcat sécurité lets-encrypt typescript firefox microsoft gitlab groovy 
     de mots de passe. L'[épisode NoLimitSecu#244]((https://www.nolimitsecu.fr/passbolt/)), consacré
     à [passbolt](https://www.passbolt.com/), est lui aussi très intéressant.
 
+That's all folks !
+
 *[BGP]: Border Gateway Protocol
 *[CWE]: Common Weakness Enumeration
 *[KISS]: Keep It Simple, Stupid
