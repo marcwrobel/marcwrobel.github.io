@@ -15,3 +15,5 @@
 * [10 Excellent Ways to Secure Your Spring Boot Application ](https://developer.okta.com/blog/2018/07/30/10-ways-to-secure-spring-boot)
 * [Keep Your Data Secure With Mozilla's Newest Tools](https://lifehacker.com/keep-your-data-secure-with-mozillas-newest-tools-1829304577)
 * [Don’t use docker to run your app in development](https://max.engineer/docker-in-dev)
+* https://www.jeffgeerling.com/blog/2018/testing-your-ansible-roles-molecule
+* https://www.youtube.com/watch?v=Aa6yeVHs2fI&feature=youtu.be
