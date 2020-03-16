@@ -1,0 +1,35 @@
+---
+layout: post
+title: Liens en vrac - Octobre 2019
+category: notes
+tags: node ssh rsync regex spring-boot nftables hash mot-de-passe postgresql 
+---
+
+## News
+* [Node.js 12 to LTS and Node.js 13 is here!](https://medium.com/@nodejs/node-js-12-to-lts-and-node-js-13-is-here-e28d6a4a2bd)
+  – et Node.js 8 EOL en décembre.
+* [Spring Boot 2.2.0](https://spring.io/blog/2019/10/16/spring-boot-2-2-0)
+  – amélioration des performances, support de Java 13, immutable `@ConfigurationProperties`,
+    `spring-boot-starter-rsocket`, Health indicator groups...
+* [What to expect in Debian 11 Bullseye for nftables/iptables](https://ral-arturo.org/2019/10/14/debian-netfilter.html)
+  – il est temps de migrer vers `nftables` / `firewalld`. 
+* [PostgreSQL 12 Released!](https://www.postgresql.org/about/news/1976/)
+  – améliorations de performance, support des generated columns, `REINDEX CONCURRENTLY`...
+* [Lancement de la Suite Elastic 7.4.0](https://www.elastic.co/fr/blog/elastic-stack-7-4-0-released)
+  – Snapshot lifecycle management, Elastic Maps et Elastic SIEM, machine learning...
+
+## Articles
+* [Comment conserver les mots de passe de ses utilisateurs en 2019 ?](https://blog.octo.com/comment-conserver-les-mots-de-passe-de-ses-utilisateurs-en-2019/)
+  – un bon résumé au goût du jour.
+
+## Découvertes
+* [Using rsync with sudo on the destination machine](https://askubuntu.com/questions/719439/using-rsync-with-sudo-on-the-destination-machine)
+  – bon à savoir.
+* [regex101 - Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)
+  – un outil très pratique pour tester ses expressions régulières.
+
+That's all folks !
+
+*[EOL]: End-Of-Life
+*[regex]: regular expression
+*[SIEM]: Security Information Management System
