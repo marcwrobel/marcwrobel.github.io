@@ -50,6 +50,8 @@ tags: tomcat sécurité lets-encrypt typescript firefox microsoft gitlab groovy 
   – concis et digeste.
 * [Comprendre WebAssembly en 5 minutes](https://www.jesuisundev.com/comprendre-webassembly-en-5-minutes/)
   – c'est gagné !
+* [Mise en perspective des impacts écologiques du numérique - la suite](https://www.raphael-lemaire.com/2020/02/02/mise-en-perspective-suite/)
+  – toujours aussi intéressant !
 
 ## Découvertes
 * [Overview of OpenJDK distributions](https://rafael.codes/openjdk/)

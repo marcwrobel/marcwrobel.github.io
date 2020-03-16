@@ -26,6 +26,8 @@ tags: bootstrap graphql solid ansible web architecture github typescript quarkus
   – quelques moyens mnémotechniques pour se rappeler les bons principes de développement.
 * [Introduction aux Ansible Content Collections](https://blog.octo.com/introduction-aux-ansible-content-collections/)
   – un des meilleurs articles que j'ai pu voir sur le sujet.
+* [Mise en perspective des impacts écologiques du numérique](https://www.raphael-lemaire.com/2019/11/02/mise-en-perspective-impacts-numerique/)
+  – intéressant !
 
 ## Découvertes
 * [A Checklist for setting up a Java-based Software Architecture](https://reflectoring.io/checklist-architecture-setup/)
