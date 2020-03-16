@@ -17,3 +17,4 @@
 * [Don’t use docker to run your app in development](https://max.engineer/docker-in-dev)
 * https://www.jeffgeerling.com/blog/2018/testing-your-ansible-roles-molecule
 * https://www.youtube.com/watch?v=Aa6yeVHs2fI&feature=youtu.be
+* https://www.sensedeep.com/blog/posts/stories/web-developer-security-checklist.html
