@@ -36,6 +36,8 @@ tags: tomcat sécurité lets-encrypt typescript firefox microsoft gitlab groovy 
     encore.
 * [Version 9 of Angular Now Available — Project Ivy has arrived!](https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3)
   – le pipeline de compilation et de rendu _Ivy_ est désormais activé par défaut.
+* [OpenSSH 8.2 Released With FIDO/U2F Support](https://www.phoronix.com/scan.php?page=news_item&px=OpenSSH-8.2-Released)
+  – support FIDO/U2F, dépréciation de ssh-rsa, support de `Include`.
 
 ## Articles
 * [Where is this coming from?](https://techblog.bozho.net/where-is-this-coming-from/)
