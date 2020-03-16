@@ -2,7 +2,7 @@
 layout: post
 title: Liens en vrac - Septembre 2019
 category: notes
-tags: spring sepa sdd sct centos postgresql anonymisation java jdk spa
+tags: spring sepa sdd sct centos postgresql anonymisation java jdk spa oracle sécurité
 ---
 
 ## News
