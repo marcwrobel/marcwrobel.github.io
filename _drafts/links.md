@@ -18,3 +18,6 @@
 * https://www.jeffgeerling.com/blog/2018/testing-your-ansible-roles-molecule
 * https://www.youtube.com/watch?v=Aa6yeVHs2fI&feature=youtu.be
 * https://www.sensedeep.com/blog/posts/stories/web-developer-security-checklist.html
+* https://blog.eleven-labs.com/fr/gestion-des-traductions-avec-localise.biz/
+* https://tech.olx.com/plantuml-diagrams-as-code-93773b394cd9
+* https://blog.octo.com/concevoir-une-api-rest-conforme-au-rgpd/
