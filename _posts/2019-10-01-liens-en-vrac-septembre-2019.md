@@ -2,7 +2,7 @@
 layout: post
 title: Liens en vrac - Septembre 2019
 category: notes
-tags: spring sepa sdd sct centos postgresql anonymisation java jdk spa oracle sécurité
+tags: spring sepa sdd sct centos postgresql anonymisation java jdk spa oracle sécurité spa authentification
 ---
 
 ## News
@@ -31,6 +31,8 @@ tags: spring sepa sdd sct centos postgresql anonymisation java jdk spa oracle s�
   – un vieil article qui reste encore en grande partie vrai.
 * [Once Upon an Oak ...](https://www.javaspecialists.eu/archive/Issue055.html)
   – encore un vieil article qui revient sur certaines bizarreries de Java et leur origine.
+* [Authentication in SPA (ReactJS and VueJS) the right way - Part 1](https://jcbaey.com/authentication-in-spa-reactjs-and-vuejs-the-right-way)
+  – super article sur le stockage des jetons d'authentification dans une SPA.
 
 ## Découvertes
 * [PostgreSQL Anonymizer](https://gitlab.com/dalibo/postgresql_anonymizer)
@@ -48,4 +50,5 @@ That's all folks !
 *[SCT]: SEPA Credit Transfer
 *[SDD]: SEPA Direct Debit
 *[SEPA]: Single Euro Payments Area
+*[SPA]: Single-Page Application
 *[ZGC]: Z Garbage Collector

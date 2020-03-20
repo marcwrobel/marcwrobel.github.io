@@ -2,7 +2,7 @@
 layout: post
 title: Liens en vrac - Octobre 2019
 category: notes
-tags: node ssh rsync regex spring-boot nftables hash mot-de-passe postgresql 
+tags: node ssh rsync regex spring-boot nftables hash mot-de-passe postgresql sécurité spa idp oauth oidc
 ---
 
 ## News
@@ -16,11 +16,15 @@ tags: node ssh rsync regex spring-boot nftables hash mot-de-passe postgresql
 * [PostgreSQL 12 Released!](https://www.postgresql.org/about/news/1976/)
   – améliorations de performance, support des generated columns, `REINDEX CONCURRENTLY`...
 * [Lancement de la Suite Elastic 7.4.0](https://www.elastic.co/fr/blog/elastic-stack-7-4-0-released)
-  – Snapshot lifecycle management, Elastic Maps et Elastic SIEM, machine learning...
+  – snapshot lifecycle management, Elastic Maps et Elastic SIEM, machine learning...
+* [Ansible 2.9.0 has been released](https://www.reddit.com/r/ansible/comments/dpskzg/ansible_290_has_been_released/)
+  – amélioration du support des Ansible Collections et, comme d'habitude, beaucoup d'autres choses.
 
 ## Articles
 * [Comment conserver les mots de passe de ses utilisateurs en 2019 ?](https://blog.octo.com/comment-conserver-les-mots-de-passe-de-ses-utilisateurs-en-2019/)
   – un bon résumé au goût du jour.
+* [Authentication in SPA (ReactJS and VueJS) the right way - Part 2](https://jcbaey.com/oauth2-oidc-best-practices-in-spa)
+  – super article sur l'utilisation d'un fournisseur d'identité (IdP) dans une SPA.
 
 ## Découvertes
 * [Using rsync with sudo on the destination machine](https://askubuntu.com/questions/719439/using-rsync-with-sudo-on-the-destination-machine)
@@ -31,5 +35,7 @@ tags: node ssh rsync regex spring-boot nftables hash mot-de-passe postgresql
 That's all folks !
 
 *[EOL]: End-Of-Life
+*[IdP]: Identity Provider
 *[regex]: regular expression
 *[SIEM]: Security Information Management System
+*[SPA]: Single-Page Application
