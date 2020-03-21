@@ -61,5 +61,6 @@ That's all folks !
 *[LTS]: Long Term Support
 *[REST]: REpresentational State Transfer
 *[SIEM]: Security Information Management System
+*[tl;dr]: too long; didn't read
 *[UML]: Unified Modeling Language
 *[WWW]: World Wide Web
