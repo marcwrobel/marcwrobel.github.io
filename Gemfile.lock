@@ -22,7 +22,7 @@ GEM
       zeitwerk (~> 2.2, >= 2.2.2)
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
-    autoprefixer-rails (9.7.6)
+    autoprefixer-rails (9.8.5)
       execjs
     bootstrap (4.4.1)
       autoprefixer-rails (>= 9.1.0)
@@ -232,7 +232,7 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.14.1)
     multipart-post (2.1.1)
-    nokogiri (1.10.9)
+    nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     octokit (4.18.0)
       faraday (>= 0.9)
@@ -297,7 +297,7 @@ GEM
     tzinfo (1.2.7)
       thread_safe (~> 0.1)
     unicode-display_width (1.7.0)
-    zeitwerk (2.3.0)
+    zeitwerk (2.3.1)
 
 PLATFORMS
   ruby
