@@ -58,6 +58,11 @@ links:
     display: home
     order: 30
     icon: stack-overflow
+  - title: Keybase
+    url: https://keybase.io/marcwrobel
+    display: home
+    order: 35
+    icon: key
   - title: Email
     url: mailto:marc.wrobel@gmail.com
     display: everywhere
