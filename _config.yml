@@ -5,13 +5,22 @@ url: https://www.marcwrobel.fr
 title: Marc Wrobel
 short_title: MW
 description: Site personnel de Marc Wrobel.
-logo: /assets/icon-192.png
+logo: /assets/icon-192.png # Pour jekyll-seo-tag
 lang: fr
 
 author:
   name: Marc Wrobel
   email: marc.wrobel@gmail.com
   uri: https://www.marcwrobel.fr
+
+# Pour jekyll-seo-tag
+social:
+  name: Marc Wrobel
+  links:
+    - https://github.com/marcwrobel
+    - https://www.linkedin.com/in/marcwrobelfr
+    - https://stackoverflow.com/cv/marcwrobel
+    - https://keybase.io/marcwrobel
 
 category_icons:
   - title: notes
@@ -40,7 +49,7 @@ links:
     order: 10
     icon: github
   - title: LinkedIn
-    url: http://www.linkedin.com/in/marcwrobelfr
+    url: https://www.linkedin.com/in/marcwrobelfr
     display: home
     order: 20
     icon: linkedin
