@@ -80,6 +80,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+include:
+  - .htaccess
+  - .well-known
+
 exclude:
   - .idea
   - .jekyll-cache/

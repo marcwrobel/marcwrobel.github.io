@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/marcwrobel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.marcwrobel.fr
+  * I am marcwrobel (https://keybase.io/marcwrobel) on keybase.
+  * I have a public key with fingerprint 839B 8CC4 E36E F0A9 A213  E541 245A E1AE 88E7 5AD9
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101b3bbb2a2e2dddea06139cc1e26180826db1f618328d8645718ecd0e18ebc32100a",
+      "fingerprint": "839b8cc4e36ef0a9a213e541245ae1ae88e75ad9",
+      "host": "keybase.io",
+      "key_id": "245ae1ae88e75ad9",
+      "kid": "0101b3bbb2a2e2dddea06139cc1e26180826db1f618328d8645718ecd0e18ebc32100a",
+      "uid": "5cffefc79466ab176fd5113f319c7c19",
+      "username": "marcwrobel"
+    },
+    "service": {
+      "hostname": "www.marcwrobel.fr",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1604864039,
+  "expire_in": 157680000,
+  "prev": "eb03f60c07646ccb94b7c463222b474411e1039415c77f62ec633d8722f08ac2",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owJ4nK1SfVAUZRg/4KDpREk0ZmSoiUUw6Dz23d3b3TuBRqbMtDKnJAY/zt133z22
+g91j7/hOkxBDUorPRosIiAlJYbCUIRFlwBAZI7EZvxvpQofQ8RQZxBxqj9Hpn/7s
+/ed53+f9/X7P73nm+Wx+gM7gtzRttK30Ztolv6FxXmdrWb28EOMVIR+zFmIONBdQ
+hoBcbptDEjArhgMc8CTP8wRHIEIQBMThNCAtEAJE0IDFWYIWeCBqV5JgBZamzAxg
+ERRwpAUekgTAcQ4zYqIk25HqVCXZrcmypIVnIaQQSSMR5ywcAUhkpgBBmTkEOMSy
+iDFzgkUjpisuH0Mzx3MuZJIULac9bHP2/gP/P/vOnpMzQ1FEImQsFE1zPGBoUTAD
+QIoksEAGAl/dbBdSZS4TaehMToW5qsKjDGybEdPyORJEvtH6enmMyc3NNf2LM4mq
+JuFUFbcClQztO93tdrqsPro73zmHR7ztsZKNl2RBG6fGyEGqS1JkzAo0JHRLPmlA
+45TWD05ajBjKc0oqskk+hJmhWVw7vjooR5O0IR4nRRqHOENTNIS8heIZSNEkQRA8
+xVAUAAhoMhQwQ4YRaQJBmiQFliEIEWc5SGC+5rJkBbOSmk/Ormm6JLvMubNVhG0z
+7PYn9To/g+65sEh98Rd7+j2y90DjorGVT1Yw0N+3fzrD0888yWCNIY/mRddudV/6
+nI5Vbx92REZtv/5OWWN3lvNh8KHezPyW8biqo8PxyRmdO3KCRoLrvrr2rivujjX8
+lrSlqPD1yD4P+4DYNXnOs5Zv+XL7dGhGiWnP9YWfpnpmRvJay8ZLAzb25i6wo7O7
+4vM7KvVtsTPCQHNSa4rx/IKga4bTupHW1C2RnyyeGmrv+Dnkd9dk3Qrcksmjj5v0
+f/WfCgyva7048e3wDYd1X86Fm3eGllypCXH4L21aWetfElWR9AZfXTr/65pbAfij
+pPDZo/aYwIQzxh9iQnsK3tu3elHXUwmHfjneHj5IcOPlzLNr3zJUdst3uz/YOxnf
+2j+t7xr80CatUQ/LnZ6x/SctNaH9B5JtLVvjWjb4rXLkrajrx14DL1zxTngDFSVi
+uLxic2KBcuNyX8eS+rDe7+4W3/vz756Bq5HtTRPNPZ4BrK+g4vzG4F/XTyXWHqtq
+U4tmmyNS7Ozy5jc7LwwSaiJekvrwI8c3R16N0+0aOqOvejl5uP6n/ULa6LHZqGhD
+AD2dmnYw6rfy0j8ehN2eKUx/aehg16YQyS/WsOxsX1bSwmUN8ZdndhSDMXdZw3Hj
+uvbT1c9jobszo70X866eWlN+4kjQ6GIZ/nhivT+ob8iLbduw9773/lTRyVeqv1+1
++d4mz4vdKd22t3fGeOV5HtNAUceIad2591MmHDsjEsZYrPIfy+vSXg==
+=onz7
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/marcwrobel
+
+==================================================================
