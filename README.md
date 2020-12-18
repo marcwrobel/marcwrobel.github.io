@@ -47,19 +47,20 @@ bin/update-dependencies
 ```
 
 
-## Mise à jour des librairies tierces (CSS, JS)
-Bootstrap et Font Awesome ont été intégrées au code source du site en tant que _partial_ Sass pour
-minimiser le nombre de requêtes et faciliter l'utilisation de directives Sass avec Jekyll/Markdown
-(comme la directive `@extend` utilisée pour appliquer la mise en forme Bootstrap à l'ensemble des
-éléments `table`). Cette intégration ne vient malheureusement pas sans inconvénient, notamment en ce
-qui concerne la mise à jour de ces librairies.
+### Mise à jour de Bootstrap, Font Awesome et Simple-Jekyll-Search
 
-Pour mettre à jour Bootstrap télécharger la version _Compiled CSS and JS_ sur [getbootstrap.com](https://getbootstrap.com/)
-puis copiez `css/bootstrap.css` dans `_sass/_bootstrap.scss`.
+1. Allez sur [jsDelivr](https://www.jsdelivr.com/) à l'aide de l'un de ces liens :
+  - [bootstrap.min.css](https://www.jsdelivr.com/package/npm/bootstrap?path=dist%2Fcss),
+  - [font-awesome.css](https://www.jsdelivr.com/package/npm/font-awesome?path=css),
+  - [simple-jekyll-search.min.js](https://www.jsdelivr.com/package/npm/simple-jekyll-search))
+2. Sélectionner la version souhaitée.
+3. Ajoutez le fichier à mettre à jour à votre collection.
+4. Cliquer sur le bouton _SHOW & CONFIGURE ALL LINKS_.
+5. Cliquer sur le bouton _SRI_ (_Enable Subresource Integrity check for increased security_).
+6. Reportez les liens (`href`) et les hash (`integrity`) indiqués sur jsDelivr dans le fichier [_config.yml](/_config.yml) (propriété `dependencies`).
 
-Pour mettre à jour Font Awesome télécharger la librairie sur [fontawesome.com](https://fontawesome.com)
-puis copier `css/font-awesome.css` dans `_sass/_font-awesome.scss` et remplacer le répertoire
-`fonts` du projet par celui de la librairie.
+Contrairement à Jekyll il vous faudra malheureusement suivre les mises à jour vous-même (via par exemple le [blog de bootstrap](https://blog.getbootstrap.com/)
+ou [le dépôt du projet Simple-Jekyll-Search sur GitHub](https://github.com/christian-fei/Simple-Jekyll-Search)).
 
 
 # Documentation utile

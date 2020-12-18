@@ -2,15 +2,9 @@
 # only the main files needs this front matter, not partials.
 ---
 
-@import "bootstrap";
-@import "font-awesome";
 @import "code";
 
 body {
   font-size: 18px;
   background-color: #ebebeb;
-}
-
-table {
-  @extend .table;
 }
