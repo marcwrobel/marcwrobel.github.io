@@ -25,13 +25,11 @@ layout: default
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
     searchResultTemplate: `<li class="nav-item p-2">
-      <a class="text-decoration-none" href="{url}">
-      <div class="text-primary h3">{title}</div>
-      </a>
+      <a class="h3 text-decoration-none" href="{url}">{title}</a>
       <div class="text-secondary small">{date} • {category} • {tags}</div>
-      <div>{excerpt}</div>
     </li>
     `,
+    limit: 20,
     noResultsText: 'Aucun résultat',
     json: '/search.json'
   });
