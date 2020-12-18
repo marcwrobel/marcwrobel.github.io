@@ -46,9 +46,6 @@ Pages](https://pages.github.com/versions/), exécuter :
 bin/update-dependencies
 ```
 
-Il est à noter que des dépendances à Bootstrap et Font Awesome ont été déclarée dans le Gemfile. Ces
-dépendances n'ont vocation qu'à nous tenir au courant des mises à jour.
-
 
 ## Mise à jour des librairies tierces (CSS, JS)
 Bootstrap et Font Awesome ont été intégrées au code source du site en tant que _partial_ Sass pour
