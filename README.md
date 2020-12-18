@@ -29,7 +29,7 @@ pouvez vous référer à [la documentation officielle](https://jekyllrb.com/docs
 ## Mise à jour du site
 Lancez tout d'abord le serveur local :
 ```shell script
-bundle exec jekyll serve
+bin/serve
 ```
 
 Apportez ensuite vos modifications et pré-visualisez les au fur et à mesure [dans votre
@@ -43,7 +43,7 @@ est automatiquement publié sur [www.marcwrobel.fr](http://www.marcwrobel.fr/).
 Pour mettre à jour Jekyll et ses dépendances sur [les même versions que celle utilisées sur GitHub
 Pages](https://pages.github.com/versions/), exécuter :
 ```shell script
-bundle update
+bin/update-dependencies
 ```
 
 Il est à noter que des dépendances à Bootstrap et Font Awesome ont été déclarée dans le Gemfile. Ces
