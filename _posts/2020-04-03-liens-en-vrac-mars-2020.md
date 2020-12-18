@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Liens en vrac - Mars 2020
-category: notes
+category: liens
 tags: java oracle angular typescript npm github chrome firefox tls gitlab debian wireguard vpn intellij-idea ci/cd kubernetes oauth oidc jvm authy 2fa css
 ---
 

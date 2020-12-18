@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Liens en vrac - Juillet 2020
-category: notes
+category: liens
 tags: debian javascript angular defender-atp java gitlab algorithmique securite pratiques pwa systemd cron optional spring-boot docker generics teleport tuned
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Liens en vrac - Juillet 2019
-category: notes
+category: liens
 tags: debian elastic ansible sonarqube java jakarta jee rest coverage postgresql brin spring-data bash trivy pg_qualstat plantuml sécurité json docker rest microservices
 ---
 

@@ -2,9 +2,75 @@
 # only the main files needs this front matter, not partials.
 ---
 
-@import "code";
-
+/*
+ * Global
+ */
 body {
-  font-size: 18px;
-  background-color: #ebebeb;
+  font-size: larger;
+  background-color: #dcdcdc;
 }
+
+.h1, h1 {
+  overflow-wrap: break-word;
+}
+
+a {
+  color: #086dc3;
+
+  &:hover {
+    color: #333;
+  }
+}
+
+table {
+  // responsive
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+
+  th,
+  td {
+    border: 1px solid black;
+    padding: 0.75rem;
+    vertical-align: top;
+  }
+
+  th {
+    color: white;
+    background-color: #343a40;
+    border-color: #454d55;
+  }
+
+  tbody tr:hover {
+    background-color: #9fcdff;
+  }
+}
+
+
+/*
+ * Posts
+ */
+.all-posts {
+  .post-icon {
+    width: 5%;
+    height: 100%;
+    margin: auto;
+  }
+
+  .post-title {
+    width: 95%;
+  }
+}
+
+.liens-post a {
+  &:visited {
+    color: #609;
+  }
+}
+
+
+/**
+ * Code
+ */
+@import "code";

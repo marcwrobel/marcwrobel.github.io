@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Liens en vrac - Juin 2020
-category: notes
+category: liens
 tags: cloud tomcat securite javascript typescript elastic quarkus picocli mozilla vpn jdk spring-boot git java test recrutement jquery cli linux
 ---
 

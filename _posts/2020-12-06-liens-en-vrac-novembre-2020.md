@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Liens en vrac - Novembre 2020
-category: notes
+category: liens
 tags: spring-boot maven angular dotnet gitlab zfs lets-encrypt zerossl firefox google ovh debian elastic typescript enums union-types spring cron ecologie best-pratices securite ansible collections molecule testing kibana scp rsync git diff mysocket asdf sdkman nvm docker json
 ---
 

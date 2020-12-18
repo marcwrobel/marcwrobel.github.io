@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Liens en vrac - Mars 2019
-category: notes
+category: liens
 tags: typescript web elastic debian quarkus ovh java jdk amazon swift matériel git linux réseau firefox-send les-cast-coders
 ---
 

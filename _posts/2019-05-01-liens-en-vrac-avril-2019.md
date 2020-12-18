@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Liens en vrac - Avril 2019
-category: notes
+category: liens
 tags: cnil sécurité rgpd elastic java oracle jdk amazon ssh gpg ansible test io cloud git linux
 ---
 

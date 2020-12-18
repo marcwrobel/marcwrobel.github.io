@@ -3,10 +3,10 @@ layout: default
 ---
 
 {%- include header.html -%}
-<main role="main" class="container">
+<main role="main" class="container {{ page.category }}-post">
   <div class="row">
     <div class="col-sm-12 col-lg-10 py-3 mx-auto">
-      <article itemscope itemtype="http://schema.org/BlogPosting" class="text-justify">
+      <article itemscope itemtype="http://schema.org/BlogPosting">
         <header>
           <h1 itemprop="name headline">{{ page.title | escape }}</h1>
 
@@ -24,7 +24,7 @@ layout: default
           </p>
         </header>
 
-        <div itemprop="articleBody">
+        <div class="text-justify" itemprop="articleBody">
           {{ content }}
         </div>
       </article>

@@ -23,6 +23,8 @@ social:
     - https://keybase.io/marcwrobel
 
 category_icons:
+  - title: liens
+    icon: link
   - title: notes
     icon: pencil
   - title: développement

@@ -7,12 +7,13 @@ layout: default
     <div class="row">
       <div class="col-sm-6 py-3">
         <div class="d-flex justify-content-center">
-          <a class="py-3" href="{{ '/' | relative_url }}">
-            <img src="{{ '/assets/icon-192.png' | relative_url }}">
+          <a class="py-3 w-100" href="{{ '/' | relative_url }}">
+            <img class="w-50 img-responsive center-block d-block mx-auto" src="{{ '/assets/icon.svg' | relative_url }}">
           </a>
         </div>
 
-        <div class="text-center">
+        {% if paginator.page == 1 -%}
+        <div class="lead text-center py-3">
           {{ content }}
         </div>
 
@@ -21,6 +22,7 @@ layout: default
         {%- assign links = home | concat: everywhere | sort: "order" -%}
         {%- assign icon_size = "2" -%}
         {% include navigation.html %}
+        {%- endif %}
       </div>
 
       <div class="col-sm-6 py-3 mx-auto">

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Liens en vrac - Septembre 2020
-category: notes
+category: liens
 tags: ssl tls ie java jdk cryptographie .net typescript moment.js bootstrap postgresql elastic github gitlab jetbrains idea serialisation waf awk xml 2fa mfa totp securite jc entr
 ---
 

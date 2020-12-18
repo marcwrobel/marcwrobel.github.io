@@ -13,8 +13,6 @@ Le site Web [www.marcwrobel.fr](http://www.marcwrobel.fr/) utilise le générate
   fonctionnalité de recherche,
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) pour le développement du site et la rédaction du
   contenu,
-* [favicon.io](https://favicon.io/favicon-generator/?t=MW&ff=Geo&fs=70&fc=%23FFFFFF&b=circle&bc=%23000)
-  pour la création du [logo](assets/icon-512.png),
 * [Google Analytics](https://analytics.google.com) pour l'analyse des audiences,
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.marcwrobel.fr) et
   [GiftOfSpeed](https://www.giftofspeed.com/) pour l'analyse du site et la recommandation de bonnes

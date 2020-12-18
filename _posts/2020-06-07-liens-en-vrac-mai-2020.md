@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Liens en vrac - Mai 2020
-category: notes
+category: liens
 tags: java gitlab spring spring-boot spring-data chrome windows terminal bootstrap elastic sonar svelte tests anonymisation complexité junit spock css testcontainers folklore chromium docker monolithe microservices
 ---
 

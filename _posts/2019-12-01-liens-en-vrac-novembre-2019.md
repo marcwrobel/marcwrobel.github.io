@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Liens en vrac - Novembre 2019
-category: notes
+category: liens
 tags: bootstrap graphql solid ansible web architecture github typescript quarkus idea maven ssh
 ---
 
