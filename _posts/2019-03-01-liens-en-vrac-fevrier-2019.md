@@ -38,6 +38,7 @@ tags: sécurité amazon openjdk plantuml diagrammes chiffrement dns password pos
 
 That's all folks !
 
+*[DNS]: Domain Name System
 *[GA]: General Availability
 *[JDK]: Java Development Kit
 *[LCC]: Les Cast Codeurs
