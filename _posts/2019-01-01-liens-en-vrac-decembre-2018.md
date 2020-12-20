@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Liens en vrac - Décembre 2018
-category: notes
+category: liens
 tags: oracle tls symantec jdk microsoft edge chrome java null spring spring-boot rgpd gdpr
 ---
 

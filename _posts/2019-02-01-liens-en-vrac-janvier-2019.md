@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Liens en vrac - Janvier 2019
-category: notes
+category: liens
 tags: dns hibp sécurité debian buster hibernate postgresql auditbeat audit java jvm oracle vault hashicorp ssh ansible molecule
 ---
 
