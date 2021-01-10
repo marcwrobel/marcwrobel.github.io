@@ -98,8 +98,8 @@ dependencies:
       integrity: 'sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0='
   scripts:
     - name: 'simple-jekyll-search.min.js'
-      src: 'https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.7.13/dest/simple-jekyll-search.min.js'
-      integrity: 'sha256-pGwjsQ0u5Q1dn6N5nVh3xxjpsDvShzV7yzg7BBCAg+Y='
+      src: 'https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.9.1/dest/simple-jekyll-search.min.js'
+      integrity: 'sha256-ieUctArvXa2Jaww7u+OyjqzBpOW04E9K17BzP8qrxVM='
 
 sass:
   style: compressed
