@@ -61,7 +61,18 @@ Contrairement à Jekyll il vous faudra malheureusement suivre les mises à jour 
 ou [le dépôt du projet Simple-Jekyll-Search sur GitHub](https://github.com/christian-fei/Simple-Jekyll-Search)).
 
 
-# Documentation utile
+### Suivi des mises à jour
+
+Que ce soit en grande partie automatique (pour Jekyll, avec [Bundler](https://bundler.io/)) ou manuel (pour Bootstrap ou simple-jekyll-search) pour mettre à
+jour les dépendances utilisées par ce site il faut déjà que vous soyez au courant que ces mises à jour existent. Pour cela plusieurs moyens :
+
+- suivre les blogs des projets ([Jekyll](https://jekyllrb.com/news/), [Bootstrap](https://blog.getbootstrap.com/), [Font Awesome](https://fontawesome.com/)),
+- suivre les pages [GitHub](https://github.com) des projets ([Jekyll](https://github.com/jekyll/jekyll), [Bootstrap](https://github.com/twbs/bootstrap),
+  [Font Awesome](https://github.com/FortAwesome/Font-Awesome), [simple-jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search)),
+- ou, plus simplement, utiliser [librairies.io](https://libraries.io/) ([Jekyll](https://libraries.io/rubygems/jekyll), [Bootstrap](https://libraries.io/npm/bootstrap),
+  [Font Awesome](https://libraries.io/npm/font-awesome), [simple-jekyll-search](https://libraries.io/npm/simple-jekyll-search)).
+
+## Documentation utile
 * https://jekyllrb.com/docs/
 * https://getbootstrap.com/docs/
 * https://fontawesome.com/v4.7.0/icons/
