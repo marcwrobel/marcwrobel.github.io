@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Configuration d'IntelliJ IDEA
+title: Configuration d’IntelliJ IDEA
 category: développement
 tags: développement outil ide intellij-idea
 ---
@@ -16,7 +16,7 @@ Quelques notes sur la configuration d’[IntelliJ IDEA](https://www.jetbrains.co
 - [Grazie](https://plugins.jetbrains.com/plugin/12175-grazie/)
 
 ## Configuration
-Avant d'ouvrir le moindre projet, configurer au préalable le comportement par défaut.
+Avant d’ouvrir le moindre projet, configurer au préalable le comportement par défaut.
 
 Pour cela dans _Configure_ → _Settings_ :
 - cocher _Build, Execution, Deployment_ → _Compiler_ → _Annotation Processors_ → _Enable annotation

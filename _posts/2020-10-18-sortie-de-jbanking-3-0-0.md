@@ -9,16 +9,16 @@ La version 3.0.0 de [jbanking](https://github.com/marcwrobel/jbanking) est sorti
 version inclue :
 - un alignement des définitions d’IBAN (ISO 13616) avec IBAN Registry Release 88 (septembre 2020),
 - une revue et une amélioration de la Javadoc des enumerations `IsoCountry` (ISO 3166) et `IsoCurrency` (ISO 4217),
-- des améliorations de l'API `Calendar` (nouvelles méthodes, CompositeCalendar),
+- des améliorations de l’API `Calendar` (nouvelles méthodes, CompositeCalendar),
 - quelques corrections des définitions de devises,
 - des modifications pour rendre jbanking _serializable-friendly_.
 
-Cette nouvelle version majeure a aussi été l'occasion d'introduire des changements non-compatibles
+Cette nouvelle version majeure a aussi été l’occasion d’introduire des changements non-compatibles
 avec les versions précédentes. Ainsi :
 - les méthodes dépréciées dans les versions précédentes ont été supprimées,
-- les entrées des enums `IsoCountry` et `IsoCurrency` ont été renommées d'après leur code alphabétique,
+- les entrées des enums `IsoCountry` et `IsoCurrency` ont été renommées d’après leur code alphabétique,
 - certaines signatures des méthodes de `IsoCurrency` et de `Calendar` ont été modifiées,
-- la visibilité de l'énumération `BbanStructure` a été modifiée à _package-private_ plutôt que _public_.
+- la visibilité de l’énumération `BbanStructure` a été modifiée à _package-private_ plutôt que _public_.
 
 Pour la liste exhaustive des modifications vous pouvez consulter les
 [notes de version](https://github.com/marcwrobel/jbanking/releases/tag/v3.0.0).

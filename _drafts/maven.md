@@ -6,12 +6,12 @@ tags: développement java maven
 ---
 
 ## Configuration projet
-Dans les projets, ajouter un répertoire .mvn contenant les fichiers suivants :
+Dans les projets, ajouter un répertoire `.mvn` contenant les fichiers suivants :
 
 .mvn/maven.config :
 ```bash
 --errors # Produce execution error messages
---strict-checksums # Error if checksums don't match
+--strict-checksums # Error if checksums don’t match
 --show-version # Display version information WITHOUT stopping build
 ```
 
@@ -23,7 +23,7 @@ Dans les projets, ajouter un répertoire .mvn contenant les fichiers suivants :
 -Djava.awt.headless=true # no GUI
 ```
 
-Et éventuellement un .mvn/settings.xml pour la CI.
+Et éventuellement un `.mvn/settings.xml` pour la CI.
 
 ## Liens
 Quelques liens intéressants :

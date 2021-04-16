@@ -13,4 +13,4 @@ Cette nouvelle version :
 - divers renommages pour améliorer la lisibilité des assertions (_breaking change_),
 - ainsi que quelques corrections.
 
-Pour plus d'informations référez-vous [aux notes de version](https://github.com/marcwrobel/ansible-collection-assertions/releases/tag/2.0.0).
+Pour plus d’informations référez-vous [aux notes de version](https://github.com/marcwrobel/ansible-collection-assertions/releases/tag/2.0.0).

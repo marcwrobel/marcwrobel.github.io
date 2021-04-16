@@ -7,16 +7,16 @@ tags: jbanking iso-3166 iban pays sepa ue eea sepa-com-pacifique efta jours-ouvr
 
 La version 2.1.0 de [jbanking](https://github.com/marcwrobel/jbanking) est sortie. Cette nouvelle
 version inclue :
-- un alignement des définitions d'IBAN (ISO 13616) avec [IBAN Registry Release 87](https://www.iso13616.org/) (mai 2020),
-- des améliorations autour de l'enum IsoCountry :
+- un alignement des définitions d’IBAN (ISO 13616) avec [IBAN Registry Release 87](https://www.iso13616.org/) (mai 2020),
+- des améliorations autour de l’enum IsoCountry :
   - ajout des codes ISO 3166-1 alpha-3,
   - ajout des codes numériques ISO 3166-1,
   - ajout du statut des pays (independent ou dépendent),
   - ajout de la participation des pays à certains accords : Single Euro Payments Area (SEPA), Union
     Européenne (UE), European Economic Area (EEA), SEPA COM Pacifique et European Free Trade
     Association (EFTA).
-- le support configurable de calcul des jours ouvré avec quelques calendriers pré-définis :
-  - Quartiers d'affaires de Francfort, Londres, Paris et Sydney,
+- le support configurable de calcul des jours ouvré avec quelques calendriers prédéfinis :
+  - Quartiers d’affaires de Francfort, Londres, Paris et Sydney,
   - Federal Reserve Bank of New York (FED),
   - New York Stock Exchange (NYSE),
   - Trans-European Automated Real-time Gross Settlement Express Transfer System (TARGET).

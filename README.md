@@ -14,17 +14,17 @@ Le site Web [www.marcwrobel.fr](http://www.marcwrobel.fr/) utilise le générate
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) pour le développement du site et la rédaction du
   contenu,
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.marcwrobel.fr) et
-  [GiftOfSpeed](https://www.giftofspeed.com/) pour l'analyse du site et la recommandation de bonnes
+  [GiftOfSpeed](https://www.giftofspeed.com/) pour l’analyse du site et la recommandation de bonnes
   pratiques.
 
 
-## Pré-requis
-Ce site utilise le générateur de site statique [Jekyll](https://jekyllrb.com). Pour l'installer vous
+## Prérequis
+Ce site utilise le générateur de site statique [Jekyll](https://jekyllrb.com). Pour l’installer vous
 pouvez vous référer à [la documentation officielle](https://jekyllrb.com/docs/installation/).
 
 
 ## Mise à jour du site
-Lancez tout d'abord le serveur local :
+Lancez tout d’abord le serveur local :
 ```shell script
 bin/serve
 ```
@@ -46,7 +46,7 @@ bin/update-dependencies
 
 ### Mise à jour de Bootstrap, Font Awesome et Simple-Jekyll-Search
 
-1. Allez sur [jsDelivr](https://www.jsdelivr.com/) à l'aide de l'un de ces liens :
+1. Allez sur [jsDelivr](https://www.jsdelivr.com/) à l’aide de l’un de ces liens :
   - [bootstrap.min.css](https://www.jsdelivr.com/package/npm/bootstrap?path=dist%2Fcss),
   - [font-awesome.css](https://www.jsdelivr.com/package/npm/font-awesome?path=css),
   - [simple-jekyll-search.min.js](https://www.jsdelivr.com/package/npm/simple-jekyll-search))

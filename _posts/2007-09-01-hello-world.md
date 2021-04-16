@@ -7,10 +7,10 @@ tags: note bliki marcwrobel.fr
 
 Bienvenu sur le premier article de [www.marcwrobel.fr](http://www.marcwrobel.fr/) !
 
-[marcwrobel.fr](http://www.marcwrobel.fr/) n'est pas vraiment un blog. C'est plus un bloc-note
+[marcwrobel.fr](http://www.marcwrobel.fr/) n’est pas vraiment un blog. C’est plus un bloc-note
 personnel qui me permet de consigner et partager mes trucs et astuces, pratiques et découvertes liés
-à mon métier de développeur. Il se rapproche beaucoup du [bliki tel qu'expliqué par Martin
-Fowler](https://www.martinfowler.com/bliki/WhatIsaBliki.html). Ce site m'assure aussi une présence
+à mon métier de développeur. Il se rapproche beaucoup du [bliki tel qu’expliqué par Martin
+Fowler](https://www.martinfowler.com/bliki/WhatIsaBliki.html). Ce site m’assure aussi une présence
 sur le web stable et, dans une certaine mesure, indépendante de toute plateforme et de tout réseau
 social.
 

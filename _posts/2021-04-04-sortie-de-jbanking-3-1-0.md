@@ -2,7 +2,7 @@
 layout: post
 title: Sortie de jbanking 3.1.0
 category: développement
-tags: jbanking iso-4217 devise jours-ouvrés tokyo londre 
+tags: jbanking iso-4217 devise jours-ouvrés tokyo londres 
 ---
 
 La version 3.1.0 de [jbanking](https://github.com/marcwrobel/jbanking) est sortie. Cette nouvelle
