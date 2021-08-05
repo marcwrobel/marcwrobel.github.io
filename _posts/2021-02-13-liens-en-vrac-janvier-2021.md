@@ -8,7 +8,7 @@ tags: keycloak debian bootstrap gitlab rhel elastic maven unpoly java pratique c
 ## Nouvelles
 
 - [Keycloak 12.0.0 released](https://www.keycloak.org//2020/12/keycloak-1200-released.html)
-  — le `login theme` a été mis à jour, attention lors de la mise à jour.
+  — le `login theme` de base a été mis à jour, attention à vos thèmes spécifiques.
 - [Debian 11 Freeze Begins, Debian 12 Might Reduce Focus On i386 Support](https://www.phoronix.com/scan.php?page=news_item&px=Debian-11-Freeze-Starts)
   — pour un aperçu des nouveautés [allez voir ici](https://www.debian.org/releases/bullseye/amd64/release-notes/ch-whats-new.fr.html).
 - [Bootstrap v4.6.0](https://blog.getbootstrap.com/2021/01/19/bootstrap-4.6.0/)
