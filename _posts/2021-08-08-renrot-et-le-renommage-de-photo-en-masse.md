@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Renrot et le renommage de photos en masse
-category: développement
+category: tools
 tags: jbanking iban iso-13616
 ---
 
