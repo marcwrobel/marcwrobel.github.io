@@ -34,3 +34,4 @@ et à [Adrian Sutton (@ajsutton)](https://github.com/ajsutton) pour leur aide su
 *[IBAN]: International Bank Account Number
 *[ISO]: International Organization for Standardization
 *[SEPA]: Single Euro Payments Area
+*[POM]: Project Object Model

@@ -32,3 +32,4 @@ déclarez une nouvelle dépendance dans votre POM de la manière suivante :
 
 *[API]: Application Programming Interface
 *[ISO]: International Organization for Standardization
+*[POM]: Project Object Model

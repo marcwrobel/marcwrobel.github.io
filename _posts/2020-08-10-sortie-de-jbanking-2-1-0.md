@@ -39,3 +39,4 @@ version !
 
 *[IBAN]: International Bank Account Number
 *[ISO]: International Organization for Standardization
+*[POM]: Project Object Model

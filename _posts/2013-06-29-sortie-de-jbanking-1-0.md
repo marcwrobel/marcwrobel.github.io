@@ -29,3 +29,4 @@ jbanking](https://github.com/marcwrobel/jbanking).
 *[BIC]: Bank Identifier Code
 *[IBAN]: International Bank Account Number
 *[ISO]: International Organization for Standardization
+*[POM]: Project Object Model
