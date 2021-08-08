@@ -1,5 +1,8 @@
 ---
-layout: post title: Sortie de jbanking 3.1.0 category: développement tags: jbanking iban iso-13616
+layout: post
+title: Sortie de jbanking 3.1.1
+category: développement
+tags: jbanking iban iso-13616
 ---
 
 La version 3.1.1 de [jbanking](https://github.com/marcwrobel/jbanking) est sortie. Cette nouvelle version corrige quelques problèmes de validation du check
