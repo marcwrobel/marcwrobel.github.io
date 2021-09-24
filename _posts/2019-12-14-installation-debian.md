@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installation de Debian
+title: Installation de Debian 10
 category: administration
 tags: administration linux debian
 ---
