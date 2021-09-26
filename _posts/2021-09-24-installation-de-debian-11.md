@@ -65,11 +65,17 @@ Une fois cela fait, adaptez le schéma de partitionnement. Vous pouvez vous insp
 | srv            | 1 Go            | ext4              | /srv                |
 | tmp            | 5 Go            | ext4              | /tmp                |
 
-Pour les tailles des partitions ne réfléchissez pas trop : il sera toujours possible, par la suite, d’augmenter
-si nécessaire. De plus les options de montage par défaut suffisent, car elles contiennent l’option `relatime`
-[depuis longtemps déjà](https://unix.stackexchange.com/questions/17844/when-was-relatime-made-the-default). 
+Les options de montage par défaut suffisent, car elles contiennent l’option `relatime`
+[depuis longtemps déjà](https://unix.stackexchange.com/questions/17844/when-was-relatime-made-the-default).
 
-À noter qu’il n’est pas nécessaire de créer une partition swap. En fonction de la quantité de mémoire disponible sur le
+Il n’est pas nécessaire de trop réfléchir aux tailles des partitions : il sera toujours possible, par la suite, de les
+augmenter en utilisant la commande qui suit :
+
+```bash
+sudo lvextend -L+<size>G -r /dev/vg/<name>
+```
+
+À noter qu’il n’est pas utile de créer une partition swap. En fonction de la quantité de mémoire disponible sur le
 système et [de votre utilisation](https://wiki.debian.org/Swap) vous pourrez éventuellement créer un fichier de swap
 plus tard de la manière suivante :
 
