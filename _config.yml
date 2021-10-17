@@ -20,7 +20,6 @@ social:
     - https://github.com/marcwrobel
     - https://www.linkedin.com/in/marcwrobelfr
     - https://stackoverflow.com/cv/marcwrobel
-    - https://keybase.io/marcwrobel
 
 category_icons:
   - title: liens
@@ -60,11 +59,6 @@ links:
     display: home
     order: 30
     icon: stack-overflow
-  - title: Keybase
-    url: https://keybase.io/marcwrobel
-    display: home
-    order: 35
-    icon: key
   - title: Email
     url: mailto:marc.wrobel@gmail.com
     display: everywhere
