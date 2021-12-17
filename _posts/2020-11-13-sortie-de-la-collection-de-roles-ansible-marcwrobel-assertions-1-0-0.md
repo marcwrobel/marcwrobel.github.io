@@ -2,7 +2,6 @@
 layout: post
 title: Sortie de la collection de rôles Ansible marcwrobel.assertions 1.0.0
 category: développement
-tags: ansible collection roles assertions molecule tests
 ---
 
 La version 1.0.0 de la collection de rôles Ansible [marcwrobel.assertions](https://galaxy.ansible.com/marcwrobel/assertions) est sortie.

@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac - Août 2019
 category: liens
-tags: debian python bash postgresql internationalisation jpa spring sql
 ---
 
 ## News

@@ -2,7 +2,6 @@
 layout: post
 title: Renrot et le renommage de photos en masse
 category: tools
-tags: jbanking iban iso-13616
 ---
 
 [`renrot`](https://puszcza.gnu.org.ua/projects/renrot/) est un utilitaire en ligne de commande très pratique qui permet de renommer et corriger (sans perte)

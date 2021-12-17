@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac - Mai 2019
 category: liens
-tags: ansible elastic zfs chiffrement trim sécurité node rhel red-hat java rest rgpd postgresql linux docker conteneur bash logging maven test internationalisation traduction
 ---
 
 ## News

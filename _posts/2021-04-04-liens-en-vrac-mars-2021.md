@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac — Mars 2021
 category: liens
-tags: debian java jdk openjdk sms gitlab elastic sécurité sms ovh spring solarwinds git applet tls pratiques hibernate jpa spectre sigstore keycloak cloud-iam nginx
 ---
 
 ## Nouvelles

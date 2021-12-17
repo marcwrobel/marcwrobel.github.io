@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac — Avril 2020
 category: liens
-tags: gitlab jquery java node npm bootstrap docker github spring git flyway liquibase adr bash ebics banking sql kubernetes
 ---
 
 ## Nouvelles

@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac - Octobre 2020
 category: liens
-tags: spring node npm lts bootstrap linux jekyll static site generator twitter sécurité mvc path pattern estimations time zones jq json csv git tee xargs postgresql join lateral ops solid vscode vscodium bastion pulp nexus package-manager
 ---
 
 ## Nouvelles

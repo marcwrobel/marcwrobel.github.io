@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac - Août 2018
 category: liens
-tags: typescript tls sécurité docker postgresql psql monolithe cloud 2fa git tink idea
 ---
 
 ## News

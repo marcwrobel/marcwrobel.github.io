@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac - Octobre 2019
 category: liens
-tags: node ssh rsync regex spring-boot nftables hash mot-de-passe postgresql sécurité spa idp oauth oidc
 ---
 
 ## News

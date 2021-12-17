@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac - Décembre 2019
 category: liens
-tags: testing pivotal camel infographie maven tls java jdk spring elastic git
 ---
 
 ## News

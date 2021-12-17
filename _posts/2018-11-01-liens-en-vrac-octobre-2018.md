@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac - Octobre 2018
 category: liens
-tags: angular postgresql tls oracle helidon java microservices views table opinion swift gpi uetr ansible molecule picocli
 ---
 
 ## News

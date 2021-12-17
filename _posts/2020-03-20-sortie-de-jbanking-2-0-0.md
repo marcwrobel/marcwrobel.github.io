@@ -2,7 +2,6 @@
 layout: post
 title: Sortie de jbanking 2.0.0
 category: développement
-tags: jbanking iso-3166 iso-4217 iban sepa iso-13616 pays devise
 ---
 
 La version 2.0.0 de [jbanking](https://github.com/marcwrobel/jbanking) est (enfin !) sortie. Cette

@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac - Décembre 2020
 category: liens
-tags: gitlab typescript flash hibernate reactive microprofile payments keycloak web spa architecture java loom podcast santé ifttd enums union-types windows outils ia python environnement développement
 ---
 
 ## Nouvelles

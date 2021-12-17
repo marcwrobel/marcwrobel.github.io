@@ -2,7 +2,6 @@
 layout: post
 title: Sortie de jbanking 1.0
 category: développement
-tags: jbanking iso-3166 iso-4217 iban bic sepa iso-13616 iso-9362 pays devise
 ---
 
 La version 1.0 de [jbanking](https://github.com/marcwrobel/jbanking) est sortie. Cette version

@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac — Avril 2021
 category: liens
-tags: gitlab sonar node idea microsoft openjdk maven rest api design google analytics angular junit git spring securité authentification errorprone shell bash chart css
 ---
 
 ## Nouvelles

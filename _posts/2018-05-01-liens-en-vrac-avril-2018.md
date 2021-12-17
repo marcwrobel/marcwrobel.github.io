@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac - Avril 2018
 category: liens
-tags: oracle java windows microsoft google gmail linux bpf kernel synchrone asynchrone smem mémoire spring-boot docker container
 ---
 
 ## News

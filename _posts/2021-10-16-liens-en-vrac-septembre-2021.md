@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac — Septembre 2021
 category: liens
-tags: java jdk openjdk oracle spring postgresql typescript docker license protonmail csp prettier linux sécurité risc cisc review uuid partitionnement messaging itext tuxedo
 ---
 
 ## Nouvelles

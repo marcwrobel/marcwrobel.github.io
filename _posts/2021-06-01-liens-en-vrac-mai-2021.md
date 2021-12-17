@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac — Mai 2021
 category: liens
-tags: typescript java openjdk elastic spring boot angular bootstrap keycloak telephone architecture doctolib web cache logging sql performance windows  
 ---
 
 ## Nouvelles

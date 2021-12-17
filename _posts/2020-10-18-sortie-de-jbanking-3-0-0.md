@@ -2,7 +2,6 @@
 layout: post
 title: Sortie de jbanking 3.0.0
 category: développement
-tags: jbanking iso-3166 iso-4217 iso-13616 iban pays devise jours-ouvrés
 ---
 
 La version 3.0.0 de [jbanking](https://github.com/marcwrobel/jbanking) est sortie. Cette nouvelle

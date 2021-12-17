@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac — Octobre 2021
 category: liens
-tags: node maven bootstrap-icons vscode owasp java-7 centos azure-pipelines java headers sécurité logging écologie sql gitpod testcontainers
 ---
 
 ## Nouvelles

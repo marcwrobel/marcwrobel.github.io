@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac — Juin 2021
 category: liens
-tags: gitlab sonatype lift infer errorprone keycloak quarkus agile opinions postgresql testing chiffrement homomorphe ansible angular pipes partitioning jreleaser wizarzines bundlephobia endoflife
 ---
 
 ## Nouvelles

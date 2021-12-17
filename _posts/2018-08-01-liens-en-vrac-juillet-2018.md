@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac - Juillet 2018
 category: liens
-tags: spring spring-boot chrome http ansible galaxy architecture sécurité chiffrement sre slo sli sla
 ---
 
 ## News

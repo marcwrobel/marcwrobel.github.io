@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac - Septembre 2018
 category: liens
-tags: java jdk openssl sécurité firefox maven cloud-act swift oracle openjdk ansible nmap strata
 ---
 
 ## News

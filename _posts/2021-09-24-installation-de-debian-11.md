@@ -2,7 +2,6 @@
 layout: post
 title: Installation de Debian 11
 category: administration
-tags: administration linux debian
 ---
 
 Quelques notes sur la manière dont j’installe généralement

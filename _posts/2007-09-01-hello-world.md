@@ -2,7 +2,6 @@
 layout: post
 title: Hello, world!
 category: notes
-tags: note bliki marcwrobel.fr
 ---
 
 Bienvenu sur le premier article de [www.marcwrobel.fr](http://www.marcwrobel.fr/) !

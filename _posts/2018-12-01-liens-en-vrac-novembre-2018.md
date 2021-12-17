@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac - Novembre 2018
 category: liens
-tags: amazon corretto jdk sepa epc typescript elastic apm tls sécurité password mot passe 2fa u2f pass yubikey hibernate pwa amp ansible ansible-pull 
 ---
 
 ## News

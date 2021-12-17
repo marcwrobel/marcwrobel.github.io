@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac - Février 2020
 category: liens
-tags: tomcat sécurité lets-encrypt typescript firefox microsoft gitlab groovy elastic angular kiss uuid postgresql noestimate languages webassembly openjdk sshuttle passbolt
 ---
 
 ## News

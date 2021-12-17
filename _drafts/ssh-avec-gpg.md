@@ -2,7 +2,6 @@
 layout: post
 title: PGP, GPG et SSH
 category: administration
-tags: administration linux debian
 ---
 
 De nombreuses opérations nécessitent l’utilisation d’une clé SSH ou d’une clé GPG.

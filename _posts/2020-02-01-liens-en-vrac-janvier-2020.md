@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac - Janvier 2020
 category: liens
-tags: tls hpkp cybersécurité postgresql email tdd http api windows semver calver java spring
 ---
 
 ## News

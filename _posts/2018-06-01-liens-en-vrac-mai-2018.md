@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac - Mai 2018
 category: liens
-tags: angular nginx sécurité java oracle architecture testcontainer spring-boot password web elastic auditd psacct acct
 ---
 
 ## News

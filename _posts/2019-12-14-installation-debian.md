@@ -2,7 +2,6 @@
 layout: post
 title: Installation de Debian 10
 category: administration
-tags: administration linux debian
 ---
 
 Quelques notes sur l’installation d’une [Debian 10 "Buster"](https://www.debian.org/News/2019/20190706).

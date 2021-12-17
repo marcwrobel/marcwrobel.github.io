@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac - Juin 2018
 category: liens
-tags: oracle java github microsoft ansible git apm glowroot
 ---
 
 ## News

@@ -2,7 +2,6 @@
 layout: post
 title: Java et le JDK
 category: développement
-tags: développement java jdk
 ---
 
 Le [Java Development Kit (JDK)](https://wikipedia.org/wiki/Java_Development_Kit) désigne le kit utilisé pour développer, déboguer, et monitorer des applications

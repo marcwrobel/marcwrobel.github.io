@@ -2,7 +2,6 @@
 layout: post
 title: Sortie de jbanking 2.1.0
 category: développement
-tags: jbanking iso-3166 iban pays sepa ue eea sepa-com-pacifique efta jours-ouvrés francfort londres paris sydney fed nyse target
 ---
 
 La version 2.1.0 de [jbanking](https://github.com/marcwrobel/jbanking) est sortie. Cette nouvelle

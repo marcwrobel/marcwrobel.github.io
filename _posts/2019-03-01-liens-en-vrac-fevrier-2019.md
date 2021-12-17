@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac - Février 2019
 category: liens
-tags: sécurité amazon openjdk plantuml diagramme chiffrement dns password postgres pg_stat_statements bash jib docker pass gopass
 ---
 
 ## News

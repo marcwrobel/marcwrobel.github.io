@@ -2,7 +2,6 @@
 layout: post
 title: Configuration d’IntelliJ IDEA
 category: développement
-tags: développement outil ide intellij-idea
 ---
 
 Quelques notes sur la configuration d’[IntelliJ IDEA](https://www.jetbrains.com/idea/).

@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac — Juillet / Août 2021
 category: liens
-tags: debian bootstrap firewalld maven zfs elastic java jdk openjdk jvm spring graphql ebics github git branching angular caching html sql postgresql architecture analytic diagramme linux packages
 ---
 
 ## Nouvelles

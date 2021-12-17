@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac - Janvier 2021
 category: liens
-tags: keycloak debian bootstrap gitlab rhel elastic maven unpoly java pratique css rest api grid front jdk status cloudflare coep coop corp cors corb spring-boot validation rest patch commit protonmail jfr java intellij-idea
 ---
 
 ## Nouvelles

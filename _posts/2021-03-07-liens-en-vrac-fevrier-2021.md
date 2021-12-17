@@ -2,7 +2,6 @@
 layout: post
 title: Liens en vrac - Février 2021
 category: liens
-tags: typescript gitlab elastic ansible amazon ecb euro sécurité regex postgresql bastion centos readme linux hardening test kitchen
 ---
 
 ## Nouvelles
