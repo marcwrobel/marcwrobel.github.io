@@ -26,7 +26,8 @@ category: liens
   — cool !
 - [Amazon Open-Sources Babelfish for PostgreSQL To More Easily Move Away From Microsoft SQL](https://www.phoronix.com/scan.php?page=news_item&px=Babelfish-PostgreSQL)
   — Amazon vient marcher sur les plates-bandes de Microsoft.
-- [Amazon lance une formation gratuite de sensibilisation à la cybersécurité](https://www.programmez.com/actualites/amazon-lance-une-formation-gratuite-de-sensibilisation-la-cybersecurite-33200),
+- [Amazon lance une formation gratuite de sensibilisation à la cybersécurité](https://www.programmez.com/actualites/amazon-lance-une-formation-gratuite-de-sensibilisation-la-cybersecurite-33200)
+  ,
   et [Google Is Aiming to Train 40 Million People with Google Cloud Skills Boost](https://www.infoq.com/news/2021/10/google-cloud-skills-boost/)
   — Amazon et Google investissent de plus en plus dans la formation ces derniers temps.
 - [What is Google’s Dev Library––a new open-source platform for developers](https://developers.googleblog.com/2021/10/what-is-the-dev-library.html)

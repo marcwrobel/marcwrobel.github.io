@@ -5,7 +5,8 @@ category: liens
 ---
 
 ## News
-* [What’s New in Red Hat Ansible Engine 2.8](https://www.ansible.com/blog/whats-new-in-red-hat-ansible-engine-2.8)
+
+- [What’s New in Red Hat Ansible Engine 2.8](https://www.ansible.com/blog/whats-new-in-red-hat-ansible-engine-2.8)
   — Ansible collections, `become` par défaut, et bien d’autre choses encores.
 * [Quand sécurité pour Elasticsearch rime avec gratuité](https://www.elastic.co/fr/blog/security-for-elasticsearch-is-now-free)
   — cool !
@@ -25,6 +26,7 @@ category: liens
   — ça rassure.
 
 ## Articles
+
 * [Comment se faire hacker bien comme il faut!](https://www.youtube.com/watch?v=Aa6yeVHs2fI)
   — amusant et instructif.
 * [Concevoir une API REST conforme au RGPD](https://blog.octo.com/concevoir-une-api-rest-conforme-au-rgpd/)
@@ -38,22 +40,23 @@ category: liens
 * [Using /tmp/ And /var/tmp/ Safely](https://systemd.io/TEMPORARY_DIRECTORIES/)
   — intéressant !
 * [Container misconceptions](https://blog.bejarano.io/container-misconceptions/)
-  — tl;dr : _containers are not VMs; stop calling everything “Docker”; don’t use Kubernetes for tiny
-    projects, use Swarm instead; Kubernetes will only solve your org’s problems if you are willing
-    to go all-in, anything in between will fail the same way it failed before_.
+  — tl;dr : _containers are not VMs; stop calling everything “Docker”; don’t use Kubernetes for tiny projects, use Swarm
+  instead; Kubernetes will only solve your org’s problems if you are willing to go all-in, anything in between will fail
+  the same way it failed before_.
 * [Seven Surprising Bash Variables](https://zwischenzugs.com/2019/05/11/seven-surprising-bash-variables/)
   — on en apprend tous les jours avec bash !
 * [Flogger : le logger fluent de Google pour Java](https://blog.engineering.publicissapient.fr/2019/05/02/flogger-le-logger-fluent-de-google-pour-java/)
   — ça change de SLF4J.
 
 ## Découvertes
+
 * [Artifact Listener](https://www.artifact-listener.org)
   — un outil pour être notifié des nouvelles versions de librairies sur Maven Central.
 * [Awaitility](https://github.com/awaitility/awaitility)
   — une librairie pour les tests de systèmes asynchrones.
 * [Loco](https://localise.biz/)
   — un outil pour gérer les traductions plus simplement et en équipe. Pour un retour d’expérience :
-    [Gestion des traductions avec localise.biz](https://blog.eleven-labs.com/fr/gestion-des-traductions-avec-localise.biz/).
+  [Gestion des traductions avec localise.biz](https://blog.eleven-labs.com/fr/gestion-des-traductions-avec-localise.biz/).
 
 That’s all folks !
 

@@ -5,6 +5,7 @@ category: liens
 ---
 
 ## News
+
 * [Bootstrap 4.4.0](https://blog.getbootstrap.com/2019/11/26/bootstrap-4-4-0/)
   — ajout des conteneurs réactifs et ajout de classes `.row-cols`.
 * [Moving towards a faster web](https://blog.chromium.org/2019/11/moving-towards-faster-web.html)
@@ -19,6 +20,7 @@ category: liens
   — enfin les [reproducible builds](https://maven.apache.org/guides/mini/guide-reproducible-builds.html).
 
 ## Articles
+
 * [GraphQL – Depuis les tranchées](http://blog.xebia.fr/2019/11/25/graphql-depuis-les-tranchees/)
   — retour d’expérience sur la mise en place de GraphQL.
 * [Les principes SOLID dans la vie de tous les jours](https://www.arolla.fr/blog/2017/02/principes-solid-vie-de-jours/)
@@ -29,6 +31,7 @@ category: liens
   — intéressant !
 
 ## Découvertes
+
 * [A Checklist for setting up a Java-based Software Architecture](https://reflectoring.io/checklist-architecture-setup/)
   — bien pratique cette liste !
 * [Meet Grazie: the ultimate spelling, grammar, and style checker for IntelliJ IDEA](https://blog.jetbrains.com/idea/2019/11/meet-grazie-the-ultimate-spelling-grammar-and-style-checker-for-intellij-idea/)
@@ -37,4 +40,5 @@ category: liens
 That’s all folks !
 
 *[GraphQL]: Graph Query Language
-*[SOLID]: Single responsibility principle, Open/closed principle, Liskov substitution principle, Interface segregation principle, Dependency inversion principle
+*[SOLID]: Single responsibility principle, Open/closed principle, Liskov substitution principle, Interface segregation
+principle, Dependency inversion principle

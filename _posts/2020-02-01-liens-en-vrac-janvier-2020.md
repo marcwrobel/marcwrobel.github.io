@@ -5,6 +5,7 @@ category: liens
 ---
 
 ## News
+
 * [SSL Labs Grade Change for TLS 1.0 and TLS 1.1 Protocols](https://blog.qualys.com/ssllabs/2018/11/19/grade-change-for-tls-1-0-and-tls-1-1-protocols)
   — le support de TLS 1.0 et TLS 1.1 empêche maintenant d’atteindre le grade A sur
   [SSL Labs](https://www.ssllabs.com/).
@@ -16,11 +17,12 @@ category: liens
   — l’utilisation de SHA-1 est de plus en plus risquée.
 
 ## Articles
+
 * [3 lessons I've learned writing Ansible playbooks](https://opensource.com/article/20/1/ansible-playbooks-lessons)
-  — un bon complément aux [Ansible Best Practices](https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html)
+  — un bon complément
+  aux [Ansible Best Practices](https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html)
   officielles.
-* [Here’s Why Continuous Integration and Deployment is so Important to the Software Development
-  Process](https://levelup.gitconnected.com/heres-why-continuous-integration-and-deployment-is-so-important-to-the-software-development-c0caeead5881)
+* [Here’s Why Continuous Integration and Deployment is so Important to the Software Development Process](https://levelup.gitconnected.com/heres-why-continuous-integration-and-deployment-is-so-important-to-the-software-development-c0caeead5881)
   — un petit rappel de l’utilité d’une CI/CD ne peut pas faire de mal.
 * [Solving Problems Properly Is Often Not Viable](https://techblog.bozho.net/solving-problems-properly-is-often-not-viable/)
   — rien n’est parfait en ce bas monde.
@@ -36,6 +38,7 @@ category: liens
   — comment exprimer les erreurs d’une API HTTP avec Spring Boot.
 
 ## Découvertes
+
 * [CalVer](https://calver.org/)
   — quand utiliser [SemVer](https://semver.org/) n’a pas de sens, il y a CalVer.
 * [Yori: CMD reimagined](http://www.malsmith.net/yori/)

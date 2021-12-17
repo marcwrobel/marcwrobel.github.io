@@ -7,8 +7,8 @@ category: liens
 ## News
 
 * [JDK 11 Is Released!](https://blogs.oracle.com/thejavatutorials/jdk-11-is-released)
-  — en version LTS, avec des ajouts de méthodes utilitaires sur `String` (`isBlank()`, `lines()`, `strip()`…) et `Files` (`readString()`, `writeString()`),
-    Java Flight Recorder, un nouveau client HTTP…
+  — en version LTS, avec des ajouts de méthodes utilitaires sur `String` (`isBlank()`, `lines()`, `strip()`…)
+  et `Files` (`readString()`, `writeString()`), Java Flight Recorder, un nouveau client HTTP…
 * [OpenSSL 1.1.1 Released With TLS 1.3 Support, Better Fends Off Side-Channel Attacks](https://www.phoronix.com/scan.php?page=news_item&px=OpenSSL-1.1.1-Released)
   — à lire le titre on ne dirait pas, mais c’est un release importante.
 
@@ -23,7 +23,8 @@ category: liens
 * [Read This If You’re Thinking About Joining SWIFT](https://www.sepaforcorporates.com/swift-for-corporates/read-this-if-youre-thinking-about-joining-swift/)
   — ne rejoint pas SWIFT qui veut !
 * [Oracle's Java 11 trap - Use OpenJDK instead!](https://blog.joda.org/2018/09/do-not-fall-into-oracles-java-11-trap.html?m=1)
-  — tl;dr : _Java is still available at zero-cost, you just need to stop using Oracle JDK and start using an OpenJDK build_.
+  — tl;dr : _Java is still available at zero-cost, you just need to stop using Oracle JDK and start using an OpenJDK
+  build_.
 * [Oracle JDK builds vs. OpenJDK builds: Understanding the differences](https://jaxenter.com/oracle-jdk-builds-openjdk-builds-difference-149318.html)
   — tl;dr : _The Oracle JDK is merely one of many builds that are based on the OpenJDK codebase_.
 * [Make your Ansible Playbooks flexible, maintainable, and scalable](https://www.ansible.com/blog/make-your-ansible-playbooks-flexible-maintainable-and-scalable)

@@ -5,32 +5,33 @@ category: liens
 ---
 
 ## Nouvelles
-* [Java programming language celebrates 25 years](https://www.infoworld.com/article/3544229/java-programming-language-celebrates-25-years.html)
+
+- [Java programming language celebrates 25 years](https://www.infoworld.com/article/3544229/java-programming-language-celebrates-25-years.html)
   — déjà 25 ans !
-* [Announcing Inside.java](https://inside.java/2020/05/20/insidejava/)
+- [Announcing Inside.java](https://inside.java/2020/05/20/insidejava/)
   — un nouveau site sympa pour suivre les nouvelles relatives à Java.
-* [State of Loom](https://cr.openjdk.java.net/~rpressler/loom/loom/sol1_part1.html)
+- [State of Loom](https://cr.openjdk.java.net/~rpressler/loom/loom/sol1_part1.html)
   (et [State of Loom: Part 2](https://cr.openjdk.java.net/~rpressler/loom/loom/sol1_part2.html))
   — ça avance !
-* [GitLab 13.0 released with Gitaly Clusters, Epic Hierarchy on Roadmaps, and Auto Deploy to ECS](https://about.gitlab.com/releases/2020/05/22/gitlab-13-0-released/)
+- [GitLab 13.0 released with Gitaly Clusters, Epic Hierarchy on Roadmaps, and Auto Deploy to ECS](https://about.gitlab.com/releases/2020/05/22/gitlab-13-0-released/)
   — comme d’habitude plein de bonnes choses.
-* [Spring Boot 2.3.0 available now](https://spring.io/blog/2020/05/15/spring-boot-2-3-0-available-now)
+- [Spring Boot 2.3.0 available now](https://spring.io/blog/2020/05/15/spring-boot-2-3-0-available-now)
   — une nouvelle version très axée cloud.
 * [What’s new in Spring Data (Klara Dan von) Neumann?](https://spring.io/blog/2020/05/18/what-s-new-in-spring-data-klara-dan-von-neumann)
   — Spring Data JDBC en 2.0 entre autre.
-* [Resuming SameSite Cookie Changes in July](https://blog.chromium.org/2020/05/resuming-samesite-cookie-changes-in-july.html) 
+* [Resuming SameSite Cookie Changes in July](https://blog.chromium.org/2020/05/resuming-samesite-cookie-changes-in-july.html)
   — les _SameSite cookies_ sont enfin de nouveau à l’ordre du jour.
 * [Build 2020 - Windows Terminal 1.0](https://devblogs.microsoft.com/commandline/windows-terminal-1-0/)
   — il en aura fallu du temps !
 * [Bootstrap 4.5.0](https://blog.getbootstrap.com/2020/05/12/bootstrap-4-5-0/)
   — peu d’améliorations (devait être la 4.4.2 à l’origine).
 * [Lancement de la Suite Elastic 7.7.0](https://www.elastic.co/fr/blog/elastic-stack-7-7-0-released)
-  — Workplace Search en GA, un framework d’alerting repensé, des améliorations pour Elastic APM et
-  Elastic SIEM.
+  — Workplace Search en GA, un framework d’alerting repensé, des améliorations pour Elastic APM et Elastic SIEM.
 * [SonarSource acquires RIPS Technologies](https://blog.sonarsource.com/sonarsource-acquires-rips-technologies)
   — et souhaite renforcer ses capacités autour de la sécurité.
 
 ## Articles, podcasts et vidéos
+
 * [Rethinking reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao)
   — ça à l’air sympa Svelte !
 * [Certaines complexités sont plus utiles que d’autres](https://www.lilobase.me/certaines-complexites-sont-plus-utiles-que-dautres/)
@@ -53,9 +54,10 @@ category: liens
   — on en apprend tous les jours sur CSS.
 
 ## Découvertes
+
 * [Zenika/alpine-chrome](https://github.com/Zenika/alpine-chrome)
-  — une image sympa découverte grâce à l’article [Crafting the perfect container to play with a
-    Headless Chrome](https://dev.to/jlandure/crafting-the-perfect-container-to-play-with-a-headless-chrome-ilp)
+  — une image sympa découverte grâce à
+  l’article [Crafting the perfect container to play with a Headless Chrome](https://dev.to/jlandure/crafting-the-perfect-container-to-play-with-a-headless-chrome-ilp)
 
 That’s all folks !
 
@@ -64,5 +66,5 @@ That’s all folks !
 *[CSS]: Cascading Style Sheets
 *[GA]: General availability
 *[JDBC]: Java DataBase Connectivity
-*[SIEM]: Security Information Management System 
+*[SIEM]: Security Information Management System
 *[tl;dr]: too long; didn’t read

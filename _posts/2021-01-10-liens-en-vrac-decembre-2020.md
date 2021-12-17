@@ -1,7 +1,5 @@
 ---
-layout: post
-title: Liens en vrac - Décembre 2020
-category: liens
+layout: post title: Liens en vrac - Décembre 2020 category: liens
 ---
 
 ## Nouvelles
@@ -26,7 +24,8 @@ category: liens
 - [Le Web est-il devenu trop compliqué ?](https://framablog.org/2020/12/30/le-web-est-il-devenu-trop-complique/)
   — assurément !
 - [L’architecture moite-moite, ou quand tu en mets des 2 côtés de la tartine](https://www.touilleur-express.fr/2020/12/27/larchitecture-moite-moite-ou-quand-tu-en-mets-des-2-cotes-de-la-tartine/)
-  — je me suis pas mal fait la réflexion ces derniers temps. Les alternatives (Unpoly, Htmx…) ont l’air intéressantes à connaître.
+  — je me suis pas mal fait la réflexion ces derniers temps. Les alternatives (Unpoly, Htmx…) ont l’air intéressantes à
+  connaître.
 - [Do Loom’s Claims Stack Up? Part 1: Millions of Threads?](https://webtide.com/do-looms-claims-stack-up-part-1/),
   [Do Looms Claims Stack Up? Part 2: Thread Pools?](https://webtide.com/do-looms-claims-stack-up-part-2/)
   — ils ont effectivement peut-être un peu trop survendu le truc. Néanmoins ça reste prometteur.
@@ -44,7 +43,8 @@ category: liens
 ## Découvertes
 
 - [Libraries.io](https://libraries.io/)
-  — une alternative à [artifact listener](https://www.artifact-listener.org/) qui ne se limite pas à [Maven Central](https://search.maven.org/).
+  — une alternative à [artifact listener](https://www.artifact-listener.org/) qui ne se limite pas
+  à [Maven Central](https://search.maven.org/).
 - [Pipenv: Python Dev Workflow for Humans](https://pipenv.pypa.io/en/latest/)
   — c’est bien mieux que [`virtualenv`](https://virtualenv.pypa.io/en/stable/).
 - [PostgresqlCO.NF](https://postgresqlco.nf/)

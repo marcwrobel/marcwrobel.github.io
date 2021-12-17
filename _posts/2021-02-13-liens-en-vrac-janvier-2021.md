@@ -9,14 +9,18 @@ category: liens
 - [Keycloak 12.0.0 released](https://www.keycloak.org//2020/12/keycloak-1200-released.html)
   — le `login theme` de base a été mis à jour, attention à vos thèmes spécifiques.
 - [Debian 11 Freeze Begins, Debian 12 Might Reduce Focus On i386 Support](https://www.phoronix.com/scan.php?page=news_item&px=Debian-11-Freeze-Starts)
-  — pour un aperçu des nouveautés [allez voir ici](https://www.debian.org/releases/bullseye/amd64/release-notes/ch-whats-new.fr.html).
+  — pour un aperçu des
+  nouveautés [allez voir ici](https://www.debian.org/releases/bullseye/amd64/release-notes/ch-whats-new.fr.html).
 - [Bootstrap v4.6.0](https://blog.getbootstrap.com/2021/01/19/bootstrap-4.6.0/)
-  — peu de changements, l’équipe se concentre sur [Bootstrap v5](https://blog.getbootstrap.com/2021/02/10/bootstrap-5-beta-2/).
+  — peu de changements, l’équipe se concentre
+  sur [Bootstrap v5](https://blog.getbootstrap.com/2021/02/10/bootstrap-5-beta-2/).
 - [GitLab 13.8 released with a Pipeline Editor and DORA metrics](https://about.gitlab.com/releases/2021/01/22/gitlab-13-8-released/)
-  — et beaucoup de petites améliorations sympathiques telles que le _multiline merge request_, le support des variables prédéfinies dans les _includes_…
+  — et beaucoup de petites améliorations sympathiques telles que le _multiline merge request_, le support des variables
+  prédéfinies dans les _includes_…
 - [New Year, new Red Hat Enterprise Linux programs: Easier ways to access RHEL](https://www.redhat.com/en/blog/new-year-new-red-hat-enterprise-linux-programs-easier-ways-access-rhel)
   — l’utilisation de RHEL est maintenant gratuite dans certaines
-  conditions ([FAQs for no-cost Red Hat Enterprise Linux](https://developers.redhat.com/articles/faqs-no-cost-red-hat-enterprise-linux)).
+  conditions ([FAQs for no-cost Red Hat Enterprise Linux](https://developers.redhat.com/articles/faqs-no-cost-red-hat-enterprise-linux))
+  .
 - [GitLab is moving to a three-tier product subscription model](https://about.gitlab.com/blog/2021/01/26/new-gitlab-product-subscription-model/)
   — et retire les offres _Bronze_ et _Starter_.
 - [Amazon : INACCEPTABLE - pourquoi nous avons dû changer de licence pour Elastic](https://www.elastic.co/fr/blog/why-license-change-AWS)
@@ -45,7 +49,8 @@ category: liens
 - [Amdahl’s & Gunther’s laws pour l’organisation des équipes de développement](https://www.touilleur-express.fr/2021/01/11/amdahls-gunthers-laws-pour-lorganisation-des-equipes-de-developpement/)
   — et oui, l’ajout de développeurs sur un projet n’est pas une solution miracle.
 - [How Square writes commit messages](https://medium.com/square-corner-blog/how-square-writes-commit-messages-8e92fcbf77c9#---415-539)
-  — toujours intéressant ce genre de retour, et en complément : [Conventional Commits](https://www.conventionalcommits.org/).
+  — toujours intéressant ce genre de retour, et en
+  complément : [Conventional Commits](https://www.conventionalcommits.org/).
 - [Keycloak Embedded in a Spring Boot Application](https://www.baeldung.com/keycloak-embedded-in-spring-boot-app)
   — tient tien, c’est intéressant.
 - [Using JDK FlightRecorder and JDK Mission Control](https://blog.arkey.fr/2020/06/28/using-jdk-flight-recorder-and-jdk-mission-control/)
@@ -54,10 +59,11 @@ category: liens
 ## Découvertes
 
 - [ProtonMail - Best Gmail alternative for privacy and security](https://protonmail.com/blog/gmail-alternative/)
-  — avec la gestion des contacts, des calendriers (_Proton Calendar_), et des fichiers (_Proton Drive_) ça commence à être une belle alternative à la suite
-  Google.
+  — avec la gestion des contacts, des calendriers (_Proton Calendar_), et des fichiers (_Proton Drive_) ça commence à
+  être une belle alternative à la suite Google.
 - [System Lambda](https://github.com/stefanbirkner/system-lambda)
-  — une collection d’utilitaires facilitant les tests faisant intervenir `java.lang.System` (variables d’environnement, _System Properties_, `System.out`
+  — une collection d’utilitaires facilitant les tests faisant intervenir `java.lang.System` (variables
+  d’environnement, _System Properties_, `System.out`
   , `System.err`…).
 - [Plugin Intellij IDEA - String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
   — un petit bijou !

@@ -5,7 +5,8 @@ category: liens
 ---
 
 ## News
-* [RGPD : la CNIL prévient qu’elle sera désormais moins conciliante](https://www.numerama.com/politique/482019-rgpd-la-cnil-previent-quelle-sera-desormais-moins-conciliante-en-cas-decart.html)
+
+- [RGPD : la CNIL prévient qu’elle sera désormais moins conciliante](https://www.numerama.com/politique/482019-rgpd-la-cnil-previent-quelle-sera-desormais-moins-conciliante-en-cas-decart.html)
   — il était temps !
 * [La Suite Elastic 7.0.0 est arrivée](https://www.elastic.co/fr/blog/elastic-stack-7-0-0-released)
   — avec plein de nouveautés.
@@ -17,9 +18,10 @@ category: liens
   — il a bon dos l’open source !
 
 ## Articles
+
 * [How to enable SSH access using a GPG key for authentication](https://opensource.com/article/19/4/gpg-subkeys-ssh)
   — allez je m’y mets !
-* [Writing Ansible filter plugins](https://blog.oddbit.com/post/2019-04-25-writing-ansible-filter-plugins/) 
+* [Writing Ansible filter plugins](https://blog.oddbit.com/post/2019-04-25-writing-ansible-filter-plugins/)
   — bon à savoir si vous utilisez Ansible.
 * [The Problem with SSH Agent Forwarding](https://defn.io/2019/04/12/ssh-forwarding/)
   — utilisez `ProxyJump`.
@@ -30,9 +32,10 @@ category: liens
 * [Scalable I/O: Events- Vs Multithreading-based](https://thetechsolo.wordpress.com/2016/02/29/scalable-io-events-vs-multithreading-based/)
   — pas simple mais très intéressant !
 * [Building a Reliable Cloud-Based Bank in Java](https://www.infoq.com/presentations/starling-bank/)
-  — DITTO architecture explained. 
+  — DITTO architecture explained.
 
 ## Découvertes
+
 * [mesdroitssociaux.gouv.fr](https://www.mesdroitssociaux.gouv.fr)
   — ça facilite un peu les choses !
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/index.html)

@@ -13,13 +13,15 @@ category: liens
 - [Lancement d’Elastic 7.11 : Disponibilité générale de la recherche dans les snapshots et du nouveau niveau « cold », ainsi que de la version bêta du schéma à la lecture](https://www.elastic.co/fr/blog/whats-new-elastic-7-11-0-searchable-snapshots-schema-on-read)
   — comme d’habitude le principal est dans le titre.
 - [Announcing the Community Ansible 3.0.0 Package](https://www.ansible.com/blog/announcing-the-community-ansible-3.0.0-package)
-  — et vous aurez certainement besoin de [Ansible 3.0.0 Q&A](https://www.ansible.com/blog/ansible-3.0.0-qa) pour vous y retrouver.
+  — et vous aurez certainement besoin de [Ansible 3.0.0 Q&A](https://www.ansible.com/blog/ansible-3.0.0-qa) pour vous y
+  retrouver.
 - [Into the Sunset on May 1st: Bintray, JCenter, GoCenter, and ChartCenter](https://jfrog.com/blog/into-the-sunset-bintray-jcenter-gocenter-and-chartcenter/)
   — les paquets déjà téléversés dans le _JCenter repository_ continueront d’être accessible jusqu’au 01/02/2022.
 - [Amazon Web Services To Skill 29 Million People Globally By 2025](https://www.newsgram.com/amazon-web-service-to-skill-29-million-people-globally-by-2025/amp/)
   — pas sûr que ce soit une bonne chose.
 - [The digital euro should be like cash: secure and anonymous](https://www.ebicsblog.com/2021/02/the-digital-euro-should-be-like-cash.html)
-  — la Banque Centrale Européenne se met à réfléchir à [l'euro numérique](https://www.ecb.europa.eu/euro/digital_euro/html/index.fr.html).
+  — la Banque Centrale Européenne se met à réfléchir
+  à [l'euro numérique](https://www.ecb.europa.eu/euro/digital_euro/html/index.fr.html).
 - [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)
   — 2021 sera l’année des [_Supply-Chain Attacks_](https://en.wikipedia.org/wiki/Supply_chain_attack) !
 
@@ -34,7 +36,8 @@ category: liens
 - [The Bastion](https://www.nolimitsecu.fr/the-bastion/)
   — un podcast NoLimitSecu consacré au bastion [The Bastion](https://github.com/ovh/the-bastion).
 - [What CentOS alternative distro should you choose?](https://haydenjames.io/what-centos-alternative-distro-should-you-choose/)
-  — pour le rédacteur : _Rocky Linux for CentOS-only servers, AlmaLinux for CentOS with cPanel/WHM, and Amazon Linux 2 on AWS_.
+  — pour le rédacteur : _Rocky Linux for CentOS-only servers, AlmaLinux for CentOS with cPanel/WHM, and Amazon Linux 2
+  on AWS_.
 - [Why Big Tech deplatforming should be deeply disturbing for everyone, regardless of your politics](https://protonmail.com/blog/big-tech-deplatform-antitrust/)
   — perturbant…
 - [Regex For Noobs (like me!) - An Illustrated Guide](https://www.janmeppe.com/blog/regex-for-noobs/)
@@ -54,7 +57,7 @@ category: liens
   — _a specification for adding human and machine-readable meaning to commit messages_.
 - [Test Kitchen](https://kitchen.ci/)
   — je n’ai pas encore testé, mais ça pourrait être une bonne alternative (plus simple, plus rapide et moins verbeuse) à
-    [molecule](https://github.com/ansible-community/molecule).
+  [molecule](https://github.com/ansible-community/molecule).
 
 That’s all folks !
 

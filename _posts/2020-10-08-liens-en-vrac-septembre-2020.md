@@ -11,13 +11,13 @@ category: liens
 - [IE11 : on en prend encore 1 an](https://www.programmez.com/actualites/ie11-en-prend-encore-1-30804)
   — enfin, ça sera bientôt terminé quand même.
 - [JDK 15 Release: 64 New Features and APIs](https://www.azul.com/jdk-15-release-64-new-features-and-apis/)
-  — au menu pour cette version : les _sealed classes_ en preview, les _text blocks_ en version
-    définitive, le support d’EdDSA, le Z Garbage Collector et Shenandoah prêt pour la production.
+  — au menu pour cette version : les _sealed classes_ en preview, les _text blocks_ en version définitive, le support
+  d’EdDSA, le Z Garbage Collector et Shenandoah prêt pour la production.
 - [The future of .NET Standard](https://devblogs.microsoft.com/dotnet/the-future-of-net-standard/)
   — tl;dr : no future.
 - [Announcing TypeScript 4.0](https://devblogs.microsoft.com/typescript/announcing-typescript-4-0/)
-  — au menu : les _Variadic Tuple Types_, les _Labeled Tuple Elements_, l’inférence des propriétés de
-   classes depuis les constructeurs, et bien d’autres choses.
+  — au menu : les _Variadic Tuple Types_, les _Labeled Tuple Elements_, l’inférence des propriétés de classes depuis les
+  constructeurs, et bien d’autres choses.
 - [Moment.js c’est fini !](https://brunoacademie.netlify.app/posts/news/momentjs-fini/)
   — mais nous aura rendu un fier service.
 - [Bootstrap Icons v1.0.0](https://blog.getbootstrap.com/2020/08/28/bootstrap-icons-stable/)
@@ -25,15 +25,15 @@ category: liens
 - [PostgreSQL 13 Released!](https://www.postgresql.org/about/news/postgresql-13-released-2077/)
   — avec encore pas mal d’améliorations de performance.
 - [Elastic 7.9 released](https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security)
-  — avec un nouveau niveau gratuit pour Workplace Search et la sécurité des points de terminaison,
-    un agent unifié unique avec l’ingestion de données en un clic, et une myriade d’autre choses.
+  — avec un nouveau niveau gratuit pour Workplace Search et la sécurité des points de terminaison, un agent unifié
+  unique avec l’ingestion de données en un clic, et une myriade d’autre choses.
 - [Code scanning is now available!](https://github.blog/2020-09-30-code-scanning-is-now-available/)
   — mine de rien ça simplifie les choses.
 - [GitLab 13.3 released with coverage-guided fuzz testing and a build matrix for CI/CD](https://about.gitlab.com/releases/2020/08/22/gitlab-13-3-released/)
   — comme d’habitude le principal est dans le titre.
 - [Meet Code With Me (EAP) – a tool for collaborative development by JetBrains](https://blog.jetbrains.com/blog/2020/09/28/code-with-me-eap/)
   — ça semble prometteur !
-  
+
 ## Articles, podcasts et vidéos
 
 - [WHY NOT: serialVersionUID](https://github.com/rzwitserloot/lombok/wiki/WHY-NOT:-serialVersionUID)
@@ -60,8 +60,10 @@ category: liens
 ## Découvertes
 
 - [jc - JSON CLI output utility](https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/)
-  — et en plus à partir d’Ansible 2.9 c’est [utilisable en tant que filtre](https://blog.kellybrazil.com/2020/08/30/parsing-command-output-in-ansible-with-jc/).
-- [entr -  Run arbitrary commands when files change](http://eradman.com/entrproject/)
+  — et en plus à partir d’Ansible 2.9
+  c’est [utilisable en tant que filtre](https://blog.kellybrazil.com/2020/08/30/parsing-command-output-in-ansible-with-jc/)
+  .
+- [entr - Run arbitrary commands when files change](http://eradman.com/entrproject/)
   — ma foi, ça peut servir !
 
 That’s all folks !

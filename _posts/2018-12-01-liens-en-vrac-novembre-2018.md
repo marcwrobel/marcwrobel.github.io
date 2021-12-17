@@ -13,7 +13,8 @@ category: liens
 * [Publication of the 2019 EPC SEPA scheme rulebooks](https://www.europeanpaymentscouncil.eu/news-insights/news/publication-2019-epc-sepa-scheme-rulebooks)
   — Techniquement pas grand-chose de neuf.
 * [Announcing TypeScript 3.2](https://devblogs.microsoft.com/typescript/announcing-typescript-3-2/)
-  — pas mal d’améliorations dont notamment : des contrôles plus stricts pour `bind` / `call` / `apply`, l’héritage de configuration via les packages
+  — pas mal d’améliorations dont notamment : des contrôles plus stricts pour `bind` / `call` / `apply`, l’héritage de
+  configuration via les packages
   `node_modules`, ou encore le support `BigInt` (`esnext`).
 * [Elastic APM Java Agent is Generally Available](https://www.elastic.co/fr/blog/elastic-apm-java-agent-is-generally-available)
   — j’ai hâte d’avoir l’occasion de jouer avec !
@@ -26,14 +27,15 @@ category: liens
 
 * [Passwords Evolved: Authentication Guidance for the Modern Era](https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/)
   — super intéressant ! Après vous pouvez lire
-  aussi [Here's Why 'Insert Thing Here' Is Not a Password Killer](https://www.troyhunt.com/heres-why-insert-thing-here-is-not-a-password-killer/).
+  aussi [Here's Why 'Insert Thing Here' Is Not a Password Killer](https://www.troyhunt.com/heres-why-insert-thing-here-is-not-a-password-killer/)
+  .
 * [Beyond Passwords: 2FA, U2F and Google Advanced Protection](https://www.troyhunt.com/beyond-passwords-2fa-u2f-and-google-advanced-protection/)
   — _adding a second step to authentication should not be seen as an excuse to weaken the first step_.
 * [The perfect password manager](https://www.palkeo.com/sys/perfect-password-manager.html)
   — [Yubikey](https://www.yubico.com/) + [pass](https://www.passwordstore.org/).
 * [Ultimate Guide to Implementing equals() and hashCode() with Hibernate](https://thoughts-on-java.org/ultimate-guide-to-implementing-equals-and-hashcode-with-hibernate/)
-  — _you only need to override Object’s default implementations, if you work with multiple Hibernate Sessions or with detached entities. For all other
-  applications, the default implementation works perfectly fine._
+  — _you only need to override Object’s default implementations, if you work with multiple Hibernate Sessions or with
+  detached entities. For all other applications, the default implementation works perfectly fine._
 * [You need neither PWA nor AMP to make your website load fast](https://tonsky.me/blog/pwa/)
   — une petite dose de pragmatisme ça ne fait pas de mal.
 * [SSL Handshake Failures](https://www.baeldung.com/java-ssl-handshake-failures)

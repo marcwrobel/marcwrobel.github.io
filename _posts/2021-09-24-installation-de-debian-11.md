@@ -36,8 +36,8 @@ Je trouve qu’il est plus confortable d’utiliser Debian en anglais. Pour cela
 
 ## Réseau
 
-La plupart du temps, utilisez DHCP pour configurer cette partie. Si vous avez absolument besoin de configurer une adresse
-IP statique choisissez cette option et laissez vous guider.
+La plupart du temps, utilisez DHCP pour configurer cette partie. Si vous avez absolument besoin de configurer une
+adresse IP statique choisissez cette option et laissez vous guider.
 
 Pour le hostname utilisez votre imagination. Si vous possédez un nom de domaine vous pouvez l’utiliser en tant que
 domain name du système.

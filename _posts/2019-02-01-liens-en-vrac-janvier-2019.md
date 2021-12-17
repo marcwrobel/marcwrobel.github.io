@@ -5,6 +5,7 @@ category: liens
 ---
 
 ## News
+
 * [DNS Flag Day, quels impacts ?](https://www.ovh.com/fr/blog/dns-flag-day-quels-impacts/)
   — aucun chez OVH en tout cas.
 * [The 773 Million Record "Collection #1" Data Breach](https://www.troyhunt.com/the-773-million-record-collection-1-data-reach/)
@@ -13,6 +14,7 @@ category: liens
   — pour une sortie courant 2019.
 
 ## Articles
+
 * [6 Hibernate Best Practices for Readable and Maintainable Code](https://thoughts-on-java.org/hibernate-best-practices-for-readable-and-maintainable-code/)
   — vendu !
 * [Lessons learned scaling PostgreSQL database to 1.2bn records/month](https://gajus.medium.com/lessons-learned-scaling-postgresql-database-to-1-2bn-records-month-edc5449b3067)

@@ -13,7 +13,8 @@ category: liens
 * [Ansible Galaxy: Doin’ It Right](https://www.ansible.com/blog/ansible-galaxy-doin-it-right)
   — du mieux sur [Ansible Galaxy](https://galaxy.ansible.com/).
 * [Ansible 2.6: Your Time Has Come!](https://www.ansible.com/blog/your-time-has-come-ansible-2-6)
-  — avec, comme d’habitude, une liste interminable de [modifications](https://github.com/ansible/ansible/blob/stable-2.6/changelogs/CHANGELOG-v2.6.rst).
+  — avec, comme d’habitude, une liste interminable
+  de [modifications](https://github.com/ansible/ansible/blob/stable-2.6/changelogs/CHANGELOG-v2.6.rst).
 
 ## Articles
 

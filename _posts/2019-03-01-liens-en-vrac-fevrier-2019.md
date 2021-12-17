@@ -5,12 +5,14 @@ category: liens
 ---
 
 ## News
+
 * [La stupéfiante arnaque d’un escroc qui utilise un masque de Jean-Yves Le Drian pour extorquer 80 millions d’euros](https://www.ladepeche.fr/2019/02/14/la-stupefiante-arnaque-dun-escroc-qui-utilise-un-masque-de-jean-yves-le-drian-pour-extorquer-80-millions-deuros,8014877.php)
   — simple et efficace ;).
 * [Amazon Corretto 8 is now Generally Available](https://dzone.com/articles/amazon-corretto-8-1)
   — ça commence à faire beaucoup de distribution OpenJDK !
 
 ## Articles
+
 * [PlantUML: Diagrams as Code](https://tech.olx.com/plantuml-diagrams-as-code-93773b394cd9)
   — une bonne introduction à PlantUML (pour ceux qui ne connaissent pas déjà).
 * [Attack of the week: searchable encryption and the ever-expanding leakage function](https://blog.cryptographyengineering.com/2019/02/11/attack-of-the-week-searchable-encryption-and-the-ever-expanding-leakage-function/)
@@ -33,7 +35,8 @@ category: liens
 * [Jib 1.0.0 is GA—building Java Docker images has never been easier](https://cloud.google.com/blog/products/application-development/jib-1-0-0-is-ga-building-java-docker-images-has-never-been-easier)
   — et hop, plus besoin de `Dockerfile` !
 * [Managing passwords in teams with Gopass](https://blog.codecentric.de/en/2019/02/manage-team-passwords-gopass/)
-  — et même sans parler d’équipe, Gopass apporte des améliorations intéressantes à [pass](https://www.passwordstore.org/).
+  — et même sans parler d’équipe, Gopass apporte des améliorations intéressantes
+  à [pass](https://www.passwordstore.org/).
 
 That’s all folks !
 

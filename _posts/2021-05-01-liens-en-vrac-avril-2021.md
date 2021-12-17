@@ -7,8 +7,9 @@ category: liens
 ## Nouvelles
 
 - [GitLab 13.11 released with Kubernetes Agent and Pipeline Compliance](https://about.gitlab.com/releases/2021/04/22/gitlab-13-11-released/)
-  — comme d’habitude plein de bonnes choses, dont notamment la possibilité d’utiliser plusieurs caches pour un même job, la possibilité de récupérer un lien
-    vers une ligne de code précise, une nouvelle option _Allow force push_ afin d’éviter de bidouiller les paramètres de _branch protection_...
+  — comme d’habitude plein de bonnes choses, dont notamment la possibilité d’utiliser plusieurs caches pour un même job,
+  la possibilité de récupérer un lien vers une ligne de code précise, une nouvelle option _Allow force push_ afin
+  d’éviter de bidouiller les paramètres de _branch protection_...
 - [SonarQube 8.9 LTS: standby for launch](https://blog.sonarsource.com/sonarqube-lts-89-standby)
   — elle se fait attendre cette nouvelle version LTS !
 - [Node v16.0.0](https://nodejs.org/en/blog/release/v16.0.0/)
@@ -25,7 +26,8 @@ category: liens
 - [REST API Design](https://www.mscharhag.com/p/rest-api-design)
   — une série d’articles sur la construction d’API REST qui vaut le coup d’être lue.
 - [Deploying to Maven Central using GitHub Actions](https://bjansen.github.io/java/2021/02/03/deploying-to-maven-central-using-github-actions.html)
-  — pratique si vous maintenez une librairie java open-source, néanmoins il y a quand même pas mal de secrets à déclarer dans GitHub.
+  — pratique si vous maintenez une librairie java open-source, néanmoins il y a quand même pas mal de secrets à déclarer
+  dans GitHub.
 - [Is there a compatibility list for Angular / Angular-CLI and Node.js?](https://stackoverflow.com/questions/60248452/is-there-a-compatibility-list-for-angular-angular-cli-and-node-js)
   — tl;dr : _Angular requires a current, active LTS, or maintenance LTS version of Node.js._
 - [Mettre Google Analytics en conformité avec le RGPD, sans bandeau de cookie](https://www.geek-directeur-technique.com/2021/04/15/mettre-google-analytics-en-conformite-avec-le-rgpd-sans-bandeau-de-cookie)

@@ -15,7 +15,8 @@ category: liens
 - [Spring Boot 2.5 is now GA](https://spring.io/blog/2021/05/20/spring-boot-2-5-is-now-ga)
   — pas vraiment de grosse nouveauté dans cette version.
 - [Angular v12 is now available](https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49?gi=a1826e888a4d)
-  — avec le support de TypeScript 4.2, la dépréciation d’IE 11, le support du _nullish coalescing operator_ (`??`) dans les templates...
+  — avec le support de TypeScript 4.2, la dépréciation d’IE 11, le support du _nullish coalescing operator_ (`??`) dans
+  les templates...
 - [Bootstrap 5](https://blog.getbootstrap.com/2021/05/05/bootstrap-5/)
   — avec énormément de nouveautés et de [_breaking changes_](https://getbootstrap.com/docs/5.0/migration/).
 - [Keycloak 13.0.0 released](https://www.keycloak.org//2021/05/keycloak-1300-released.html)
@@ -34,8 +35,9 @@ category: liens
 - [Log Groups in Spring Boot 2.1](https://www.baeldung.com/spring-boot-log-groups)
   — pratique !
 - [Logging additional metadata](https://blog.frankel.ch/logging-additional-metadata/)
-  — l’idée est sympa, mais j’ai comme un gros doute sur le fait que ça fonctionne bien (les caractères spéciaux JSON ne me semblent pas échappés du tout dans
-    `%msg`).
+  — l’idée est sympa, mais j’ai comme un gros doute sur le fait que ça fonctionne bien (les caractères spéciaux JSON ne
+  me semblent pas échappés du tout dans
+  `%msg`).
 
 ## Découvertes
 

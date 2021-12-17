@@ -7,8 +7,8 @@ category: liens
 ## Nouvelles
 
 * [Debian 8 Long Term Support reaching end-of-life](https://www.debian.org/News/2020/20200709)
-  — Debian 8 passe donc maintenant en [ELTS](https://wiki.debian.org/LTS/Extended) : pour ceux
-    encore sur cette version pensez à vous mettre à jour rapidement !
+  — Debian 8 passe donc maintenant en [ELTS](https://wiki.debian.org/LTS/Extended) : pour ceux encore sur cette version
+  pensez à vous mettre à jour rapidement !
 * [Version 10 of Angular Now Available](https://blog.angular.io/version-10-of-angular-now-available-78960babd41)
   — dépréciation du support IE 9 / 10, support de TypeScript 3.9,
 * [Microsoft annonce la disponibilité générale de Defender ATP pour les serveurs Linux](https://linux.developpez.com/actu/306647/Microsoft-annonce-la-disponibilite-generale-de-Windows-Defender-ATP-son-antivirus-pour-Windows-10-pour-les-serveurs-Linux-et-le-lancement-d-une-preversion-publique-pour-Android/)
@@ -18,8 +18,8 @@ category: liens
 * [GitLab 13.2 released with Planning Iterations and Load Performance Testing](https://about.gitlab.com/releases/2020/07/22/gitlab-13-2-released/)
   — tout est dans le titre.
 
-
 ## Articles, podcasts et vidéos
+
 * [Comprendre la notation Big O en 7 minutes](https://www.jesuisundev.com/comprendre-la-notation-big-o-en-7-minutes/)
   — un petit rappel ne fait pas de mal.
 * [Des messages d’exceptions internationalisés avec Spring](https://blog.ippon.fr/2020/07/22/exceptions-internationalisees/)
@@ -35,8 +35,8 @@ category: liens
 * [12 recipes for using the Optional class as it’s meant to be used](https://blogs.oracle.com/javamagazine/12-recipes-for-using-the-optional-class-as-its-meant-to-be-used)
   — un article bien pratique sur l’utilisation de la classe `Optional` en Java.
 * [Angular + Docker with a Big Hug from Spring Boot](https://developer.okta.com/blog/2020/06/17/angular-docker-spring-boot)
-  — le petit dernier d’une belle série d’articles de [Matt Raible](https://github.com/mraible) sur
-    Spring Boot + Angular.
+  — le petit dernier d’une belle série d’articles de [Matt Raible](https://github.com/mraible) sur Spring Boot +
+  Angular.
 * [Clean Architecture Boundaries with Spring Boot and ArchUnit](https://reflectoring.io/java-components-clean-boundaries/)
   — intéressant !
 * [Docker, Spring Boot & Buildpacks](https://solocoding.dev/blog/eng_docker_buildpacks)
@@ -47,6 +47,7 @@ category: liens
   — c’est toujours intéressant d’avoir un avis dissonant sur la question.
 
 ## Découvertes
+
 * [Découverte du bastion Teleport](https://blog.octo.com/decouverte-du-bastion-teleport/)
   — si vous avez besoin d’un peu plus qu’un simple [bastion SSH](https://blog.octo.com/le-bastion-ssh/).
 * [tuned, PG, and you](https://hunleyd.github.io/posts/tuned-PG-and-you/)
