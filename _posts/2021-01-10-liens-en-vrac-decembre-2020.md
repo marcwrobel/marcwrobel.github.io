@@ -1,5 +1,7 @@
 ---
-layout: post title: Liens en vrac - Décembre 2020 category: liens
+layout: post
+title: Liens en vrac - Décembre 2020
+category: liens
 ---
 
 ## Nouvelles
