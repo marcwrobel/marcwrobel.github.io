@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac - Août 2018
 category: liens
+youtube_video_id: ReVs4hUf8iQ
+youtube_video_title: PSYKUP - Violent Brazilian Massage
 ---
 
 ## News

@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac - Novembre 2018
 category: liens
+youtube_video_id: 0g4Mh7_uLd0
+youtube_video_title: Vennart - Don't Forget The Joker
 ---
 
 ## News

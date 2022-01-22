@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac — Avril 2021
 category: liens
+youtube_video_id: yPwZQiYsL4w
+youtube_video_title: Emiliana Torrini - Gollum's Song
 ---
 
 ## Nouvelles

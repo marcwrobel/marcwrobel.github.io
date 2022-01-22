@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac - Janvier 2019
 category: liens
+youtube_video_id: jKlP2rKtAGQ
+youtube_video_title: August Burns Red - The Frost
 ---
 
 ## News

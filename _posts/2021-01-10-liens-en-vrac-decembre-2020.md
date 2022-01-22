@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac - Décembre 2020
 category: liens
+youtube_video_id: 6RjnWp14wwU
+youtube_video_title: Tchaïkovski - Casse-Noisette - Orchestre National du Bolchoï
 ---
 
 ## Nouvelles

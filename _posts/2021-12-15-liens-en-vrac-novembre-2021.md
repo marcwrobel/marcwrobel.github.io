@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac — Novembre 2021
 category: liens
+youtube_video_id: 6JUwmk1FFRE
+youtube_video_title: Katia & Marielle Labèque - Glass - Les Enfants Terribles
 ---
 
 ## Nouvelles

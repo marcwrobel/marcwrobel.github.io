@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac - Novembre 2020
 category: liens
+youtube_video_id: svwJTnZOaco
+youtube_video_title: Radiohead - Idioteque
 ---
 
 ## Nouvelles

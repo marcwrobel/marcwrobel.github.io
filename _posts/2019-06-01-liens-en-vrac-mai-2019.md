@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac - Mai 2019
 category: liens
+youtube_video_id: qULl7tSYMl0
+youtube_video_title: Ravi Shankar and Philip Glass - Offering - Britten Sinfonia
 ---
 
 ## News

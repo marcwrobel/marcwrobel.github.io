@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac - Juillet 2018
 category: liens
+youtube_video_id: gf7kMaurLZk
+youtube_video_title: Roger Waters - Déjà Vu
 ---
 
 ## News

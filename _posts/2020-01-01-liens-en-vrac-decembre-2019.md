@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac - Décembre 2019
 category: liens
+youtube_video_id: dYEbjAUG5WE
+youtube_video_title: Mass Hysteria - Attracteurs étranges
 ---
 
 ## News

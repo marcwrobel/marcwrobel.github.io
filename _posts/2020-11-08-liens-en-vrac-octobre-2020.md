@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac - Octobre 2020
 category: liens
+youtube_video_id: 6tqOMxaGgBU
+youtube_video_title: Brahms - Hungarian Dance No. 1 - Berliner Philharmoniker
 ---
 
 ## Nouvelles

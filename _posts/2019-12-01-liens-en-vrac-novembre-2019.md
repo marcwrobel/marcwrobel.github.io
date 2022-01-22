@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac — Novembre 2019
 category: liens
+youtube_video_id: wGwctEd2by4
+youtube_video_title: Machine Head - None But My Own
 ---
 
 ## News

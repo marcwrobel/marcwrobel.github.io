@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac - Juin 2018
 category: liens
+youtube_video_id: NPrpNhEs15Y
+youtube_video_title: Lofofora - Les Gens
 ---
 
 ## News

@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac - Juin 2019
 category: liens
+youtube_video_id: kX7a62fsm_k
+youtube_video_title: Flotation Toy Warning - Losing Carolina ; For Drusky
 ---
 
 ## News

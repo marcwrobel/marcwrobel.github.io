@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac — Juillet / Août 2021
 category: liens
+youtube_video_id: dPThzBElZ1c
+youtube_video_title: Damon Albarn - The Story of a Cheating Heart
 ---
 
 ## Nouvelles

@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac — Mai 2020
 category: liens
+youtube_video_id: rjbiUj-FD-o
+youtube_video_title: Damon Albarn - Everyday Robots
 ---
 
 ## Nouvelles

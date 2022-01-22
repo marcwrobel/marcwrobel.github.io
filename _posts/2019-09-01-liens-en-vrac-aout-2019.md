@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac - Août 2019
 category: liens
+youtube_video_id: cg0M4LzEITQ
+youtube_video_title: Dmitrij Schostakowitsch - Symphony No. 5 - Frankfurt Radio Symphony
 ---
 
 ## News

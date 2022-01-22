@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac - Septembre 2019
 category: liens
+youtube_video_id: fVrVjeEtDMU
+youtube_video_title: Gustav Holst - The Planets - Sinfonia Rotterdam
 ---
 
 ## News

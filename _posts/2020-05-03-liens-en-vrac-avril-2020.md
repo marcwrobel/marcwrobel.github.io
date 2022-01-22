@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac — Avril 2020
 category: liens
+youtube_video_id: gbVUGwCP1qw
+youtube_video_title: Feu! Chatterton - Côte Concorde
 ---
 
 ## Nouvelles

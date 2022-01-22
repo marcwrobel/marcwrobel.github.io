@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac - Juin 2020
 category: liens
+youtube_video_id: Adrw-zxiTe4
+youtube_video_title: Orff - Carmina Burana - Temple University Symphony Orchestra
 ---
 
 ## Nouvelles

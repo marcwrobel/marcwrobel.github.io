@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac — Octobre 2021
 category: liens
+youtube_video_id: f2bwpabIi90
+youtube_video_title: Dom La Nena - Gracias a la Vida
 ---
 
 ## Nouvelles

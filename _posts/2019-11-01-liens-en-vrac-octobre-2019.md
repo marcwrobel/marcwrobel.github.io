@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac - Octobre 2019
 category: liens
+youtube_video_id: 7-_lQmBu4-g
+youtube_video_title: Cake - Frank Sinatra
 ---
 
 ## News

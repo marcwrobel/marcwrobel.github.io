@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac - Septembre 2018
 category: liens
+youtube_video_id: ReVs4hUf8iQ
+youtube_video_title: Mozart - Requiem - Claudio Abbado, Lucerne Festival Orchestra
 ---
 
 ## News

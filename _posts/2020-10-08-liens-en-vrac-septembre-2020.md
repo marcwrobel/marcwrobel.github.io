@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac - Septembre 2020
 category: liens
+youtube_video_id: HuS5NuXRb5Y
+youtube_video_title: The Beatles - Eleanor Rigby
 ---
 
 ## Nouvelles

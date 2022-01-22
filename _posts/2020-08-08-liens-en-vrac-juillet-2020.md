@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac - Juillet 2020
 category: liens
+youtube_video_id: oOTpQpoHHaw
+youtube_video_title: Erik Satie - Gnossienne No. 1 - Alessio Nanni
 ---
 
 ## Nouvelles

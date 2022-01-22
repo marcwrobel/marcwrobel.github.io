@@ -24,7 +24,9 @@ layout: default
           </p>
         </header>
 
-        <div class="text-justify" itemprop="articleBody">
+        {%- include youtube-video.html -%}
+
+        <div class="text-justify pt-2" itemprop="articleBody">
           {{ content }}
         </div>
       </article>

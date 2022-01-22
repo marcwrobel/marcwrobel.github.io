@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac — Septembre 2021
 category: liens
+youtube_video_id: 6NDwT6SCfk4
+youtube_video_title: Ravel - Bolero - Orchestre Philharmonique de Radio France
 ---
 
 ## Nouvelles

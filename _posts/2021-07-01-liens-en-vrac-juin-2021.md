@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac — Juin 2021
 category: liens
+youtube_video_id: LnKUD_OztRE
+youtube_video_title: Tame Impala - Elephant
 ---
 
 ## Nouvelles

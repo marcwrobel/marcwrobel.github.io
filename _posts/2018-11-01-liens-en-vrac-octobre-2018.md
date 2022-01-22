@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac - Octobre 2018
 category: liens
+youtube_video_id: 1QwjFmnCMKA
+youtube_video_title:  Brisa Roché - The Drum
 ---
 
 ## News

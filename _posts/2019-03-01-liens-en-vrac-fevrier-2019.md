@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac - Février 2019
 category: liens
+youtube_video_id: NgS8qg7VJ-s
+youtube_video_title: Blood Red Shoes - When We Wake
 ---
 
 ## News

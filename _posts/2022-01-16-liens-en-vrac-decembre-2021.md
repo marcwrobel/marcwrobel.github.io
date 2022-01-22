@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac — Décembre 2021
 category: liens
+youtube_video_id: zzE-kVadtNw
+youtube_video_title: Vivaldi - Quattro Stagioni - Janine Jansen
 ---
 
 ## Nouvelles

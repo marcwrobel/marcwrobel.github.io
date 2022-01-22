@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac - Juillet 2019
 category: liens
+youtube_video_id: VMQPmvcoLLQ
+youtube_video_title: H-Burns - Nowhere To Be
 ---
 
 ## News
