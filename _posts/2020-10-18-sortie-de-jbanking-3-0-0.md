@@ -20,7 +20,7 @@ précédentes. Ainsi :
 - certaines signatures des méthodes de `IsoCurrency` et de `Calendar` ont été modifiées,
 - la visibilité de l’énumération `BbanStructure` a été modifiée à _package-private_ plutôt que _public_.
 
-Pour la liste exhaustive des modifications vous pouvez consulter les
+Pour la liste exhaustive des modifications, vous pouvez consulter les
 [notes de version](https://github.com/marcwrobel/jbanking/releases/tag/v3.0.0).
 
 Pour utiliser cette nouvelle version rien de plus simple : téléchargez-la

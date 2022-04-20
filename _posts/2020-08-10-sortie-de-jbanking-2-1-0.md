@@ -20,7 +20,7 @@ La version 2.1.0 de [jbanking](https://github.com/marcwrobel/jbanking) est sorti
   - New York Stock Exchange (NYSE),
   - Trans-European Automated Real-time Gross Settlement Express Transfer System (TARGET).
 
-Pour la liste exhaustive des modifications vous pouvez consulter les
+Pour la liste exhaustive des modifications, vous pouvez consulter les
 [notes de version](https://github.com/marcwrobel/jbanking/releases/tag/v2.1.0).
 
 Pour utiliser cette nouvelle version rien de plus simple : téléchargez-la

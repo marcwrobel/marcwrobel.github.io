@@ -7,7 +7,7 @@ category: développement
 La version 3.1.1 de [jbanking](https://github.com/marcwrobel/jbanking) est sortie. Cette nouvelle version corrige
 quelques problèmes de validation du check digit pour les IBAN et les identifiants créanciers (CI).
 
-Pour la liste exhaustive des modifications vous pouvez consulter les
+Pour la liste exhaustive des modifications, vous pouvez consulter les
 [notes de version](https://github.com/marcwrobel/jbanking/releases/tag/v3.1.1).
 
 Pour utiliser cette nouvelle version rien de plus simple : téléchargez-la

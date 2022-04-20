@@ -21,7 +21,7 @@ La version 3.1.0 de [jbanking](https://github.com/marcwrobel/jbanking) est sorti
   devise [UYW (Unidad Previsional)](https://www.currency-iso.org/en/shared/amendments/iso-4217-amendment.html) à la
   liste des devises supportées.
 
-Pour la liste exhaustive des modifications vous pouvez consulter les
+Pour la liste exhaustive des modifications, vous pouvez consulter les
 [notes de version](https://github.com/marcwrobel/jbanking/releases/tag/v3.1.0).
 
 Pour utiliser cette nouvelle version rien de plus simple : téléchargez-la
