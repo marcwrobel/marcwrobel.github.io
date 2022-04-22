@@ -12,9 +12,14 @@ youtube_video_title: Russian Circles - Quartered
 - [Debian To Consider Changing How It Treats Closed-Source Firmware](https://www.phoronix.com/scan.php?page=news_item&px=Debian-Considering-Firmware)
   — en attendant il y a l'image unofficial non-free images including firmware packages.
 - [IntelliJ IDEA 2022.1 Is Out](https://blog.jetbrains.com/idea/2022/04/intellij-idea-2022-1/)
+- [Ensure Greater Software Security With Package Analysis by Checkmarx in IntelliJ IDEA](https://blog.jetbrains.com/idea/2022/04/ensure-greater-software-security-with-package-analysis-by-checkmarx-in-intellij-idea/)
 - [OpenSSH 9.0 Released With Hardening Against Future Quantum Computers](https://www.phoronix.com/scan.php?page=news_item&px=OpenSSH-9.0-Released)
 - [Waiting for PostgreSQL 15 – JSON_TABLE](https://www.depesz.com/2022/04/06/waiting-for-postgresql-15-json_table/)
 - [Ansible 5.6.0 has been released](https://www.mail-archive.com/ansible-project@googlegroups.com/msg60260.html)
+- [Canonical Ubuntu 22.04 LTS is released](https://ubuntu.com/blog/ubuntu-22-04-lts-released)
+- [Keycloak 18.0.0 released](https://www.keycloak.org/2022/04/keycloak-1800-released)
+- [Oracle JRE and JDK Cryptographic Roadmap](https://www.java.com/en/jre-jdk-cryptoroadmap.html)
+- [Node.js 18 is now available!](https://nodejs.org/en/blog/announcements/v18-release-announce/)
 
 ## Articles, podcasts et vidéos
 
@@ -32,10 +37,16 @@ youtube_video_title: Russian Circles - Quartered
   —
 - [Tag All The Things](https://www.databasesoup.com/2015/01/tag-all-things-part-3.html)
   —
+- [Deduction-Based Polymorphism in Jackson 2.12](https://www.baeldung.com/jackson-deduction-based-polymorphism)
+- [Strictly typed forms in Angular](https://blog.ninja-squad.com/2022/04/21/strictly-typed-forms-angular/)
+- [Valider des données avec Vavr](https://blog.ippon.fr/2022/04/15/valider-des-donnees-avec-vavr/)
+- [Spring Boot security expressions for Auth0 JWT](https://www.ivarprudnikov.com/spring-boot-security-expressions-for-auth0-jwt/)
 
 ## Découvertes
 
 - [Lightrun – the best way to debug production problems](https://vladmihalcea.com/lightrun-debug-production-problems/)
+- [Deep dive on Ansible VScode extension](https://www.ansible.com/blog/deep-dive-on-ansible-vscode-extension)
+- [delta](https://github.com/dandavison/delta)
 
 That’s all folks !
 
