@@ -46,7 +46,7 @@ l’option _Guided - use entire disk and set up encrypted LVM_.
 Une fois cela fait utilisez un schéma de partitionnement similaire à :
 
 | Volume logique | Taille initiale | Type de partition | Point de montage    |
-|----------------|-----------------|-------------------|---------------------|
+| -------------- | --------------- | ----------------- | ------------------- |
 | root           | 20 Go           | ext4              | /                   |
 | home           | 50 Go           | ext4              | /home               |
 | var            | 10 Go           | ext4              | /var                |

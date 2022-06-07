@@ -84,7 +84,7 @@ youtube_video_title: Radiohead - Idioteque
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf)
   — pour gérer tous types de SDK, notamment Java et Node.js : une alternative intéressante
   à [SDKMAN!](https://sdkman.io/) / [nvm](https://github.com/nvm-sh/nvm) ?
-- [geerlingguy/docker-*-ansible](https://hub.docker.com/u/geerlingguy)
+- [geerlingguy/docker-\*-ansible](https://hub.docker.com/u/geerlingguy)
   — ces images sont idéales pour vos tests [Ansible Molecule](https://molecule.readthedocs.io/en/latest/).
 - [crontab guru](https://crontab.guru/)
   — _the quick and simple editor for CRON schedule expressions_.

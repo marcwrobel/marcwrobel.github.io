@@ -44,13 +44,13 @@ youtube_video_title: Flotation Toy Warning - Losing Carolina ; For Drusky
 
 ## Découvertes
 
-* [EditorConfig](https://editorconfig.org/)
+- [EditorConfig](https://editorconfig.org/)
   — un bon début pour conserver un style uniforme quelque soit l’IDE.
-* [Bash trick: Repeat last command until success](https://medium.com/@marko.luksa/bash-trick-repeat-last-command-until-success-750a61c43c8a)
+- [Bash trick: Repeat last command until success](https://medium.com/@marko.luksa/bash-trick-repeat-last-command-until-success-750a61c43c8a)
   — simple et efficace.
-* [OpenSSL – Formats & Cheat-Sheet](https://net-security.fr/security/openssl-formats-cheat-sheet/)
+- [OpenSSL – Formats & Cheat-Sheet](https://net-security.fr/security/openssl-formats-cheat-sheet/)
   — toujours bon à avoir sous la main.
-* [GCeasy](https://gceasy.io/)
+- [GCeasy](https://gceasy.io/)
   — à tester quand l’occasion se présentera.
 
 That’s all folks !

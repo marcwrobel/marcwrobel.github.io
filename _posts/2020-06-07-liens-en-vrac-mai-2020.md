@@ -19,6 +19,7 @@ youtube_video_title: Damon Albarn - Everyday Robots
   — comme d’habitude plein de bonnes choses.
 - [Spring Boot 2.3.0 available now](https://spring.io/blog/2020/05/15/spring-boot-2-3-0-available-now)
   — une nouvelle version très axée cloud.
+
 * [What’s new in Spring Data (Klara Dan von) Neumann?](https://spring.io/blog/2020/05/18/what-s-new-in-spring-data-klara-dan-von-neumann)
   — Spring Data JDBC en 2.0 entre autre.
 * [Resuming SameSite Cookie Changes in July](https://blog.chromium.org/2020/05/resuming-samesite-cookie-changes-in-july.html)
@@ -34,30 +35,30 @@ youtube_video_title: Damon Albarn - Everyday Robots
 
 ## Articles, podcasts et vidéos
 
-* [Rethinking reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao)
+- [Rethinking reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao)
   — ça à l’air sympa Svelte !
-* [Certaines complexités sont plus utiles que d’autres](https://www.lilobase.me/certaines-complexites-sont-plus-utiles-que-dautres/)
+- [Certaines complexités sont plus utiles que d’autres](https://www.lilobase.me/certaines-complexites-sont-plus-utiles-que-dautres/)
   — je n’avais jamais pensé à ça.
-* [Test doubles](https://www.arolla.fr/blog/2020/05/test-doubles/)
+- [Test doubles](https://www.arolla.fr/blog/2020/05/test-doubles/)
   — dummy, stub, spy, mock, fake - un très bon article si vous vous y perdez dans tous ces termes.
-* [Spock vs JUnit 5 - the ultimate feature comparison](https://blog.solidsoft.pl/2020/04/15/spock-vs-junit-5-the-ultimate-feature-comparison/)
+- [Spock vs JUnit 5 - the ultimate feature comparison](https://blog.solidsoft.pl/2020/04/15/spock-vs-junit-5-the-ultimate-feature-comparison/)
   — une comparaison très bien faite.
-* [Using Testcontainers in Spring Boot Tests For Database Integration Tests](https://www.javacodegeeks.com/2020/05/using-testcontainers-in-spring-boot-tests-for-database-integration-tests.html)
+- [Using Testcontainers in Spring Boot Tests For Database Integration Tests](https://www.javacodegeeks.com/2020/05/using-testcontainers-in-spring-boot-tests-for-database-integration-tests.html)
   — un bon article sur l’utilisation de Testcontainers.
-* [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
+- [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
   — un article bienvenu !
-* [Decomposing a Monolith Does Not Require Microservices](https://www.infoq.com/news/2020/05/monolith-decomposition-newman/)
+- [Decomposing a Monolith Does Not Require Microservices](https://www.infoq.com/news/2020/05/monolith-decomposition-newman/)
   — tl;dr : _The monolith is not the enemy_ et _microservices should not be the default choice_.
-* [Hacker Folklore](https://endler.dev/2020/folklore/)
+- [Hacker Folklore](https://endler.dev/2020/folklore/)
   — intéressant !
-* [L’anonymisation de données personnelles](https://www.cnil.fr/fr/lanonymisation-de-donnees-personnelles)
+- [L’anonymisation de données personnelles](https://www.cnil.fr/fr/lanonymisation-de-donnees-personnelles)
   — la CNIL fait le point sur l’anonymisation.
-* [CSS Grid Solution to the Problems of Float and Flexbox](https://dzone.com/articles/css-grid-solution-to-the-problems-of-float-and-fle-1)
+- [CSS Grid Solution to the Problems of Float and Flexbox](https://dzone.com/articles/css-grid-solution-to-the-problems-of-float-and-fle-1)
   — on en apprend tous les jours sur CSS.
 
 ## Découvertes
 
-* [Zenika/alpine-chrome](https://github.com/Zenika/alpine-chrome)
+- [Zenika/alpine-chrome](https://github.com/Zenika/alpine-chrome)
   — une image sympa découverte grâce à
   l’article [Crafting the perfect container to play with a Headless Chrome](https://dev.to/jlandure/crafting-the-perfect-container-to-play-with-a-headless-chrome-ilp)
 

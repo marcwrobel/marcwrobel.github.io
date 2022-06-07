@@ -59,7 +59,7 @@ Il ne restera plus qu’à l’utiliser dans vos playbooks ou dans vos scénario
   include_role:
     name: 'marcwrobel.assertions.assert_that_distribution'
   vars:
-    is_in: [ 'Debian', 'RedHat 8', 'Ubuntu 20.04' ]
+    is_in: ['Debian', 'RedHat 8', 'Ubuntu 20.04']
 
 - name: 'Assert that /tmp/test is managed by Ansible'
   include_role:

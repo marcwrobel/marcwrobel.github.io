@@ -41,5 +41,4 @@ youtube_video_title: Joe Hisaishi - Studio Ghibli 25 Years Concert
 
 That’s all folks !
 
-*[JDK]: Java Development Kit
-
+\*[JDK]: Java Development Kit

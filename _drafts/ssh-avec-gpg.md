@@ -11,7 +11,5 @@ Pour faciliter la gestion de ces clés il est possible de centraliser l’ensemb
 Pour cela on utilisera une clé GPG, une sous-clé GPG avec l'option authenticate en guise de clé SSH, et le gpg-agent
 --enable-ssh-support.
 
-
-*[GPG]: GNU Privacy Guard
-*[PGP]: Pretty Good Privacy
-*[SSH]: Secure SHell
+_[GPG]: GNU Privacy Guard
+_[PGP]: Pretty Good Privacy \*[SSH]: Secure SHell

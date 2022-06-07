@@ -8,6 +8,7 @@ Le [Java Development Kit (JDK)](https://wikipedia.org/wiki/Java_Development_Kit)
 Java SE (Standard Edition). Il a été initialement développé par [Sun Microsystems](https://wikipedia.org/wiki/Sun_Microsystems).
 
 Quelques dates clés concernant le JDK :
+
 - Janvier 1996 : [Sortie du JDK 1.0](https://web.archive.org/web/20070310235103/http://www.sun.com/smi/Press/sunflash/1996-01/sunflash.960123.10561.xml).
 - Février 1997 : [Sortie du JDK 1.1](https://web.archive.org/web/20080210044125/http://www.sun.com/smi/Press/sunflash/1997-02/sunflash.970219.0001.xml).
 - Décembre 1998 : [Sortie de J2SE 1.2](https://web.archive.org/web/20070816170028/http://www.sun.com/smi/Press/sunflash/1998-12/sunflash.981208.9.xml).
@@ -43,4 +44,5 @@ Pour plus d’information sur Oracle JDK vs OpenJDK, ainsi que sur les différen
 fournisseurs de JDK, consultez plutôt [Java is Still Free](https://docs.google.com/document/d/1nFGazvrCvHMZJgFstlbzoHjpAVwv5DEdnaBr_5pKuHo/edit?usp=sharing).
 
 Quelques autres liens intéressants :
+
 - [(Don’t Fear) the Java](https://www.azul.com/dont-fear-the-java/)

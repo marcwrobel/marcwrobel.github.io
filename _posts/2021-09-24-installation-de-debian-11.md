@@ -28,11 +28,11 @@ graphique ou non, et suivre toutes les étapes dans l’ordre.
 
 Je trouve qu’il est plus confortable d’utiliser Debian en anglais. Pour cela :
 
-* langue : Anglais
-* locale : en_US.UTF-8
-* pays : France
-* clavier : Français
-* fuseau horaire : Europe/Paris
+- langue : Anglais
+- locale : en_US.UTF-8
+- pays : France
+- clavier : Français
+- fuseau horaire : Europe/Paris
 
 ## Réseau
 
@@ -54,15 +54,15 @@ l’option _Guided - use entire disk and set up encrypted LVM_.
 
 Une fois cela fait, adaptez le schéma de partitionnement. Vous pouvez vous inspirer du schéma suivant :
 
-| Volume logique | Taille initiale | Type de partition | Point de montage    |
-|----------------|-----------------|-------------------|---------------------|
-| root           | 25 Go           | ext4              | /                   |
-| home           | 50 Go           | ext4              | /home               |
-| var            | 10 Go           | ext4              | /var                |
-| opt            | 10 Go           | ext4              | /opt                |
-| docker         | 10 Go           | ext4              | /var/lib/docker     |
-| srv            | 1 Go            | ext4              | /srv                |
-| tmp            | 5 Go            | ext4              | /tmp                |
+| Volume logique | Taille initiale | Type de partition | Point de montage |
+| -------------- | --------------- | ----------------- | ---------------- |
+| root           | 25 Go           | ext4              | /                |
+| home           | 50 Go           | ext4              | /home            |
+| var            | 10 Go           | ext4              | /var             |
+| opt            | 10 Go           | ext4              | /opt             |
+| docker         | 10 Go           | ext4              | /var/lib/docker  |
+| srv            | 1 Go            | ext4              | /srv             |
+| tmp            | 5 Go            | ext4              | /tmp             |
 
 Les options de montage par défaut suffisent, car elles contiennent l’option `relatime`
 [depuis longtemps déjà](https://unix.stackexchange.com/questions/17844/when-was-relatime-made-the-default).
@@ -88,11 +88,11 @@ echo '/swap none swap sw 0 0' | sudo tee -a /etc/fstab
 
 ## Logiciels
 
-* utilisation d’un miroir sur le réseau : oui (HTTP / France / deb.debian.org)
-* utilisation de logiciels non-free : oui
-* popularity-contest : oui
-* services : security updates, release updates, backported software
-* logiciels : Gnome, SSH server, standard system utilities
+- utilisation d’un miroir sur le réseau : oui (HTTP / France / deb.debian.org)
+- utilisation de logiciels non-free : oui
+- popularity-contest : oui
+- services : security updates, release updates, backported software
+- logiciels : Gnome, SSH server, standard system utilities
 
 <!-- prettier-ignore-start -->
 *[DHCP]: Dynamic Host Control Protocol

@@ -10,6 +10,7 @@ youtube_video_title: Ravi Shankar and Philip Glass - Offering - Britten Sinfonia
 
 - [What’s New in Red Hat Ansible Engine 2.8](https://www.ansible.com/blog/whats-new-in-red-hat-ansible-engine-2.8)
   — Ansible collections, `become` par défaut, et bien d’autre choses encores.
+
 * [Quand sécurité pour Elasticsearch rime avec gratuité](https://www.elastic.co/fr/blog/security-for-elasticsearch-is-now-free)
   — cool !
 * [ZFS On Linux 0.8 Released With Native Encryption, TRIM, Device Removal](https://www.phoronix.com/scan.php?page=news_item&px=ZFS-On-Linux-0.8-Released)
@@ -29,34 +30,34 @@ youtube_video_title: Ravi Shankar and Philip Glass - Offering - Britten Sinfonia
 
 ## Articles
 
-* [Comment se faire hacker bien comme il faut!](https://www.youtube.com/watch?v=Aa6yeVHs2fI)
+- [Comment se faire hacker bien comme il faut!](https://www.youtube.com/watch?v=Aa6yeVHs2fI)
   — amusant et instructif.
-* [Concevoir une API REST conforme au RGPD](https://blog.octo.com/concevoir-une-api-rest-conforme-au-rgpd/)
+- [Concevoir une API REST conforme au RGPD](https://blog.octo.com/concevoir-une-api-rest-conforme-au-rgpd/)
   — une bonne base.
-* [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
+- [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
   — une bonne question.
-* [Table Inheritance: What’s it Good For?](http://ledgersmbdev.blogspot.com/2019/05/table-inheritance-whats-it-good-for.html)
+- [Table Inheritance: What’s it Good For?](http://ledgersmbdev.blogspot.com/2019/05/table-inheritance-whats-it-good-for.html)
   — peu connu, mais peut être pratique dans certaines situations.
-* [The Difference Between Kilobytes and Kibibytes](https://danielmiessler.com/blog/the-difference-between-kilobytes-and-kibibytes/)
+- [The Difference Between Kilobytes and Kibibytes](https://danielmiessler.com/blog/the-difference-between-kilobytes-and-kibibytes/)
   — un kilo c’est 1000, un kibi c’est 1024.
-* [Using /tmp/ And /var/tmp/ Safely](https://systemd.io/TEMPORARY_DIRECTORIES/)
+- [Using /tmp/ And /var/tmp/ Safely](https://systemd.io/TEMPORARY_DIRECTORIES/)
   — intéressant !
-* [Container misconceptions](https://blog.bejarano.io/container-misconceptions/)
+- [Container misconceptions](https://blog.bejarano.io/container-misconceptions/)
   — tl;dr : _containers are not VMs; stop calling everything “Docker”; don’t use Kubernetes for tiny projects, use Swarm
   instead; Kubernetes will only solve your org’s problems if you are willing to go all-in, anything in between will fail
   the same way it failed before_.
-* [Seven Surprising Bash Variables](https://zwischenzugs.com/2019/05/11/seven-surprising-bash-variables/)
+- [Seven Surprising Bash Variables](https://zwischenzugs.com/2019/05/11/seven-surprising-bash-variables/)
   — on en apprend tous les jours avec bash !
-* [Flogger : le logger fluent de Google pour Java](https://blog.engineering.publicissapient.fr/2019/05/02/flogger-le-logger-fluent-de-google-pour-java/)
+- [Flogger : le logger fluent de Google pour Java](https://blog.engineering.publicissapient.fr/2019/05/02/flogger-le-logger-fluent-de-google-pour-java/)
   — ça change de SLF4J.
 
 ## Découvertes
 
-* [Artifact Listener](https://www.artifact-listener.org)
+- [Artifact Listener](https://www.artifact-listener.org)
   — un outil pour être notifié des nouvelles versions de librairies sur Maven Central.
-* [Awaitility](https://github.com/awaitility/awaitility)
+- [Awaitility](https://github.com/awaitility/awaitility)
   — une librairie pour les tests de systèmes asynchrones.
-* [Loco](https://localise.biz/)
+- [Loco](https://localise.biz/)
   — un outil pour gérer les traductions plus simplement et en équipe. Pour un retour d’expérience :
   [Gestion des traductions avec localise.biz](https://blog.eleven-labs.com/fr/gestion-des-traductions-avec-localise.biz/).
 

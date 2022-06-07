@@ -8,6 +8,7 @@ La version 2.0.0 de [jbanking](https://github.com/marcwrobel/jbanking) est (enfi
 inclue :
 
 - une revue de la liste des codes pays ([ISO 3166-1-alpha-2](https://fr.wikipedia.org/wiki/ISO_3166)),
+
 * une revue / correction de la liste des codes devise ([ISO 4217](https://fr.wikipedia.org/wiki/ISO_4217)),
 * un alignement des définitions d’IBAN (ISO 13616) avec
   [IBAN Registry Release 86](https://www.iso13616.org/),

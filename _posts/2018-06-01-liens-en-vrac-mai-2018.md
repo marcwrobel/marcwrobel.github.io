@@ -29,14 +29,15 @@ youtube_video_title: Alela Diane - The Pirate's Gospel
   à [pass](https://www.passwordstore.org/) si vous ne connaissez pas).
 - [The State of the Web at Google I/O 2018](https://blog.chromium.org/2018/05/the-state-of-web-at-google-io-2018.html)
   — ça bouge beaucoup ces temps-ci.
+
 * [Utilisation de la Suite Elastic dans les opérations de sécurité basées sur SaaS](https://www.elastic.co/fr/blog/using-the-elastic-stack-as-a-saas-based-security-operations-swiss-army-knife)
   — un retour d’expérience intéressant.
 
 ## Découvertes
 
-* [A Brief Introduction to auditd](https://security.blogoverflow.com/2013/01/a-brief-introduction-to-auditd/)
+- [A Brief Introduction to auditd](https://security.blogoverflow.com/2013/01/a-brief-introduction-to-auditd/)
   — si comme moi vous ne vous y êtes jamais intéressé.
-* [How to Monitor User Activity with psacct or acct Tools](https://www.tecmint.com/how-to-monitor-user-activity-with-psacct-or-acct-tools/)
+- [How to Monitor User Activity with psacct or acct Tools](https://www.tecmint.com/how-to-monitor-user-activity-with-psacct-or-acct-tools/)
   — je ne les connaissais pas ceux-là.
 
 That’s all folks !

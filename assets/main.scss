@@ -10,7 +10,8 @@ body {
   background-color: #dcdcdc;
 }
 
-.h1, h1 {
+.h1,
+h1 {
   overflow-wrap: break-word;
 }
 
@@ -47,7 +48,6 @@ table {
   }
 }
 
-
 /*
  * Posts
  */
@@ -69,8 +69,7 @@ table {
   }
 }
 
-
 /**
  * Code
  */
-@import "code";
+@import 'code';

@@ -15,6 +15,7 @@ youtube_video_title: Nada Surf - 80 Windows
   (preview), [et bien d’autres choses encore](https://www.azul.com/whats-new-in-jdk14-latest-release/).
 - [Oracle extends Extended support for Java 8](https://www.infoworld.com/article/3532358/oracle-extends-extended-support-for-java-8.html)
   — jusqu’à décembre 2030 (mais il faut bien sûr payer).
+
 * [Version 9.1 of Angular Now Available — TypeScript 3.8, faster builds, and more](https://blog.angular.io/version-9-1-of-angular-now-available-typescript-3-8-faster-builds-and-more-eb292f989428)
   — et TSLint 6.1 par défaut.
 * [npm is joining GitHub](https://github.blog/2020-03-16-npm-is-joining-github/)
@@ -38,36 +39,36 @@ youtube_video_title: Nada Surf - 80 Windows
 
 ## Articles, podcasts et vidéos
 
-* [Faut-il être passionné(e) pour être développeur(euse) ?](https://www.jesuisundev.com/passion-developpeur/)
+- [Faut-il être passionné(e) pour être développeur(euse) ?](https://www.jesuisundev.com/passion-developpeur/)
   — non, mais il faut avoir un minimum d’intérêt pour la chose.
-* [Java is not Dead](https://nofluffjuststuff.com/podcast/1/java_is_not_dead)
+- [Java is not Dead](https://nofluffjuststuff.com/podcast/1/java_is_not_dead)
   — une interview intéressante de [Trisha Gee](https://trishagee.github.io/).
-* [De Java 12 à Java 14](https://blog.zenika.com/2020/03/26/de-java-12-a-java-14/)
+- [De Java 12 à Java 14](https://blog.zenika.com/2020/03/26/de-java-12-a-java-14/)
   — c’est plus digeste que des notes de version.
-* [Utility Classes of the JDK: Collections and Arrays](https://medium.com/better-programming/utility-classes-of-the-jdk-collections-and-arrays-cc07dbcb8586)
+- [Utility Classes of the JDK: Collections and Arrays](https://medium.com/better-programming/utility-classes-of-the-jdk-collections-and-arrays-cc07dbcb8586)
   — si vous ne connaissez pas bien les classes `Collections` et `Arrays`, cet article est fait pour vous.
-* [Map merge and compute, hidden API diamonds](https://blog.frankel.ch/map-merge-compute/)
+- [Map merge and compute, hidden API diamonds](https://blog.frankel.ch/map-merge-compute/)
   — c’est disponible depuis Java 8 mais j’étais passé complètement à côté.
-* [Top 15 IntelliJ IDEA Shortcuts](https://blog.jetbrains.com/idea/2020/03/top-15-intellij-idea-shortcuts/)
+- [Top 15 IntelliJ IDEA Shortcuts](https://blog.jetbrains.com/idea/2020/03/top-15-intellij-idea-shortcuts/)
   — j’apprends ceux-là et je m’arrête !
-* [Here’s Why Continuous Integration and Deployment is so Important to the Software Development Process](https://levelup.gitconnected.com/heres-why-continuous-integration-and-deployment-is-so-important-to-the-software-development-c0caeead5881)
-* [Prefixed Naming](https://www.yegor256.com/2020/03/03/prefixed-naming.html)
+- [Here’s Why Continuous Integration and Deployment is so Important to the Software Development Process](https://levelup.gitconnected.com/heres-why-continuous-integration-and-deployment-is-so-important-to-the-software-development-c0caeead5881)
+- [Prefixed Naming](https://www.yegor256.com/2020/03/03/prefixed-naming.html)
   — une approche intéressante.
-* [Comprendre Kubernetes en 5 minutes](https://www.jesuisundev.com/comprendre-kubernetes-en-5-minutes/)
+- [Comprendre Kubernetes en 5 minutes](https://www.jesuisundev.com/comprendre-kubernetes-en-5-minutes/)
   — encore gagné !
 
 ## Découvertes
 
-* [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
+- [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
   — si pour vous OAuth et OIDC c’est du chinois.
-* [7 JVM arguments of Highly Effective Applications](https://www.javacodegeeks.com/2020/03/7-jvm-arguments-of-highly-effective-applications.html)
+- [7 JVM arguments of Highly Effective Applications](https://www.javacodegeeks.com/2020/03/7-jvm-arguments-of-highly-effective-applications.html)
   — l’essentiel des 600+ options de la JVM.
-* [Authy](https://authy.com)
+- [Authy](https://authy.com)
   — je ne peux que recommander cet outil pour la double authentification. Et en
   plus [le support de Linux est maintenant en beta](https://authy.com/blog/authy-desktop-now-available-in-beta-for-linux/).
-* [OpenID Connect `<debugger/>`](https://oidcdebugger.com/)
+- [OpenID Connect `<debugger/>`](https://oidcdebugger.com/)
   — toujours bon d’avoir ce genre d’outils sous la main.
-* [The Simpsons in CSS](https://pattle.github.io/simpsons-in-css/)
+- [The Simpsons in CSS](https://pattle.github.io/simpsons-in-css/)
   — c’est fou ce qu’on peut faire avec une simple CSS !
 
 That’s all folks !

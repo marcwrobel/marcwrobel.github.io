@@ -18,6 +18,7 @@ youtube_video_title: Orff - Carmina Burana - Temple University Symphony Orchestr
 - [Quarkus 1.5 released - fast-jar packaging format, Picocli, gRPC, GraphQL and more](https://quarkus.io/blog/quarkus-1-5-final-released/)
   — l’utilisation de Quarkus dans un contexte CLI pourrait devenir intéressant avec l’intégration de
   [Picocli](https://picocli.info/). À tester !
+
 * [Introducing Mozilla VPN](https://blog.mozilla.org/futurereleases/2020/06/18/introducing-firefox-private-network-vpns-official-product-the-mozilla-vpn/)
   — ça donne un peu plus confiance que les autres…
 * [AdoptOpenJDK to join the Eclipse Foundation](https://blog.adoptopenjdk.net/2020/06/adoptopenjdk-to-join-the-eclipse-foundation/)
@@ -27,26 +28,26 @@ youtube_video_title: Orff - Carmina Burana - Temple University Symphony Orchestr
 
 ## Articles, podcasts et vidéos
 
-* [Comprendre Git en 7 minutes](https://www.jesuisundev.com/comprendre-git-en-7-minutes/)
+- [Comprendre Git en 7 minutes](https://www.jesuisundev.com/comprendre-git-en-7-minutes/)
   — un bon article pour les débutant.
-* [Dates and Times in JavaScript](https://blogs.igalia.com/compilers/2020/06/23/dates-and-times-in-javascript/)
+- [Dates and Times in JavaScript](https://blogs.igalia.com/compilers/2020/06/23/dates-and-times-in-javascript/)
   — un aperçu de l’API javascript [Temporal](https://tc39.es/proposal-temporal/docs/cookbook.html), qui devraient,
   j’espère rapidement, remplacer la vieille et pas très pratique
   API [Date](https://www.w3schools.com/jsref/jsref_obj_date.asp).
-* [Java File IO: Modern APIs to Create, Read, Write & More](https://www.marcobehler.com/guides/java-files)
+- [Java File IO: Modern APIs to Create, Read, Write & More](https://www.marcobehler.com/guides/java-files)
   — excellent article sur la gestion des fichiers en Java.
-* [Delay startup of your Spring Boot application until your DB is up](https://deinum.biz/2020-06-30-Wait-for-database-startup/)
+- [Delay startup of your Spring Boot application until your DB is up](https://deinum.biz/2020-06-30-Wait-for-database-startup/)
   — bon à savoir.
-* [Should I Test Private Methods?](http://shoulditestprivatemethods.com/)
+- [Should I Test Private Methods?](http://shoulditestprivatemethods.com/)
   — ça a le mérite d’être clair ;).
-* [How to Hire an IT Dream Team: An Interview Guide for IT Specialists](https://dzone.com/articles/how-to-conduct-an-interview-and-evaluate-developer)
+- [How to Hire an IT Dream Team: An Interview Guide for IT Specialists](https://dzone.com/articles/how-to-conduct-an-interview-and-evaluate-developer)
   — une approche intéressante.
-* [You might not need jQuery](http://youmightnotneedjquery.com/)
+- [You might not need jQuery](http://youmightnotneedjquery.com/)
   — mais c’est quand souvent un peu plus verbeux.
 
 ## Découvertes
 
-* [A few new generation command line tools](https://kushaldas.in/posts/a-few-new-generation-command-line-tools.html)
+- [A few new generation command line tools](https://kushaldas.in/posts/a-few-new-generation-command-line-tools.html)
   — [starship](https://starship.rs/) a l’air prometteur.
 
 That’s all folks !
