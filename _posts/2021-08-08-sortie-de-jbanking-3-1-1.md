@@ -20,6 +20,8 @@ une nouvelle dépendance dans votre POM de la manière suivante :
         <version>3.1.1</version>
     </dependency>
 
+<!-- prettier-ignore-start -->
 *[CI]: Creditor Identifier
 *[IBAN]: International Bank Account Number
 *[POM]: Project Object Model
+<!-- prettier-ignore-end -->

@@ -30,5 +30,7 @@ youtube_video_title: Dmitrij Schostakowitsch - Symphony No. 5 - Frankfurt Radio 
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[EOL]: End-Of-Life
 *[JPA]: Java Persistence API
+<!-- prettier-ignore-end -->

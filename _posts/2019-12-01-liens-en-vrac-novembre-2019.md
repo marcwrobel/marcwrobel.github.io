@@ -41,6 +41,8 @@ youtube_video_title: Machine Head - None But My Own
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[GraphQL]: Graph Query Language
 *[SOLID]: Single responsibility principle, Open/closed principle, Liskov substitution principle, Interface segregation
 principle, Dependency inversion principle
+<!-- prettier-ignore-end -->

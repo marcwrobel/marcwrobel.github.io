@@ -4,3 +4,6 @@ set -e
 
 bundle update
 bundle outdated --only-explicit
+
+npm update
+npm outdated

@@ -68,6 +68,7 @@ youtube_video_title: Vivaldi - Quattro Stagioni - Janine Jansen
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[CNIL]: Commission Nationale de l’Informatique et des Libertés
 *[CSP]: Content Security Policy
 *[CSS]: Cascading Style Sheets
@@ -75,3 +76,4 @@ That’s all folks !
 *[JPA]: Java Persistence API
 *[RGPD]: Règlement Général sur la Protection des Données
 *[SQL]: Structured Query Language
+<!-- prettier-ignore-end -->

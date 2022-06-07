@@ -43,6 +43,7 @@ youtube_video_title: Mozart - Requiem - Claudio Abbado, Lucerne Festival Orchest
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[HTTP]: Hypertext Transfer Protocol
 *[JDK]: Java Development Kit
 *[LTS]: Long Term Support
@@ -50,3 +51,4 @@ That’s all folks !
 *[SWIFT]: Society for Worldwide Interbank Financial Telecommunication
 *[TLS]: Transport Layer Security
 *[tl;dr]: too long; didn’t read
+<!-- prettier-ignore-end -->

@@ -92,6 +92,7 @@ youtube_video_title: Russian Circles - Quartered
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[JDK]: Java Development Kit
 *[JRE]: Java Runtime Environment
 *[JWT]: JSON Web Token
@@ -100,3 +101,4 @@ That’s all folks !
 *[SFTP]: Ssh File Transfer Protocol
 *[tl;dr]: too long; didn’t read
 *[UI]: User Interface
+<!-- prettier-ignore-end -->

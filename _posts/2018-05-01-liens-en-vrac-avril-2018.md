@@ -33,5 +33,7 @@ youtube_video_title: Jeanne Added - Look at them
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[BPF]: Berkeley Packet Filter
 *[JPA]: Java Persistence API
+<!-- prettier-ignore-end -->

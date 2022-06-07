@@ -72,6 +72,7 @@ youtube_video_title: Periphery - Reptile
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[CSV]: Comma-Separated Values
 *[JDK]: Java Development Kit
 *[JPA]: Java Persistence API
@@ -80,3 +81,4 @@ That’s all folks !
 *[TLSv1.0]: Transport Layer Security v1.0
 *[TLSv1.1]: Transport Layer Security v1.1
 *[ZGC]: Z Garbage Collector
+<!-- prettier-ignore-end -->

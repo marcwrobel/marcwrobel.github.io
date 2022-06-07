@@ -58,9 +58,11 @@ youtube_video_title: Emiliana Torrini - Gollum's Song
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[API]: Application Programming Interface
 *[CSS]: Cascading Style Sheets
 *[LTS]: Long Term Support
 *[REST]: REpresentational State Transfer
 *[RGPD]: Règlement Général sur la Protection des Données
 *[tl;dr]: too long; didn’t read
+<!-- prettier-ignore-end -->

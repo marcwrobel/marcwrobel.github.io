@@ -51,6 +51,7 @@ youtube_video_title: Orff - Carmina Burana - Temple University Symphony Orchestr
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[API]: Application Programming Interface
 *[CLI]: Command-Line Interface
 *[CVE]: Common Vulnerabilities and Exposures
@@ -62,4 +63,4 @@ That’s all folks !
 *[QL]: Query Language
 *[RPC]: Remote Procedure Call
 *[VPN]: Virtual Private Network
-
+<!-- prettier-ignore-end -->

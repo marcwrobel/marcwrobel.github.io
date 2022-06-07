@@ -62,6 +62,7 @@ youtube_video_title: Ravi Shankar and Philip Glass - Offering - Britten Sinfonia
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[API]: Application Programming Interface
 *[JDK]: Java Development Kit
 *[LTS]: Long Term Support
@@ -71,3 +72,4 @@ That’s all folks !
 *[tl;dr]: too long; didn’t read
 *[VMs]: Virtual Machines
 *[ZFS]: Z File System
+<!-- prettier-ignore-end -->

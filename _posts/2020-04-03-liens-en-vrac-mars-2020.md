@@ -72,6 +72,7 @@ youtube_video_title: Nada Surf - 80 Windows
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[CSS]: Cascading Style Sheets
 *[DNS]: Domain Name System
 *[HTTPS]: HyperText Transfer Protocol Secure
@@ -80,3 +81,4 @@ That’s all folks !
 *[OIDC]: OpenID Connect
 *[TLS]: Transport Layer Security
 *[VPN]: Virtual Private Network
+<!-- prettier-ignore-end -->

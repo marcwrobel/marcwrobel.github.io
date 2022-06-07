@@ -54,6 +54,7 @@ youtube_video_title: BEAK> - Allé Sauvage
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[API]: Application Programming Interface
 *[CD]: Continuous Delivery
 *[CI]: Continuous Integration
@@ -65,3 +66,4 @@ That’s all folks !
 *[SHA]: Secure Hash Algorithm
 *[TDD]: Test Driven Development
 *[TLS]: Transport Layer Security
+<!-- prettier-ignore-end -->

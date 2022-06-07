@@ -72,6 +72,7 @@ youtube_video_title: Beach House - The Hours
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[API]: Application Programming Interface
 *[COEP]: Cross Origin Embedder Policy
 *[COOP]: Cross Origin Opener Policy
@@ -85,3 +86,4 @@ That’s all folks !
 *[OMG]: Oh My God!
 *[REST]: REpresentational State Transfer
 *[RHEL]: Red Hat Enterprise Linux
+<!-- prettier-ignore-end -->

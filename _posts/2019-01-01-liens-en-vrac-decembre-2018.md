@@ -24,6 +24,8 @@ youtube_video_title: Moriarty - Lily
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[JDK]: Java Development Kit
 *[RGPD]: Règlement Général sur la Protection des Données
 *[TLS]: Transport Layer Security
+<!-- prettier-ignore-end -->

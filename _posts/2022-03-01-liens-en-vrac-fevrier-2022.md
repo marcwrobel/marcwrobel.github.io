@@ -81,6 +81,7 @@ youtube_video_title: The Districts - Young Blood
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[CSS]: Cascading Style Sheets
 *[ecdsa-sk]: Elliptic Curve Digital Signature Algorithm - Security Key
 *[ed25519-sk]: Edwards-curve Digital Signature Algorithm - Security Key (SHA-512 / Curve25519)
@@ -96,3 +97,4 @@ That’s all folks !
 *[SSH]: Secure SHell
 *[tl;dr]: too long; didn’t read
 *[UTC]: Universal Time Coordinated
+<!-- prettier-ignore-end -->

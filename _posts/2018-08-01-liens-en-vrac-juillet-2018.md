@@ -38,9 +38,11 @@ youtube_video_title: Roger Waters - Déjà Vu
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[EOL]: End-Of-Life
 *[HTTP]: HyperText Transfer Protocol
 *[SRE]: Site reliability engineering
 *[SLIs]: Service Level Indicators
 *[SLAs]: Service Level Agreements
 *[SLOs]: Service Level Objectives
+<!-- prettier-ignore-end -->

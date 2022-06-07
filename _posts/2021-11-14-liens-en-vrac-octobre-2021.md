@@ -68,6 +68,8 @@ youtube_video_title: Dom La Nena - Gracias a la Vida
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[LTS]: Long-Term Support
 *[OWASP]: Open Web Application Security Project
 *[SQL]: Structured Query Language
+<!-- prettier-ignore-end -->

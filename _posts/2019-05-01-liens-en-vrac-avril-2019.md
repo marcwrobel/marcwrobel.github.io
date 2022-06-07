@@ -47,8 +47,10 @@ youtube_video_title: O - Olivier Marguerit - A Kiss
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[CNIL]: Commission Nationale de l’Informatique et des Libertés
 *[DITTO]: Do Idempotent Things To Others
 *[GPG]: GNU Privacy Guard
 *[I/O]: Input/Output
 *[SSH]: Secure SHell
+<!-- prettier-ignore-end -->

@@ -94,8 +94,10 @@ echo '/swap none swap sw 0 0' | sudo tee -a /etc/fstab
 * services : security updates, release updates, backported software
 * logiciels : Gnome, SSH server, standard system utilities
 
+<!-- prettier-ignore-start -->
 *[DHCP]: Dynamic Host Control Protocol
 *[HTTP]: Hypertext Transfer Protocol
 *[IP]: Internet Protocol
 *[LVM]: Logical Volume Manager
 *[SSH]: Secure SHell
+<!-- prettier-ignore-end -->

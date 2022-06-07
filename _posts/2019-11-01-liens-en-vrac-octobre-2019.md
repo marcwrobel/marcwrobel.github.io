@@ -38,8 +38,10 @@ youtube_video_title: Cake - Frank Sinatra
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[EOL]: End-Of-Life
 *[IdP]: Identity Provider
 *[regex]: regular expression
 *[SIEM]: Security Information Management System
 *[SPA]: Single-Page Application
+<!-- prettier-ignore-end -->

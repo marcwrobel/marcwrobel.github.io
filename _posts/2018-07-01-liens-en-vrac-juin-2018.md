@@ -31,5 +31,7 @@ youtube_video_title: Lofofora - Les Gens
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[SE]: Standard Edition
 *[APM]: Application Performance Monitoring
+<!-- prettier-ignore-end -->

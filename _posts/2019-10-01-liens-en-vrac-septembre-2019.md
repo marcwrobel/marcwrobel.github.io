@@ -46,6 +46,7 @@ youtube_video_title: Gustav Holst - The Planets - Sinfonia Rotterdam
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[CDS]: Class Data Sharing
 *[CSRF]: Cross-Site Request Forgery
 *[EEA]: European Economic Area
@@ -55,3 +56,4 @@ That’s all folks !
 *[SEPA]: Single Euro Payments Area
 *[SPA]: Single-Page Application
 *[ZGC]: Z Garbage Collector
+<!-- prettier-ignore-end -->

@@ -33,7 +33,9 @@ une nouvelle dépendance dans votre POM de la manière suivante :
         <version>3.0.0</version>
     </dependency>
 
+<!-- prettier-ignore-start -->
 *[API]: Application Programming Interface
 *[IBAN]: International Bank Account Number
 *[ISO]: International Organization for Standardization
 *[POM]: Project Object Model
+<!-- prettier-ignore-end -->

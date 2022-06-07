@@ -63,6 +63,7 @@ youtube_video_title: Brahms - Hungarian Dance No. 1 - Berliner Philharmoniker
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[csv]: Comma-Separated Values
 *[GA]: General Availability
 *[JSON]: JavaScript Object Notation
@@ -75,3 +76,4 @@ principle, Dependency inversion principle
 *[SQL]: Structured Query Language
 *[URL]: Uniform Resource Locator
 *[VSCode]: Visual Studio Code
+<!-- prettier-ignore-end -->

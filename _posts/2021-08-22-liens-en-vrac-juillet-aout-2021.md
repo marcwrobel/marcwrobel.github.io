@@ -74,6 +74,7 @@ youtube_video_title: Damon Albarn - The Story of a Cheating Heart
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[EBICS]: Electronic Banking Internet Communication Standard
 *[GNOME]: GNU Network Object Model Environment
 *[GraphQL]: Graph Query Language
@@ -86,3 +87,4 @@ That’s all folks !
 *[UML]: Unified Modeling Language
 *[XDR]: eXtended Detection and Response
 *[ZFS]: Z File System
+<!-- prettier-ignore-end -->

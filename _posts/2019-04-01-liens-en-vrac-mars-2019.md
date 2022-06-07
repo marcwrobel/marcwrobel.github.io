@@ -50,6 +50,8 @@ youtube_video_title: Feu! Chatterton - Souvenir
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[LCC]: Les Cast Codeurs
 *[SWIFT]: Society for Worldwide Interbank Financial Telecommunication
 *[tl;dr]: too long; didn’t read
+<!-- prettier-ignore-end -->

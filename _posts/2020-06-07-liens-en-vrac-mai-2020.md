@@ -63,6 +63,7 @@ youtube_video_title: Damon Albarn - Everyday Robots
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[APM]: Application Performance Management
 *[CNIL]: Commission Nationale de l’Informatique et des Libertés
 *[CSS]: Cascading Style Sheets
@@ -70,3 +71,4 @@ That’s all folks !
 *[JDBC]: Java DataBase Connectivity
 *[SIEM]: Security Information Management System
 *[tl;dr]: too long; didn’t read
+<!-- prettier-ignore-end -->

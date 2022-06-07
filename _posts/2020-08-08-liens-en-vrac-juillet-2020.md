@@ -57,9 +57,11 @@ youtube_video_title: Erik Satie - Gnossienne No. 1 - Alessio Nanni
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[ATP]: Advanced Threat Protection
 *[ELTS]: Extended Long Term Support
 *[IE]: Internet Explorer
 *[PG]: PostgreSQL
 *[PWA]: Progressive Web Application
 *[SSH]: Secure SHell
+<!-- prettier-ignore-end -->

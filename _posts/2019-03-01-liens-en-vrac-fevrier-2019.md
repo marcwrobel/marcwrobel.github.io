@@ -42,9 +42,11 @@ youtube_video_title: Blood Red Shoes - When We Wake
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[DNS]: Domain Name System
 *[GA]: General Availability
 *[JDK]: Java Development Kit
 *[LCC]: Les Cast Codeurs
 *[tl;dr]: too long; didn’t read
 *[UML]: Unified Modeling Language
+<!-- prettier-ignore-end -->

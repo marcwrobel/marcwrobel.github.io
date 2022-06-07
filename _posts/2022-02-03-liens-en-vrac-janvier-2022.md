@@ -42,7 +42,7 @@ youtube_video_title: Stella Donnelly - Beware Of The Dogs
 - [The burden of an Open Source maintainer](https://www.jeffgeerling.com/blog/2022/burden-open-source-maintainer)
   — soyez sympas et compréhensifs avec les mainteneurs de projets open source !
 - [When does a table become too big?](https://connor-mcdonald.com/2021/11/13/when-does-a-table-become-too-big/)
-  — l’efficacité des moteurs de base de données m’étonnera toujours. 
+  — l’efficacité des moteurs de base de données m’étonnera toujours.
 - [Initialization Strategies With Testcontainers For Integration Tests](https://rieckpil.de/initialization-strategies-with-testcontainers-for-integration-tests/)
   et [Using Testcontainers in Spring Boot Tests For Database Integration Tests](https://blog.sandra-parsick.de/2020/05/21/using-testcontainers-in-spring-boot-tests-for-database-integration-tests/)
   — quelques bons articles sur `Testcontainers`.
@@ -63,6 +63,7 @@ youtube_video_title: Stella Donnelly - Beware Of The Dogs
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[EV]: Extended Validation
 *[FAPI]: Financial-grade API
 *[JPA]: Java Persistence API
@@ -70,3 +71,4 @@ That’s all folks !
 *[JSON-B]: JSON Binding
 *[QWACs]: Qualified Website Authentication Certificates
 *[npm]: Node Package Manager
+<!-- prettier-ignore-end -->

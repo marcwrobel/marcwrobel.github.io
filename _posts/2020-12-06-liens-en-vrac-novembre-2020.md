@@ -93,6 +93,7 @@ youtube_video_title: Radiohead - Idioteque
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[BRIN]: Block Range INdex
 *[BSD]: Berkeley Software Distribution
 *[CA]: Certificate Authority
@@ -113,3 +114,4 @@ That’s all folks !
 *[tl;dr]: too long; didn’t read
 *[VLC]: VideoLan Client
 *[ZFS]: Zettabyte file system
+<!-- prettier-ignore-end -->

@@ -56,5 +56,7 @@ youtube_video_title: Tchaïkovski - Casse-Noisette - Orchestre National du Bolch
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[CTO]: Chief Technology Officer
 *[IA]: Intelligence Artificielle
+<!-- prettier-ignore-end -->

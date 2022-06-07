@@ -84,6 +84,7 @@ youtube_video_title: Katia & Marielle Labèque - Glass - Les Enfants Terribles
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[CJUE]: Cour de Justice de l’Union Européenne
 *[CLI]: Command-Line Interface
 *[CSS]: Cascading Style Sheets
@@ -92,3 +93,4 @@ That’s all folks !
 *[JPA]: Java Persistence API
 *[LTS]: Long Term Support
 *[SSID]: Service Set IDentifier
+<!-- prettier-ignore-end -->

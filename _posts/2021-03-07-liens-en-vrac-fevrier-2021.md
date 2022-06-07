@@ -63,6 +63,7 @@ youtube_video_title: Watcha - Sam
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[AWS]: Amazon Web Services
 *[Q&A]: Questions & Answers
-
+<!-- prettier-ignore-end -->

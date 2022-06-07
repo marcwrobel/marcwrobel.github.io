@@ -70,6 +70,7 @@ youtube_video_title: Feu! Chatterton - Côte Concorde
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[ADR]: Architecture Decision Record
 *[API]: Application Programming Interface
 *[AWS]: Amazon Web Services
@@ -81,3 +82,4 @@ That’s all folks !
 *[SQL]: Structured Query Language
 *[tl;dr]: too long; didn’t read
 *[XSS]: CROSS-Site Scripting
+<!-- prettier-ignore-end -->

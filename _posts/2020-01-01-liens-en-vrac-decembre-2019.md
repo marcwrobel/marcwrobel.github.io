@@ -45,5 +45,7 @@ youtube_video_title: Mass Hysteria - Attracteurs étranges
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[JDK]: Java Development Kit
 *[TLS]: Transport Layer Security
+<!-- prettier-ignore-end -->

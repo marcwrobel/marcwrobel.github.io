@@ -70,6 +70,7 @@ youtube_video_title: The Beatles - Eleanor Rigby
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[2FA]: Two-Factor Authentication
 *[API]: Application Programming Interface
 *[awk]: Aho, Weinberger, Kernighan
@@ -88,3 +89,4 @@ That’s all folks !
 *[tl;dr]: too long; didn’t read
 *[TLS]: Transport Layer Security
 *[XML]: Extensible Markup Language
+<!-- prettier-ignore-end -->

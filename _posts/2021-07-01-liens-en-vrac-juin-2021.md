@@ -59,6 +59,8 @@ youtube_video_title: Tame Impala - Elephant
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[SQL]: Structured Query Language
 *[tl;dr]: too long; didn’t read
 *[UUID]: Universal Unique IDentifier
+<!-- prettier-ignore-end -->

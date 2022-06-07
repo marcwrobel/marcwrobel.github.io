@@ -41,7 +41,9 @@ youtube_video_title: Alela Diane - The Pirate's Gospel
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[CDK]: Component Dev Kit
 *[FAQ]: Frequently Asked Questions
 *[SaaS]: Software as a Service
 *[SE]: Standard Edition
+<!-- prettier-ignore-end -->

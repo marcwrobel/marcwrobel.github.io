@@ -37,9 +37,11 @@ youtube_video_title: August Burns Red - The Frost
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[bn]: billion
 *[DNS]: Domain Name System
 *[FAQ]: Frequently Asked Questions
 *[JVM]: Java Virtual Machine
 *[SQL]: Structured Query Language
 *[SSH]: Secure SHell
+<!-- prettier-ignore-end -->

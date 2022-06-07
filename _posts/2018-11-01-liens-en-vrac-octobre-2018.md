@@ -43,6 +43,7 @@ youtube_video_title:  Brisa Roché - The Drum
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[CLI]: Command-Line Interface
 *[gpi]: Global Payment Initiative
 *[JIT]: Just-In-Time
@@ -52,3 +53,4 @@ That’s all folks !
 *[tl;dr]: too long; didn’t read
 *[UETR]: Unique End-to-End Transaction Reference
 *[UUID]: Universal Unique IDentifier
+<!-- prettier-ignore-end -->

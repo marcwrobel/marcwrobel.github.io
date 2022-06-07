@@ -66,7 +66,7 @@ youtube_video_title: TOTORRO - Gérard Blast
   — pensez à augmenter `-XX:MaxRAMPercentage` si votre application Java est conteneurisée.
 - [How do you limit non-heap size on Open JDK 11](https://stackoverflow.com/q/65195369)
   — tl;dr : ça n'est pas possible.
-- [How to protect GitLab-connected SSH key with Yubikey](https://about.gitlab.com/blog/2022/03/03/how-to-protect-gitlab-connected-ssh-key-with-yubikey/)*
+- [How to protect GitLab-connected SSH key with Yubikey](https://about.gitlab.com/blog/2022/03/03/how-to-protect-gitlab-connected-ssh-key-with-yubikey/)
   — il faudra que je teste ça.
 - [Extended Diagnostics](https://blog.angular.io/angular-extended-diagnostics-53e2fa19ece9)
   — une nouvelle fonctionnalité Angular qui améliore la vérification des _templates_ : cool !
@@ -92,6 +92,7 @@ youtube_video_title: TOTORRO - Gérard Blast
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[APIs]: Application Programming Interfaces
 *[BITB]: Browser-In-The-Browser
 *[CUPID]: Composable, Unix philosophy, Predictable, Idiomatic, Domain-based
@@ -111,3 +112,4 @@ That’s all folks !
 *[SSH]: Secure SHell
 *[tl;dr]: too long; didn’t read
 *[UTF-8]: Universal Character Set Transformation Format - 8 bits
+<!-- prettier-ignore-end -->

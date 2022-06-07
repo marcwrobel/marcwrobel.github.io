@@ -54,6 +54,8 @@ youtube_video_title: Rover - Aqualast
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[API]: Application Programming Interface
 *[IE]: Internet Explorer
 *[JSON]: JavaScript Object Notation
+<!-- prettier-ignore-end -->

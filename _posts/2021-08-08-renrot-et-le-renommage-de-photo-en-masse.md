@@ -27,4 +27,6 @@ documentation complète de `renrot` est disponible
 sur [https://puszcza.gnu.org.ua/software/renrot/manual/renrot.html](https://puszcza.gnu.org.ua/software/renrot/manual/renrot.html)
 ou dans la [manpage](http://manpages.ubuntu.com/manpages/artful/man1/renrot.1p.html) qui lui est dédiée.
 
+<!-- prettier-ignore-start -->
 *[EXIF]: EXchangeable Image File Format
+<!-- prettier-ignore-end -->

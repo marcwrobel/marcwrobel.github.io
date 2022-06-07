@@ -55,8 +55,10 @@ youtube_video_title: Flotation Toy Warning - Losing Carolina ; For Drusky
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[CVSS]: Common Vulnerability Scoring System
 *[DRAM]: Dynamic Random Access Memory
 *[IDE]: Integrated Development Environment
 *[MITM]: Man-In-The-Middle
-*[SIEM]: Security Information Management System 
+*[SIEM]: Security Information Management System
+<!-- prettier-ignore-end -->

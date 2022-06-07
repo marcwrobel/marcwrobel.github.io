@@ -59,6 +59,7 @@ youtube_video_title: H-Burns - Nowhere To Be
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[BRIN]: Block Range INdex
 *[CI]: Continuous Integration
 *[GA]: General Availability
@@ -69,3 +70,4 @@ That’s all folks !
 *[tl;dr]: too long; didn’t read
 *[UML]: Unified Modeling Language
 *[WWW]: World Wide Web
+<!-- prettier-ignore-end -->

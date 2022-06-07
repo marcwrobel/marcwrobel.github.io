@@ -1,0 +1,5 @@
+_site
+_sass/_code.scss
+manifest.json
+search.json
+**/*.html

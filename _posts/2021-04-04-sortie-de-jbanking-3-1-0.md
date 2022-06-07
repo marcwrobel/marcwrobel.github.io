@@ -34,6 +34,8 @@ une nouvelle dépendance dans votre POM de la manière suivante :
         <version>3.1.0</version>
     </dependency>
 
+<!-- prettier-ignore-start -->
 *[API]: Application Programming Interface
 *[ISO]: International Organization for Standardization
 *[POM]: Project Object Model
+<!-- prettier-ignore-end -->

@@ -66,8 +66,10 @@ youtube_video_title: Iveta Apkalna - Philip Glass - Satyagraha, Act III, Finale
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[BGP]: Border Gateway Protocol
 *[CWE]: Common Weakness Enumeration
 *[KISS]: Keep It Simple, Stupid
 *[SIEM]: Security Information Management System
 *[UUID]: Universal Unique IDentifier
+<!-- prettier-ignore-end -->

@@ -28,7 +28,9 @@ ou, plus simplement, déclarez une nouvelle dépendance dans votre POM de la man
 Toute aide est la bienvenue ! Si vous souhaitez contribuer rendez-vous
 sur [le dépôt GitHub de jbanking](https://github.com/marcwrobel/jbanking).
 
+<!-- prettier-ignore-start -->
 *[BIC]: Bank Identifier Code
 *[IBAN]: International Bank Account Number
 *[ISO]: International Organization for Standardization
 *[POM]: Project Object Model
+<!-- prettier-ignore-end -->

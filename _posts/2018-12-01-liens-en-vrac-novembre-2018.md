@@ -47,6 +47,7 @@ youtube_video_title: Vennart - Don't Forget The Joker
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[2FA]: Two-Factor Authentication
 *[AMP]: Accelerated Mobile Pages
 *[APM]: Application Performance Management
@@ -56,3 +57,4 @@ That’s all folks !
 *[SSL]: Secure Sockets Layers
 *[TLS]: Transport Layer Security
 *[U2F]: Universal 2nd Factor
+<!-- prettier-ignore-end -->

@@ -31,10 +31,12 @@ une nouvelle dépendance dans votre POM de la manière suivante :
         <groupId>fr.marcwrobel</groupId>
         <artifactId>jbanking</artifactId>
         <version>2.1.0</version>
-    </dependency> 
+    </dependency>
 
 Un grand merci à [Matthias Kay (@kayman-mk)](https://github.com/kayman-mk) pour son aide sur cette version !
 
+<!-- prettier-ignore-start -->
 *[IBAN]: International Bank Account Number
 *[ISO]: International Organization for Standardization
 *[POM]: Project Object Model
+<!-- prettier-ignore-end -->

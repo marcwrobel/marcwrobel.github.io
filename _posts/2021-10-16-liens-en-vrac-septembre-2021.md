@@ -66,6 +66,7 @@ youtube_video_title: Ravel - Bolero - Orchestre Philharmonique de Radio France
 
 That’s all folks !
 
+<!-- prettier-ignore-start -->
 *[CISC]: Complex Instruction Set Computer
 *[CSP]: Content Security Policy
 *[GPG]: GNU Privacy Guard
@@ -78,3 +79,4 @@ That’s all folks !
 *[SQL]: Structured Query Language
 *[SSH]: Secure SHell
 *[UUID]: Universally Unique IDentifier
+<!-- prettier-ignore-end -->

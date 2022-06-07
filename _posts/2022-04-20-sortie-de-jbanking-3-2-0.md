@@ -22,4 +22,6 @@ une nouvelle dépendance dans votre POM de la manière suivante :
         <version>3.2.0</version>
     </dependency>
 
+<!-- prettier-ignore-start -->
 *[POM]: Project Object Model
+<!-- prettier-ignore-end -->
