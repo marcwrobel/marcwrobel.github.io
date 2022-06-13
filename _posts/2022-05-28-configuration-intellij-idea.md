@@ -17,16 +17,13 @@ Quelques notes sur la configuration d’[IntelliJ IDEA](https://www.jetbrains.co
 
 Avant d’ouvrir le moindre projet, configurer au préalable le comportement par défaut.
 
-Pour cela dans _Configure_ → _Settings_ :
+Pour cela dans _Customize_ → _All Settings_ :
 
-- cocher l’option _Enable annotation processing_ dans _File | Settings | Build, Execution, Deployment | Compiler |
-  Annotation Processors_,
-- cocher _Add unambiguous import on the fly_ dans _File | Settings | Editor | General | Auto Import_ (pour Java / JSP /
-  TypeScript...),
-- cocher _Optimize import on the fly_ dans _File | Settings | Editor | General | Auto Import_ (pour Java / JSP /
-  TypeScript...),
-- cocher _Ensure every saved file ends with a line break_ dans _File | Settings | Editor | General_,
-- cocher _Transparent native-to-ascii conversion_ dans _File | Settings | Editor | File Encodings_,
-- ajouter _Français_ à la liste des langages dans _File | Settings | Editor | Natural Languages_.
+- cocher l’option _Enable annotation processing_ dans _File > Settings > Build, Execution, Deployment > Compiler > Annotation Processors_,
+- cocher _Add unambiguous import on the fly_ dans _File > Settings > Editor > General > Auto Import_ (pour Java / Kotlin...),
+- cocher _Optimize import on the fly_ dans _File > Settings > Editor > General > Auto Import_ (pour Java / Kotlin...),
+- cocher _Ensure every saved file ends with a line break_ dans _File > Settings > Editor > General_,
+- cocher _Transparent native-to-ascii conversion_ dans _File > Settings > Editor > File Encodings_,
+- ajouter _Français_ à la liste des langages dans _File > Settings > Editor > Natural Languages_.
 
-L'installation et la configuration des JDK se fait depuis _File | Project Structure | Platform Settings | SDKs_.
+L'installation et la configuration des JDK se fait depuis _File > Project Structure > Platform Settings > SDKs_.
