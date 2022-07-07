@@ -22,11 +22,13 @@ Pour utiliser cette nouvelle version rien de plus simple : téléchargez-la
 depuis [Maven Central](https://search.maven.org/artifact/fr.marcwrobel/jbanking/3.3.0/jar) ou,
 plus simplement, déclarez une nouvelle dépendance dans votre POM de la manière suivante :
 
-    <dependency>
-        <groupId>fr.marcwrobel</groupId>
-        <artifactId>jbanking</artifactId>
-        <version>3.3.0</version>
-    </dependency>
+```xml
+<dependency>
+  <groupId>fr.marcwrobel</groupId>
+  <artifactId>jbanking</artifactId>
+  <version>3.3.0</version>
+</dependency>
+```
 
 <!-- prettier-ignore-start -->
 *[POM]: Project Object Model

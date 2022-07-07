@@ -19,11 +19,13 @@ Pour utiliser cette version rien de plus simple : téléchargez-la
 depuis [Maven Central](https://search.maven.org/artifact/fr.marcwrobel/jbanking/1.0/jar)
 ou, plus simplement, déclarez une nouvelle dépendance dans votre POM de la manière suivante :
 
-    <dependency>
-        <groupId>fr.marcwrobel</groupId>
-        <artifactId>jbanking</artifactId>
-        <version>1.0</version>
-    </dependency>
+```xml
+<dependency>
+  <groupId>fr.marcwrobel</groupId>
+  <artifactId>jbanking</artifactId>
+  <version>1.0</version>
+</dependency>
+```
 
 Toute aide est la bienvenue ! Si vous souhaitez contribuer rendez-vous
 sur [le dépôt GitHub de jbanking](https://github.com/marcwrobel/jbanking).

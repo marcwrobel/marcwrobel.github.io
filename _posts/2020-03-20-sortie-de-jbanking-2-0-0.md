@@ -25,11 +25,13 @@ Pour utiliser cette nouvelle version rien de plus simple : téléchargez-la
 depuis [Maven Central](https://search.maven.org/artifact/fr.marcwrobel/jbanking/2.0.0/jar) ou, plus simplement, déclarez
 une nouvelle dépendance dans votre POM de la manière suivante :
 
-    <dependency>
-        <groupId>fr.marcwrobel</groupId>
-        <artifactId>jbanking</artifactId>
-        <version>2.0.0</version>
-    </dependency>
+```xml
+<dependency>
+  <groupId>fr.marcwrobel</groupId>
+  <artifactId>jbanking</artifactId>
+  <version>2.0.0</version>
+</dependency>
+```
 
 Un grand merci à [Charles Kayser (@ckayser)](https://github.com/ckayser), à [@opeti](https://github.com/opeti)
 et à [Adrian Sutton (@ajsutton)](https://github.com/ajsutton) pour leur aide sur cette version !
