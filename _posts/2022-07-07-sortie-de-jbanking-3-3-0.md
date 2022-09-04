@@ -11,7 +11,7 @@ La version 3.3.0 de [jbanking](https://github.com/marcwrobel/jbanking) est sorti
 - diverses améliorations et corrections mineures.
 
 De nombreux travaux ont aussi été effectués dans le cadre de
-l'[OpenSSF Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/en/projects/6217) et
+l’[OpenSSF Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/en/projects/6217) et
 dans le cadre du projet [Open Source Insights](https://deps.dev/maven/fr.marcwrobel%3Ajbanking) pour
 améliorer la sécurité et la maintenabilité du projet.
 
