@@ -8,7 +8,7 @@ youtube_video_title: Agnes Obel - It's Happening Again
 
 ## Nouvelles
 
-- [Text4Shell: A Vulnerability in Java library Apache Commons Text (CVE-2022-42889)](https://www.lunasec.io/docs/blog/text4shell-java-rce-cve-2022-42889/)
+- [Text4Shell: A Vulnerability in Java library Apache Commons Text (CVE-2022-42889)](https://www.lunasec.io/docs/blog/text4shell-java-rce-cve-2022-42889/),
   [What the OpenSSL Vulnerabilities Are…and Aren't (CVE-2022-3786 & CVE-2022-3602)](https://blog.sonatype.com/what-the-openssl-vulnerabilities-are-and-arent)
   — pensez à vous mettre à jour !
 - [PostgreSQL 15 Released!](https://www.postgresql.org/about/news/postgresql-15-released-2526/)
@@ -60,7 +60,7 @@ youtube_video_title: Agnes Obel - It's Happening Again
 ## Articles, podcasts et vidéos
 
 - [Introducing Spring Modulith](https://spring.io/blog/2022/10/21/introducing-spring-modulith)
-  — je n'ai jamais pu la tester "en vrai", mais j'aime bien cette approche.
+  — j'aime bien cette approche, même si je n'ai jamais pu la tester "en vrai".
 - [Spring Tips: the road to Spring Boot 3: Spring Framework 6](https://spring.io/blog/2022/10/26/spring-tips-the-road-to-spring-boot-3-spring-framework-6)
   — dans cette vidéo, Josh Long nous montre quelques-unes des nouvelles fonctionnalités de Spring Framework 6 et de
   Spring Boot 3 : l'intégration de la [RFC 7807: Problem Details for HTTP APIs](https://www.rfc-editor.org/rfc/rfc7807),
@@ -74,7 +74,8 @@ youtube_video_title: Agnes Obel - It's Happening Again
 - [Building a Distributed Audit Log with YugabyteDB](https://vladmihalcea.com/audit-log-yugabytedb/)
   — l'approche utilisée est intéressante.
 - [10 More Common Mistakes Java Developers Make when Writing SQL](https://dzone.com/articles/10-more-common-mistakes-java)
-  — c'est la première fois que je vois un article qui encourage l'utilisation des contraintes SQL.
+  — c'est la première fois que je vois un article qui encourage l'utilisation des contraintes SQL pour des questions de
+  performance.
 - [pgbouncer: Types of PostgreSQL connection pooling](https://www.cybertec-postgresql.com/en/pgbouncer-types-of-postgresql-connection-pooling/)
   — si comme moi vous ne saviez pas qu'il y avait plusieurs types de _connection pooling_.
 - [Devops - Diagrams as Code](https://blog.stephane-robert.info/post/devops-diagram-as-code/)
@@ -83,8 +84,9 @@ youtube_video_title: Agnes Obel - It's Happening Again
 - [jmtd → log → podman generate](https://jmtd.net/log/podman_generate/)
   — bon à savoir : _Running the docker CLI under a process supervisor only results in supervising the CLI process_.
 - [How to use Java DTOs to stay secure](https://snyk.io/blog/how-to-use-java-dtos/)
-  — au-delà du découplage entre différentes couches ou sous-systèmes, l'utilisation de DTO spécialisés (au sens de non
-  réutilisés dans des contextes différents) diminue le risque de fuites de données accidentelles.
+  — au-delà du découplage entre différentes couches ou sous-systèmes, l'utilisation de DTO spécialisés (c.-à-d.
+  non réutilisés dans des contextes différents) a aussi l'avantage de diminuer le risque de fuites de données
+  accidentelles.
 - [Maintaining monopolies with the cloud](https://pluralistic.net/2022/09/28/other-peoples-computers/) et
   [The Cloud is Not a Railroad - An Argument Against the Vertical Separation of Cloud Providers](http://highscalability.com/blog/2022/10/24/the-cloud-is-not-a-railroad-an-argument-against-the-vertical.html)
   — deux argumentaires très intéressants (et contradictoires) sur le _cloud business_.
@@ -94,7 +96,7 @@ youtube_video_title: Agnes Obel - It's Happening Again
 - [Shodan - Search Engine for the Internet of Everything](https://www.shodan.io/)
   — j'en avais entendu parlé plusieurs fois mais je n'avais jamais testé. C'est puissant !
 - [badssl.com - Memorable site for testing clients against bad SSL configs](https://badssl.com/)
-  — on en n'a pas besoin tous les jours, mais ça peut être très pratique.
+  — on n'en a pas besoin tous les jours, mais ça peut être très pratique.
 - [Upscayl - Free and Open Source AI Image Upscaler](https://github.com/upscayl/upscayl)
   — pratique pour magnifier des photos dont la résolution est basse. Le résultat n'est pas magique, mais reste assez
   bluffant.
