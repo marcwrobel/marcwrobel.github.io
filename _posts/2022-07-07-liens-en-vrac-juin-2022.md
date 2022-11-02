@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac — Juin 2022
 category: liens
-youtube_video_id: brBAsOfxvkA
-youtube_video_title: Elysian Fields - Passing On The Stairs
 ---
 
 ## Nouvelles
@@ -117,7 +115,7 @@ youtube_video_title: Elysian Fields - Passing On The Stairs
 - [formatter-maven-plugin](https://github.com/revelc/formatter-maven-plugin)
   — une alternative à [git-code-format-maven-plugin](https://github.com/Cosium/git-code-format-maven-plugin).
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=brBAsOfxvkA "Elysian Fields - Passing On The Stairs"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[AOT]: Ahead-Of-Time

@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac — Janvier 2022
 category: liens
-youtube_video_id: iZKXoAMmJHE
-youtube_video_title: Stella Donnelly - Beware Of The Dogs
 ---
 
 ## Nouvelles
@@ -61,7 +59,7 @@ youtube_video_title: Stella Donnelly - Beware Of The Dogs
 - [`dstat`](https://haydenjames.io/dstat-command-in-linux-examples/)
   — `vmstat` + `iostat` + `ifstat` + `netstat`.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=iZKXoAMmJHE "Stella Donnelly - Beware Of The Dogs"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[EV]: Extended Validation

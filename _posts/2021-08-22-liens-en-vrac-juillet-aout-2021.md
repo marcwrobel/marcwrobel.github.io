@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac — Juillet / Août 2021
 category: liens
-youtube_video_id: dPThzBElZ1c
-youtube_video_title: Damon Albarn - The Story of a Cheating Heart
 ---
 
 ## Nouvelles
@@ -72,7 +70,7 @@ youtube_video_title: Damon Albarn - The Story of a Cheating Heart
   — _packages Search for Linux and Unix_, pratique pour savoir rapidement si un paquet sera disponible sur la plupart
   des distributions populaires.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=dPThzBElZ1c "Damon Albarn - The Story of a Cheating Heart"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[EBICS]: Electronic Banking Internet Communication Standard

@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Août 2018
 category: liens
-youtube_video_id: ReVs4hUf8iQ
-youtube_video_title: PSYKUP - Violent Brazilian Massage
 ---
 
 ## News
@@ -43,7 +41,7 @@ youtube_video_title: PSYKUP - Violent Brazilian Massage
 - [Is there a way to “freeze” a file in Git?](https://stackoverflow.com/questions/4710249/is-there-a-way-to-freeze-a-file-in-git/30402432#30402432)
   — et bien oui : `git update-index --assume-unchanged foo.txt`.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=ReVs4hUf8iQ "PSYKUP - Violent Brazilian Massage"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 

@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Décembre 2019
 category: liens
-youtube_video_id: dYEbjAUG5WE
-youtube_video_title: Mass Hysteria - Attracteurs étranges
 ---
 
 ## News
@@ -43,7 +41,7 @@ youtube_video_title: Mass Hysteria - Attracteurs étranges
 - [ciphersuite.info - TLS Cipher Suite Search](https://ciphersuite.info/)
   — pratique pour obtenir rapidement des informations sur une Cipher Suite TLS.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=dYEbjAUG5WE "Mass Hysteria - Attracteurs étranges"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[JDK]: Java Development Kit

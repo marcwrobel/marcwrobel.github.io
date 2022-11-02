@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac — Mai 2021
 category: liens
-youtube_video_id: KntRrH_pnUE
-youtube_video_title: Rover - Aqualast
 ---
 
 ## Nouvelles
@@ -52,7 +50,7 @@ youtube_video_title: Rover - Aqualast
 - [Windows Package Manager 1.0](https://devblogs.microsoft.com/commandline/windows-package-manager-1-0/)
   — ça manquait !
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=KntRrH_pnUE "Rover - Aqualast"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[API]: Application Programming Interface

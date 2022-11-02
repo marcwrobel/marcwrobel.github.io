@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac — Avril 2022
 category: liens
-youtube_video_id: 3wDw-W9S0j4
-youtube_video_title: Russian Circles - Quartered
 ---
 
 ## Nouvelles
@@ -90,7 +88,7 @@ youtube_video_title: Russian Circles - Quartered
 - [crt.sh](https://crt.sh/?q=www.marcwrobel.fr)
   — une re-découverte : très pratique pour monitorer ou, plus simplement, visualiser vos certificats.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=3wDw-W9S0j4 "Russian Circles - Quartered"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[JDK]: Java Development Kit

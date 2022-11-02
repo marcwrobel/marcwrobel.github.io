@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Septembre 2018
 category: liens
-youtube_video_id: ReVs4hUf8iQ
-youtube_video_title: Mozart - Requiem - Claudio Abbado, Lucerne Festival Orchestra
 ---
 
 ## News
@@ -41,7 +39,7 @@ youtube_video_title: Mozart - Requiem - Claudio Abbado, Lucerne Festival Orchest
 - [Strata](https://strata.opengamma.io/)
   — _Open source analytics and market risk library from OpenGamma_.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=ReVs4hUf8iQ "Mozart - Requiem - Claudio Abbado, Lucerne Festival Orchestra"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[HTTP]: Hypertext Transfer Protocol

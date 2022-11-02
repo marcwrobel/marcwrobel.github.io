@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac — Juillet 2022
 category: liens
-youtube_video_id: r57J0jPyZRs
-youtube_video_title: Nina Simone - Sinnerman
 ---
 
 ## Nouvelles
@@ -85,7 +83,7 @@ youtube_video_title: Nina Simone - Sinnerman
 - [FROM:latest](https://www.fromlatest.io/#/)
   — un linter pour Dockerfile.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=r57J0jPyZRs "Nina Simone - Sinnerman"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[API]: Application Programming Interface

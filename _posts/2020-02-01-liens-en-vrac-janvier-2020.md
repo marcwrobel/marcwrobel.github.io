@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Janvier 2020
 category: liens
-youtube_video_id: aSqIk4RHImA
-youtube_video_title: BEAK> - Allé Sauvage
 ---
 
 ## News
@@ -52,7 +50,7 @@ youtube_video_title: BEAK> - Allé Sauvage
 - [Problem Details for HTTP APIs](https://tools.ietf.org/html/rfc7807)
   — il y a vraiment des RFC pour tout !
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=aSqIk4RHImA "BEAK> - Allé Sauvage"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[API]: Application Programming Interface

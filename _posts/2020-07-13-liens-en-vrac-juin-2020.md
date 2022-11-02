@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Juin 2020
 category: liens
-youtube_video_id: Adrw-zxiTe4
-youtube_video_title: Orff - Carmina Burana - Temple University Symphony Orchestra
 ---
 
 ## Nouvelles
@@ -50,7 +48,7 @@ youtube_video_title: Orff - Carmina Burana - Temple University Symphony Orchestr
 - [A few new generation command line tools](https://kushaldas.in/posts/a-few-new-generation-command-line-tools.html)
   — [starship](https://starship.rs/) a l’air prometteur.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=Adrw-zxiTe4 "Orff - Carmina Burana - Temple University Symphony Orchestra"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[API]: Application Programming Interface

@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac — Novembre 2019
 category: liens
-youtube_video_id: wGwctEd2by4
-youtube_video_title: Machine Head - None But My Own
 ---
 
 ## News
@@ -39,7 +37,7 @@ youtube_video_title: Machine Head - None But My Own
 - [Meet Grazie: the ultimate spelling, grammar, and style checker for IntelliJ IDEA](https://blog.jetbrains.com/idea/2019/11/meet-grazie-the-ultimate-spelling-grammar-and-style-checker-for-intellij-idea/)
   — je ne peux que confirmer ce qui est dit dans le titre.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=wGwctEd2by4 "Machine Head - None But My Own"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[GraphQL]: Graph Query Language

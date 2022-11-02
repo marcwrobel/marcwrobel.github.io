@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac — Mai 2020
 category: liens
-youtube_video_id: rjbiUj-FD-o
-youtube_video_title: Damon Albarn - Everyday Robots
 ---
 
 ## Nouvelles
@@ -62,7 +60,7 @@ youtube_video_title: Damon Albarn - Everyday Robots
   — une image sympa découverte grâce à
   l’article [Crafting the perfect container to play with a Headless Chrome](https://dev.to/jlandure/crafting-the-perfect-container-to-play-with-a-headless-chrome-ilp)
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=rjbiUj-FD-o "Damon Albarn - Everyday Robots"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[APM]: Application Performance Management

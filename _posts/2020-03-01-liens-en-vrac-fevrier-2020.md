@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Février 2020
 category: liens
-youtube_video_id: 0XfBfBmeuDE
-youtube_video_title: Iveta Apkalna - Philip Glass - Satyagraha, Act III, Finale
 ---
 
 ## News
@@ -64,7 +62,7 @@ youtube_video_title: Iveta Apkalna - Philip Glass - Satyagraha, Act III, Finale
   L'[épisode NoLimitSecu#244](https://www.nolimitsecu.fr/passbolt/), consacré à [passbolt](https://www.passbolt.com/),
   est lui aussi très intéressant.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=0XfBfBmeuDE "Iveta Apkalna - Philip Glass - Satyagraha, Act III, Finale"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[BGP]: Border Gateway Protocol

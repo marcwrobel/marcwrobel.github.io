@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac — Mars 2021
 category: liens
-youtube_video_id: fQQxhyhdg-w
-youtube_video_title: Periphery - Reptile
 ---
 
 ## Nouvelles
@@ -70,7 +68,7 @@ youtube_video_title: Periphery - Reptile
 - [ bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx)
   — _nginx Docker image secure by default_.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=fQQxhyhdg-w "Periphery - Reptile"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[CSV]: Comma-Separated Values

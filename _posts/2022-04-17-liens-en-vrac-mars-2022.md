@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac — Mars 2022
 category: liens
-youtube_video_id: yfLlZHGfMdo
-youtube_video_title: TOTORRO - Gérard Blast
 ---
 
 ## Nouvelles
@@ -90,7 +88,7 @@ youtube_video_title: TOTORRO - Gérard Blast
   — une alternative à [libraries.io](https://libraries.io) (qui visiblement ne permet plus d’ajouter de nouvelles
   souscriptions).
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=yfLlZHGfMdo "TOTORRO - Gérard Blast"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[APIs]: Application Programming Interfaces

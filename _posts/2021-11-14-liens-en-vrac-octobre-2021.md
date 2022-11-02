@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac — Octobre 2021
 category: liens
-youtube_video_id: f2bwpabIi90
-youtube_video_title: Dom La Nena - Gracias a la Vida
 ---
 
 ## Nouvelles
@@ -66,7 +64,7 @@ youtube_video_title: Dom La Nena - Gracias a la Vida
 - [Playtika / testcontainers-spring-boot](https://github.com/Playtika/testcontainers-spring-boot)
   — _container auto-configurations for spring-boot based integration tests_.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=f2bwpabIi90 "Dom La Nena - Gracias a la Vida"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[LTS]: Long-Term Support

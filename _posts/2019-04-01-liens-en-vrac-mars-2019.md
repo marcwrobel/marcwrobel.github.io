@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Mars 2019
 category: liens
-youtube_video_id: qunnzffFTj0
-youtube_video_title: Feu! Chatterton - Souvenir
 ---
 
 ## News
@@ -48,7 +46,7 @@ youtube_video_title: Feu! Chatterton - Souvenir
 - [Firefox Send permet le transfert de fichiers gratuitement tout en garantissant la protection des données personnelles](https://blog.mozilla.org/press-fr/2019/03/12/firefox-send-permet-le-transfert-de-fichiers-gratuitement-tout-en-garantissant-la-protection-des-donnees-personnelles/)
   — merci Mozilla !
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=qunnzffFTj0 "Feu! Chatterton - Souvenir"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[LCC]: Les Cast Codeurs

@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Octobre 2020
 category: liens
-youtube_video_id: 6tqOMxaGgBU
-youtube_video_title: Brahms - Hungarian Dance No. 1 - Berliner Philharmoniker
 ---
 
 ## Nouvelles
@@ -61,7 +59,7 @@ youtube_video_title: Brahms - Hungarian Dance No. 1 - Berliner Philharmoniker
 - [Pulp - Fetch, Upload, Organize, and Distribute Software Packages](https://pulpproject.org/)
   — une alternative à [Nexus](https://fr.sonatype.com/nexus/repository-oss)
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=6tqOMxaGgBU "Brahms - Hungarian Dance No. 1 - Berliner Philharmoniker"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[csv]: Comma-Separated Values

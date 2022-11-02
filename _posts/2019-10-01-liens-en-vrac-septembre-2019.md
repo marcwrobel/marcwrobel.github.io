@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Septembre 2019
 category: liens
-youtube_video_id: fVrVjeEtDMU
-youtube_video_title: Gustav Holst - The Planets - Sinfonia Rotterdam
 ---
 
 ## News
@@ -44,7 +42,7 @@ youtube_video_title: Gustav Holst - The Planets - Sinfonia Rotterdam
 - [Cybertec PostgreSQL Configurator](http://pgconfigurator.cybertec.at/)
   — un bon point de départ pour configurer au mieux PostgreSQL.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=fVrVjeEtDMU "Gustav Holst - The Planets - Sinfonia Rotterdam"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[CDS]: Class Data Sharing

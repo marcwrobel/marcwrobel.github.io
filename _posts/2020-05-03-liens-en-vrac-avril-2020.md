@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac — Avril 2020
 category: liens
-youtube_video_id: gbVUGwCP1qw
-youtube_video_title: Feu! Chatterton - Côte Concorde
 ---
 
 ## Nouvelles
@@ -68,7 +66,7 @@ youtube_video_title: Feu! Chatterton - Côte Concorde
 - [Learn Kubernetes. From Experts. For Free.](https://kube.academy/)
   — une bonne ressource pour démarrer avec Kubernetes.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=gbVUGwCP1qw "Feu! Chatterton - Côte Concorde"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[ADR]: Architecture Decision Record

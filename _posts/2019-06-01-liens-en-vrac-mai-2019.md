@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Mai 2019
 category: liens
-youtube_video_id: qULl7tSYMl0
-youtube_video_title: Ravi Shankar and Philip Glass - Offering - Britten Sinfonia
 ---
 
 ## News
@@ -61,7 +59,7 @@ youtube_video_title: Ravi Shankar and Philip Glass - Offering - Britten Sinfonia
   — un outil pour gérer les traductions plus simplement et en équipe. Pour un retour d’expérience :
   [Gestion des traductions avec localise.biz](https://blog.eleven-labs.com/fr/gestion-des-traductions-avec-localise.biz/).
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=qULl7tSYMl0 "Ravi Shankar and Philip Glass - Offering - Britten Sinfonia"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[API]: Application Programming Interface

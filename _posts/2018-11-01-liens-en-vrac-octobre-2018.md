@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Octobre 2018
 category: liens
-youtube_video_id: 1QwjFmnCMKA
-youtube_video_title: Brisa Roché - The Drum
 ---
 
 ## News
@@ -41,7 +39,7 @@ youtube_video_title: Brisa Roché - The Drum
 - [Picocli](https://github.com/remkop/picocli)
   — une très bonne librairie qui simplifie l’écriture d’applications de type CLI en Java.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=1QwjFmnCMKA "Brisa Roché - The Drum"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[CLI]: Command-Line Interface

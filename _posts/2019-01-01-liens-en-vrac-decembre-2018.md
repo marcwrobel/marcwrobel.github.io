@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac — Décembre 2018
 category: liens
-youtube_video_id: XDdy31itya8
-youtube_video_title: Moriarty - Lily
 ---
 
 ## News
@@ -22,7 +20,7 @@ youtube_video_title: Moriarty - Lily
 - [JDPR or Java Data Protection Recommendations](https://dzone.com/articles/jdpr-java-data-protection-recommendations)
   — Java dans le cadre de la RGPD.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=XDdy31itya8 "Moriarty - Lily"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[JDK]: Java Development Kit

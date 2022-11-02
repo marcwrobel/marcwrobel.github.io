@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac — Décembre 2021
 category: liens
-youtube_video_id: zzE-kVadtNw
-youtube_video_title: Vivaldi - Quattro Stagioni - Janine Jansen
 ---
 
 ## Nouvelles
@@ -66,7 +64,7 @@ youtube_video_title: Vivaldi - Quattro Stagioni - Janine Jansen
 - [CVE.report](https://cve.report)
   — beaucoup plus sympa à lire que [cve.mitre.org](https://cve.mitre.org/).
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=zzE-kVadtNw "Vivaldi - Quattro Stagioni - Janine Jansen"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[CNIL]: Commission Nationale de l’Informatique et des Libertés

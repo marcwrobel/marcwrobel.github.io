@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Août 2019
 category: liens
-youtube_video_id: cg0M4LzEITQ
-youtube_video_title: Dmitrij Schostakowitsch - Symphony No. 5 - Frankfurt Radio Symphony
 ---
 
 ## News
@@ -28,7 +26,7 @@ youtube_video_title: Dmitrij Schostakowitsch - Symphony No. 5 - Frankfurt Radio 
 - [5 JPA Features That Are Easier To Use with Spring Data JPA](https://thoughts-on-java.org/jpa-features-easier-spring-data-jpa/)
   — exécuter une requête, faire des projections, paginer, récupérer un graphe d’objets et appeler une procédure stockée.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=cg0M4LzEITQ "Dmitrij Schostakowitsch - Symphony No. 5 - Frankfurt Radio Symphony"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[EOL]: End-Of-Life

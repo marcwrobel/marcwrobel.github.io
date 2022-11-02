@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Décembre 2020
 category: liens
-youtube_video_id: 6RjnWp14wwU
-youtube_video_title: Tchaïkovski - Casse-Noisette - Orchestre National du Bolchoï
 ---
 
 ## Nouvelles
@@ -54,7 +52,7 @@ youtube_video_title: Tchaïkovski - Casse-Noisette - Orchestre National du Bolch
 - [PostgresqlCO.NF](https://postgresqlco.nf/)
   — ça m’a l’air bien pratique, à garder sous le coude pour la prochaine fois !
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=6RjnWp14wwU "Tchaïkovski - Casse-Noisette - Orchestre National du Bolchoï"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[CTO]: Chief Technology Officer

@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac — Février 2022
 category: liens
-youtube_video_id: k5yaCHEyxMo
-youtube_video_title: The Districts - Young Blood
 ---
 
 ## Nouvelles
@@ -79,7 +77,7 @@ youtube_video_title: The Districts - Young Blood
 - [ShedLock : l’allié de choix pour vos tâches planifiées Spring](https://blog.ippon.fr/2022/02/28/shedlock-lallie-de-choix-pour-vos-taches-planifiees-spring/)
   — ça m’a l’air tout à fait sympa !
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=k5yaCHEyxMo "The Districts - Young Blood"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[CSS]: Cascading Style Sheets

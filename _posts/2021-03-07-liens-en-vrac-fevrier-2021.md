@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Février 2021
 category: liens
-youtube_video_id: BpK2rv_JTLE
-youtube_video_title: Watcha - Sam
 ---
 
 ## Nouvelles
@@ -61,7 +59,7 @@ youtube_video_title: Watcha - Sam
   — je n’ai pas encore testé, mais ça pourrait être une bonne alternative (plus simple, plus rapide et moins verbeuse) à
   [molecule](https://github.com/ansible-community/molecule).
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=BpK2rv_JTLE "Watcha - Sam"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[AWS]: Amazon Web Services

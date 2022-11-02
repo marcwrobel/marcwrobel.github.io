@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac — Avril 2021
 category: liens
-youtube_video_id: yPwZQiYsL4w
-youtube_video_title: Emiliana Torrini - Gollum's Song
 ---
 
 ## Nouvelles
@@ -56,7 +54,7 @@ youtube_video_title: Emiliana Torrini - Gollum's Song
 - [Charts.CSS, a Pure CSS Charting Library](https://www.infoq.com/news/2021/04/charts-css-data-visulaization/)
   — eh beh, ils sont balèzes en CSS les mecs !
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=yPwZQiYsL4w "Emiliana Torrini - Gollum's Song"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[API]: Application Programming Interface

@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Avril 2019
 category: liens
-youtube_video_id: atoAvjyCpXs
-youtube_video_title: O - Olivier Marguerit - A Kiss
 ---
 
 ## News
@@ -45,7 +43,7 @@ youtube_video_title: O - Olivier Marguerit - A Kiss
 - [Linux - commandes fondamentales](http://juliend.github.io/linux-cheatsheet/)
   — un petit guide pour bien démarrer avec les commandes Linux de base.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=atoAvjyCpXs "O - Olivier Marguerit - A Kiss"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[CNIL]: Commission Nationale de l’Informatique et des Libertés

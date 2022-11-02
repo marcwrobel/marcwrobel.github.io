@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Janvier 2021
 category: liens
-youtube_video_id: ealNJpw3J4Q
-youtube_video_title: Beach House - The Hours
 ---
 
 ## Nouvelles
@@ -70,7 +68,7 @@ youtube_video_title: Beach House - The Hours
 - [Plugin Intellij IDEA - String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
   — un petit bijou !
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=ealNJpw3J4Q "Beach House - The Hours"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[API]: Application Programming Interface

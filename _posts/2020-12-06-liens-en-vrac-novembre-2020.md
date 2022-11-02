@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Novembre 2020
 category: liens
-youtube_video_id: svwJTnZOaco
-youtube_video_title: Radiohead - Idioteque
 ---
 
 ## Nouvelles
@@ -91,7 +89,7 @@ youtube_video_title: Radiohead - Idioteque
 - [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
   — à garder sous la main.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=svwJTnZOaco "Radiohead - Idioteque"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[BRIN]: Block Range INdex

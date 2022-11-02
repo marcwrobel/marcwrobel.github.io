@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac — Août 2022
 category: liens
-youtube_video_id: mqGAokNRFI8
-youtube_video_title: Rammstein - Du Riechst So Gut (Live at Hellfest 2016)
 ---
 
 ## Nouvelles
@@ -95,7 +93,7 @@ youtube_video_title: Rammstein - Du Riechst So Gut (Live at Hellfest 2016)
 - [Renovate, a Dependabot alternative](https://blog.frankel.ch/renovate-alternative-dependabot/)
   — si vous n’utilisez pas GitHub…
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=mqGAokNRFI8 "Rammstein - Du Riechst So Gut (Live at Hellfest 2016)"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[ACME]: Automated Certificate Management Environment

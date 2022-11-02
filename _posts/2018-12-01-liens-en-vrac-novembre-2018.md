@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Novembre 2018
 category: liens
-youtube_video_id: 0g4Mh7_uLd0
-youtube_video_title: Vennart - Don't Forget The Joker
 ---
 
 ## News
@@ -45,7 +43,7 @@ youtube_video_title: Vennart - Don't Forget The Joker
 - [L’inversion du modèle de connexion d’Ansible avec Ansible-pull : killer feature ?](https://blog.octo.com/ansible-pull-killer-feature/)
   — pas vraiment on dirait.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=0g4Mh7_uLd0 "Vennart - Don't Forget The Joker"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[2FA]: Two-Factor Authentication

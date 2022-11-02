@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac — Juin 2021
 category: liens
-youtube_video_id: LnKUD_OztRE
-youtube_video_title: Tame Impala - Elephant
 ---
 
 ## Nouvelles
@@ -57,7 +55,7 @@ youtube_video_title: Tame Impala - Elephant
 - [endoflife.date](https://endoflife.date/)
   — _quick links for checking End Of Life dates for various tools and technologies_.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=LnKUD_OztRE "Tame Impala - Elephant"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[SQL]: Structured Query Language

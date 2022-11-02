@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Septembre 2020
 category: liens
-youtube_video_id: HuS5NuXRb5Y
-youtube_video_title: The Beatles - Eleanor Rigby
 ---
 
 ## Nouvelles
@@ -68,7 +66,7 @@ youtube_video_title: The Beatles - Eleanor Rigby
 - [entr - Run arbitrary commands when files change](http://eradman.com/entrproject/)
   — ma foi, ça peut servir !
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=HuS5NuXRb5Y "The Beatles - Eleanor Rigby"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[2FA]: Two-Factor Authentication

@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Juillet 2020
 category: liens
-youtube_video_id: oOTpQpoHHaw
-youtube_video_title: Erik Satie - Gnossienne No. 1 - Alessio Nanni
 ---
 
 ## Nouvelles
@@ -55,7 +53,7 @@ youtube_video_title: Erik Satie - Gnossienne No. 1 - Alessio Nanni
 - [tuned, PG, and you](https://hunleyd.github.io/posts/tuned-PG-and-you/)
   — il a l’air super cet outil !
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=oOTpQpoHHaw "Erik Satie - Gnossienne No. 1 - Alessio Nanni"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[ATP]: Advanced Threat Protection

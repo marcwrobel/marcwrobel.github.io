@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac — Mars 2020
 category: liens
-youtube_video_id: GmDtzn_BLfg
-youtube_video_title: Nada Surf - 80 Windows
 ---
 
 ## Nouvelles
@@ -71,7 +69,7 @@ youtube_video_title: Nada Surf - 80 Windows
 - [The Simpsons in CSS](https://pattle.github.io/simpsons-in-css/)
   — c’est fou ce qu’on peut faire avec une simple CSS !
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=GmDtzn_BLfg "Nada Surf - 80 Windows"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[CSS]: Cascading Style Sheets

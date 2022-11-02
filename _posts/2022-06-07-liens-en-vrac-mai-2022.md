@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac — Mai 2022
 category: liens
-youtube_video_id: L4XTJao2iLA
-youtube_video_title: Joe Hisaishi - Studio Ghibli 25 Years Concert
 ---
 
 ## Nouvelles
@@ -107,7 +105,7 @@ youtube_video_title: Joe Hisaishi - Studio Ghibli 25 Years Concert
   — une extension PostgreSQL permettant d’anonymiser une base de données en déclarant des transformations sur les
   colonnes sensibles (PII).
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=L4XTJao2iLA "Joe Hisaishi - Studio Ghibli 25 Years Concert"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[API]: Application Programming Interface

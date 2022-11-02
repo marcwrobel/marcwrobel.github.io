@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Octobre 2019
 category: liens
-youtube_video_id: 7-_lQmBu4-g
-youtube_video_title: Cake - Frank Sinatra
 ---
 
 ## News
@@ -36,7 +34,7 @@ youtube_video_title: Cake - Frank Sinatra
 - [regex101 - Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)
   — un outil très pratique pour tester ses expressions régulières.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=7-_lQmBu4-g "Cake - Frank Sinatra"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[EOL]: End-Of-Life

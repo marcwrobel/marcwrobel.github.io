@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Juin 2019
 category: liens
-youtube_video_id: kX7a62fsm_k
-youtube_video_title: Flotation Toy Warning - Losing Carolina ; For Drusky
 ---
 
 ## News
@@ -53,7 +51,7 @@ youtube_video_title: Flotation Toy Warning - Losing Carolina ; For Drusky
 - [GCeasy](https://gceasy.io/)
   — à tester quand l’occasion se présentera.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=kX7a62fsm_k "Flotation Toy Warning - Losing Carolina ; For Drusky"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[CVSS]: Common Vulnerability Scoring System

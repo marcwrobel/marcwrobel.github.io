@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Juin 2018
 category: liens
-youtube_video_id: NPrpNhEs15Y
-youtube_video_title: Lofofora - Les Gens
 ---
 
 ## News
@@ -29,7 +27,7 @@ youtube_video_title: Lofofora - Les Gens
 - [Glowroot, le petit APM qui vous veut du bien](https://www.youtube.com/watch?v=j5o4bETXoPo)
   — _Easy to use, very low overhead, Java APM_.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=NPrpNhEs15Y "Lofofora - Les Gens"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[SE]: Standard Edition

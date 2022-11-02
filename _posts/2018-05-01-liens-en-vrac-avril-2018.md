@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Avril 2018
 category: liens
-youtube_video_id: j1X-RUREegs
-youtube_video_title: Jeanne Added - Look at them
 ---
 
 ## News
@@ -31,7 +29,7 @@ youtube_video_title: Jeanne Added - Look at them
 - [Linux Find Out What Process Are Using Swap Space](https://www.cyberciti.biz/faq/linux-which-process-is-using-swap/)
   — c’est bien pratique [`smem`](https://www.selenic.com/smem/).
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=j1X-RUREegs "Jeanne Added - Look at them"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[BPF]: Berkeley Packet Filter

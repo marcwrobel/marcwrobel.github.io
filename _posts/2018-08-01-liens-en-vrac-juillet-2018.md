@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Juillet 2018
 category: liens
-youtube_video_id: gf7kMaurLZk
-youtube_video_title: Roger Waters - Déjà Vu
 ---
 
 ## News
@@ -36,7 +34,7 @@ youtube_video_title: Roger Waters - Déjà Vu
 - [Kit de communication](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/a-propos/kit-de-communication)
   — un kit de communication complet (et gratuit) de sensibilisation à la cybersécurité.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=gf7kMaurLZk "Roger Waters - Déjà Vu"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[EOL]: End-Of-Life

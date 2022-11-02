@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac — Septembre 2021
 category: liens
-youtube_video_id: 6NDwT6SCfk4
-youtube_video_title: Ravel - Bolero - Orchestre Philharmonique de Radio France
 ---
 
 ## Nouvelles
@@ -64,7 +62,7 @@ youtube_video_title: Ravel - Bolero - Orchestre Philharmonique de Radio France
 - [TUXEDO Computers](https://www.tuxedocomputers.com/)
   — si vous cherchez un PC pas trop cher avec une bonne compatibilité Linux.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=6NDwT6SCfk4 "Ravel - Bolero - Orchestre Philharmonique de Radio France"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[CISC]: Complex Instruction Set Computer

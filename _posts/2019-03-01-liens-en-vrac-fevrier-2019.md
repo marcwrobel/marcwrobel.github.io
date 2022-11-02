@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Février 2019
 category: liens
-youtube_video_id: NgS8qg7VJ-s
-youtube_video_title: Blood Red Shoes - When We Wake
 ---
 
 ## News
@@ -40,7 +38,7 @@ youtube_video_title: Blood Red Shoes - When We Wake
   — et même sans parler d’équipe, Gopass apporte des améliorations intéressantes
   à [pass](https://www.passwordstore.org/).
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=NgS8qg7VJ-s "Blood Red Shoes - When We Wake"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[DNS]: Domain Name System

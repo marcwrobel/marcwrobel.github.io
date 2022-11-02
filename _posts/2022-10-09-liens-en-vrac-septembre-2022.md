@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac — Septembre 2022
 category: liens
-youtube_video_id: pEtseprzors
-youtube_video_title: Philip Glass - Mad Rush (organ version by Donald Joyce)
 ---
 
 ## Nouvelles
@@ -97,7 +95,7 @@ youtube_video_title: Philip Glass - Mad Rush (organ version by Donald Joyce)
 - [cybertec-postgresql/pg_squeeze](https://github.com/cybertec-postgresql/pg_squeeze)
   — _an extension that removes unused space from a table and optionally sorts tuples according to particular index_.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=pEtseprzors "Philip Glass - Mad Rush (organ version by Donald Joyce)"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[APIs]: Application Programming Interfaces

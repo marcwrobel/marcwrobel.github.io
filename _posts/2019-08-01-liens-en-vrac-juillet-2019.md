@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Juillet 2019
 category: liens
-youtube_video_id: VMQPmvcoLLQ
-youtube_video_title: H-Burns - Nowhere To Be
 ---
 
 ## News
@@ -57,7 +55,7 @@ youtube_video_title: H-Burns - Nowhere To Be
   l’`alias dive='docker run --rm -it -v /var/run/docker.sock:/var/run/docker.sock wagoodman/dive:latest’` et c’est
   parti !
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=VMQPmvcoLLQ "H-Burns - Nowhere To Be"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[BRIN]: Block Range INdex

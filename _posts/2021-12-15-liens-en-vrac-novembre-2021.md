@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac — Novembre 2021
 category: liens
-youtube_video_id: 6JUwmk1FFRE
-youtube_video_title: Katia & Marielle Labèque - Glass - Les Enfants Terribles
 ---
 
 ## Nouvelles
@@ -82,7 +80,7 @@ youtube_video_title: Katia & Marielle Labèque - Glass - Les Enfants Terribles
 - [Awesome Lists](https://github.com/topics/awesome)
   — génial !
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=6JUwmk1FFRE "Katia That’s all folks Marielle Labèque - Glass - Les Enfants Terribles"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[CJUE]: Cour de Justice de l’Union Européenne

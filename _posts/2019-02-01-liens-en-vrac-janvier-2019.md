@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Janvier 2019
 category: liens
-youtube_video_id: jKlP2rKtAGQ
-youtube_video_title: August Burns Red - The Frost
 ---
 
 ## News
@@ -35,7 +33,7 @@ youtube_video_title: August Burns Red - The Frost
 - [Rapidly Build & Test Ansible Roles with Molecule + Docker](https://www.toptechskills.com/ansible-tutorials-courses/rapidly-build-test-ansible-roles-molecule-docker/)
   — ça à l’air sympa Molecule.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=jKlP2rKtAGQ "August Burns Red - The Frost"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[bn]: billion

@@ -2,8 +2,6 @@
 layout: post
 title: Liens en vrac - Mai 2018
 category: liens
-youtube_video_id: I-7ijSkFa10
-youtube_video_title: Alela Diane - The Pirate's Gospel
 ---
 
 ## News
@@ -40,7 +38,7 @@ youtube_video_title: Alela Diane - The Pirate's Gospel
 - [How to Monitor User Activity with psacct or acct Tools](https://www.tecmint.com/how-to-monitor-user-activity-with-psacct-or-acct-tools/)
   — je ne les connaissais pas ceux-là.
 
-That’s all folks !
+[That’s all folks](https://www.youtube.com/watch?v=I-7ijSkFa10 "Alela Diane - The Pirate's Gospel"){:target="_blank"} !
 
 <!-- prettier-ignore-start -->
 *[CDK]: Component Dev Kit
