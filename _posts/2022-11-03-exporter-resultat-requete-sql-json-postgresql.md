@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Exporter le résultat d'une requête SQL en JSON avec PostgreSQL
+title: Exporter le résultat d’une requête SQL en JSON avec PostgreSQL
 category: notes
 ---
 
-Avant que j'oublie à nouveau, voici comment exporter le résultat d'une requête SQL en JSON avec PostgreSQL.
+Avant que je n’oublie à nouveau, voici comment exporter le résultat d’une requête SQL en JSON avec PostgreSQL.
 
-Supposons qu'on ait la table suivante :
+Supposons qu’on ait la table suivante :
 
 ```sql
 SELECT * FROM user;
@@ -19,7 +19,7 @@ SELECT * FROM user;
 
 ```
 
-Il suffit alors d'utiliser [les fonctions](https://www.postgresql.org/docs/current/functions-json.html) `row_to_json`
+Il suffit alors d’utiliser [les fonctions](https://www.postgresql.org/docs/current/functions-json.html) `row_to_json`
 pour convertir chaque ligne en un document JSON et `json_agg` pour convertir le tout en un tableau de documents JSON :
 
 ```sql
