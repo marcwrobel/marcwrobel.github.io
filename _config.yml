@@ -39,8 +39,8 @@ links:
     display: menu
     order: 0
     icon: home
-  - title: Recherche
-    url: /search.html
+  - title: Rechercher
+    url: /rechercher
     display: everywhere
     order: 5
     icon: search
