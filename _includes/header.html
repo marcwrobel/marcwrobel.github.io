@@ -1,7 +1,6 @@
 <header>
-  {%- assign menu = site.links | where: "display", "menu" -%}
-  {%- assign everywhere = site.links | where: "display", "everywhere" -%}
-  {%- assign links = menu | concat: everywhere | sort: "order" -%}
   {%- assign icon_size = "1" -%}
+  {%- assign show_text = false -%}
+  {%- assign links = site.links | where: "menu",true | sort: "order" -%}
   {% include navigation.html %}
 </header>

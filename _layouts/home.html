@@ -7,7 +7,7 @@ layout: default
     <div class="row">
       <div class="col-sm-6 py-3">
         <div class="d-flex justify-content-center">
-          <a class="py-3 w-100" href="{{ '/' | relative_url }}">
+          <a class="py-3 w-100" href="{% link a-propos.md %}">
             <img class="w-50 img-responsive center-block d-block mx-auto" src="{% link /assets/img/icon.svg %}" alt="Logo">
           </a>
         </div>
@@ -17,10 +17,9 @@ layout: default
           {{ content }}
         </div>
 
-        {%- assign home = site.links | where: "display", "home" -%}
-        {%- assign everywhere = site.links | where: "display", "everywhere" -%}
-        {%- assign links = home | concat: everywhere | sort: "order" -%}
         {%- assign icon_size = "2" -%}
+        {%- assign show_text = false -%}
+        {%- assign links = site.links | where: "home",true | sort: "order" -%}
         {% include navigation.html %}
         {%- endif %}
       </div>

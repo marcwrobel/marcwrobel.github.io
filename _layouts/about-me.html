@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{%- include header.html -%}
+<main role="main" class="container">
+  <div class="row">
+    <div class="col-sm-12 col-lg-10 py-3 mx-auto">
+      <article>
+        <header class="text-center">
+          <h1>Marc Wrobel</h1>
+
+          {%- assign icon_size = "1" -%}
+          {%- assign show_text = true -%}
+          {%- assign links = site.links | where: "about",true | sort: "order" -%}
+          {% include navigation.html %}
+        </header>
+
+        <div class="text-justify">
+          {{ content }}
+        </div>
+      </article>
+    </div>
+  </div>
+</main>

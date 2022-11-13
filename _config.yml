@@ -36,37 +36,58 @@ category_icons:
 links:
   - title: Accueil
     url: /
-    display: menu
+    home: false
+    about: false
+    menu: true
     order: 0
     icon: house-fill
   - title: Rechercher
     url: /rechercher
-    display: everywhere
+    home: false
+    about: false
+    menu: true
     order: 5
     icon: search
+  - title: À propos
+    url: /a-propos
+    home: true
+    about: false
+    menu: false
+    order: 7
+    icon: person-vcard-fill
   - title: Github
     url: https://github.com/marcwrobel
-    display: home
+    home: true
+    about: true
+    menu: false
     order: 10
     icon: github
   - title: LinkedIn
     url: https://www.linkedin.com/in/marcwrobelfr
-    display: home
+    home: true
+    about: true
+    menu: false
     order: 20
     icon: linkedin
   - title: Stack Overflow
-    url: https://stackoverflow.com/cv/marcwrobel
-    display: home
+    url: https://stackoverflow.com/users/374236/marc-wrobel
+    home: true
+    about: true
+    menu: false
     order: 30
     icon: stack-overflow
   - title: Email
     url: mailto:marc.wrobel@gmail.com
-    display: everywhere
+    home: true
+    about: true
+    menu: false
     order: 40
     icon: envelope-at-fill
   - title: RSS
     url: /feed.xml
-    display: everywhere
+    home: true
+    about: false
+    menu: true
     order: 50
     icon: rss-fill
 
