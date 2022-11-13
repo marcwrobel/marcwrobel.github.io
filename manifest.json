@@ -1,5 +1,5 @@
 ---
-# See https://developers.google.com/web/fundamentals/web-app-manifest/
+# See https://web.dev/add-manifest/
 ---
 
 {
@@ -10,11 +10,6 @@
       "src": "{{ '/assets/icon-192.png' | relative_url }}",
       "type": "image/png",
       "sizes": "192x192"
-    },
-    {
-      "src": "{{ '/assets/icon-512.png' | relative_url }}",
-      "type": "image/png",
-      "sizes": "512x512"
     }
   ],
   "start_url": "{{ '/' | relative_url }}?utm_source=homescreen",
