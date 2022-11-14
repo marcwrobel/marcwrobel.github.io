@@ -7,7 +7,7 @@
   "name": "{{ site.title }}",
   "icons": [
     {
-      "src": "{{ '/assets/icon-192.png' | relative_url }}",
+      "src": "{% link /assets/img/icon-192.png %}",
       "type": "image/png",
       "sizes": "192x192"
     }

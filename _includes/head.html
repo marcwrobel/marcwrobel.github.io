@@ -9,8 +9,8 @@
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
 
   <link rel="manifest" href="{{ '/manifest.json' | relative_url }}">
-  <link rel="shortcut icon" href="{{ '/assets/icon-192.png' | relative_url }}" type="image/png">
-  <link rel="apple-touch-icon" href="{{ '/assets/icon-192.png' | relative_url }}">
+  <link rel="shortcut icon" href="{% link /assets/img/icon-192.png %}" type="image/png">
+  <link rel="apple-touch-icon" href="{% link /assets/img/icon-192.png %}">
   {% feed_meta %}
 
   {% for script in site.dependencies.scripts %}
