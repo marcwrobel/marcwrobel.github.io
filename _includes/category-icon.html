@@ -1,2 +1,2 @@
 {% assign category_icon = site.category_icons | where: "title", category | first | map: "icon" | default: "question" %}
-<span class="fa fa-{{ category_icon }}" aria-hidden="true" title="{{ category }}"></span>
+<span class="bi bi-{{ category_icon }}" aria-hidden="true" title="{{ category }}"></span>

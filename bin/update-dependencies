@@ -19,15 +19,12 @@ bootstrapVersion=$(curl -s 'https://data.jsdelivr.com/v1/package/npm/bootstrap' 
 echo -e "Using bootstrap ${bootstrapVersion}\n"
 curl -so "$CSS_DIR/bootstrap.min.css" "https://cdn.jsdelivr.net/npm/bootstrap@${bootstrapVersion}/dist/css/bootstrap.min.css"
 
-echo "Mise à jour de Font Awesome..."
-faVersion=$(curl -s 'https://data.jsdelivr.com/v1/package/npm/font-awesome' | jq -r '.tags.latest')
-echo -e "Using font-awesome ${faVersion}\n"
-curl -so "$CSS_DIR/font-awesome.min.css" "https://cdn.jsdelivr.net/npm/font-awesome@${faVersion}/css/font-awesome.min.css"
-curl -so "$FONTS_DIR/fontawesome-webfont.eot" "https://cdn.jsdelivr.net/npm/font-awesome@${faVersion}/fonts/fontawesome-webfont.eot"
-curl -so  "$FONTS_DIR/fontawesome-webfont.svg" "https://cdn.jsdelivr.net/npm/font-awesome@${faVersion}/fonts/fontawesome-webfont.svg"
-curl -so "$FONTS_DIR/fontawesome-webfont.ttf" "https://cdn.jsdelivr.net/npm/font-awesome@${faVersion}/fonts/fontawesome-webfont.ttf"
-curl -so "$FONTS_DIR/fontawesome-webfont.woff" "https://cdn.jsdelivr.net/npm/font-awesome@${faVersion}/fonts/fontawesome-webfont.woff"
-curl -so "$FONTS_DIR/fontawesome-webfont.woff2" "https://cdn.jsdelivr.net/npm/font-awesome@${faVersion}/fonts/fontawesome-webfont.woff2"
+echo "Mise à jour de Bootstrap Icons..."
+bootstrapIconsVersion=$(curl -s 'https://data.jsdelivr.com/v1/package/npm/bootstrap-icons' | jq -r '.tags.latest')
+echo -e "Using bootstrap-icons ${bootstrapIconsVersion}\n"
+curl -so "$CSS_DIR/bootstrap-icons.css" "https://cdn.jsdelivr.net/npm/bootstrap-icons@${bootstrapIconsVersion}/font/bootstrap-icons.css"
+curl -so "$CSS_DIR/fonts/bootstrap-icons.woff" "https://cdn.jsdelivr.net/npm/bootstrap-icons@${bootstrapIconsVersion}/font/fonts/bootstrap-icons.woff"
+curl -so "$CSS_DIR/fonts/bootstrap-icons.woff2" "https://cdn.jsdelivr.net/npm/bootstrap-icons@${bootstrapIconsVersion}/font/fonts/bootstrap-icons.woff2"
 
 echo "Mise à jour de Simple-Jekyll-Search..."
 simpleJekyllSearchVersion=$(curl -s 'https://data.jsdelivr.com/v1/package/npm/simple-jekyll-search' | jq -r '.tags.latest')

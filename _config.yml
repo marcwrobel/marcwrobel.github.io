@@ -23,22 +23,22 @@ social:
 
 category_icons:
   - title: liens
-    icon: link
+    icon: link-45deg
   - title: notes
-    icon: pencil
+    icon: pencil-fill
   - title: développement
-    icon: code
+    icon: code-slash
   - title: administration
-    icon: server
+    icon: hdd-stack-fill
   - title: tools
-    icon: wrench
+    icon: wrench-adjustable
 
 links:
   - title: Accueil
     url: /
     display: menu
     order: 0
-    icon: home
+    icon: house-fill
   - title: Rechercher
     url: /rechercher
     display: everywhere
@@ -63,12 +63,12 @@ links:
     url: mailto:marc.wrobel@gmail.com
     display: everywhere
     order: 40
-    icon: at
+    icon: envelope-at-fill
   - title: RSS
     url: /feed.xml
     display: everywhere
     order: 50
-    icon: rss
+    icon: rss-fill
 
 # Build settings
 encoding: utf-8
