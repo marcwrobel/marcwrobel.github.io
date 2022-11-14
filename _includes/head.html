@@ -3,17 +3,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% seo %}
 
-  {% for css in site.dependencies.css %}
-  <link rel="stylesheet" href="{{ css.href }}" integrity="{{ css.integrity }}" crossorigin="anonymous">
-  {% endfor %}
-  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  <link rel="stylesheet" href="{% link /assets/css/bootstrap.min.css %}">
+  <link rel="stylesheet" href="{% link /assets/css/font-awesome.min.css %}">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
   <link rel="manifest" href="{{ '/manifest.json' | relative_url }}">
   <link rel="shortcut icon" href="{% link /assets/img/icon-192.png %}" type="image/png">
   <link rel="apple-touch-icon" href="{% link /assets/img/icon-192.png %}">
   {% feed_meta %}
 
-  {% for script in site.dependencies.scripts %}
-  <script src="{{ script.src }}" integrity="{{ script.integrity }}" crossorigin="anonymous"></script>
-  {% endfor %}
+  <script src="{% link /assets/js/simple-jekyll-search.min.js %}"></script>
 </head>

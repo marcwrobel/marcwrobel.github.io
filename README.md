@@ -37,31 +37,43 @@ navigateur](http://localhost:4000/).
 Commitez enfin vos modifications sur la branche `master`. Tout ce qui est commité sur cette branche
 est automatiquement publié sur [www.marcwrobel.fr](http://www.marcwrobel.fr/).
 
-## Mise à jour de Jekyll et de ses dépendances
+## Mise à jour des dépendances
 
-Pour mettre à jour Jekyll et ses dépendances sur [les même versions que celle utilisées sur GitHub
-Pages](https://pages.github.com/versions/), exécuter :
+La mise à jour de l'ensemble des dépendances du site passe par le script `update-dependencies`. Pour l'utiliser,
+exécuter :
 
 ```shell script
-bin/update-dependencies
+./bin/update-dependencies
 ```
 
-### Mise à jour de Bootstrap, Font Awesome et Simple-Jekyll-Search
+Une fois cela fait il ne reste plus qu’à tester que le site fonctionne bien puis commiter le tout, généralement en
+séparant le type de mise à jour (Jekyll, Bootstrap...).
 
-1. Allez sur [jsDelivr](https://www.jsdelivr.com/) à l’aide de l’un de ces liens :
+Quelques petites choses doivent de plus être connus en fonction du type de dépendances.
 
-- [bootstrap.min.css](https://www.jsdelivr.com/package/npm/bootstrap?path=dist%2Fcss),
-- [font-awesome.css](https://www.jsdelivr.com/package/npm/font-awesome?path=css),
-- [simple-jekyll-search.min.js](https://www.jsdelivr.com/package/npm/simple-jekyll-search))
+### Paquets Ruby
 
-2. Sélectionner la version souhaitée.
-3. Ajoutez le fichier à mettre à jour à votre collection.
-4. Cliquer sur le bouton _SHOW & CONFIGURE ALL LINKS_.
-5. Cliquer sur le bouton _SRI_ (_Enable Subresource Integrity check for increased security_).
-6. Reportez les liens (`href`) et les hash (`integrity`) indiqués sur jsDelivr dans le fichier [\_config.yml](/_config.yml) (propriété `dependencies`).
+Les dépendances Ruby sont décrites dans le fichier [Gemfile](/Gemfile). Le script `update-dependencies` met à jour les
+paquets en fonction de ce fichier.
 
-Contrairement à Jekyll il vous faudra malheureusement suivre les mises à jour vous-même (via par exemple le [blog de bootstrap](https://blog.getbootstrap.com/)
-ou [le dépôt du projet Simple-Jekyll-Search sur GitHub](https://github.com/christian-fei/Simple-Jekyll-Search)).
+La plupart des versions utilisées [dépendent de GitHub Pages](https://pages.github.com/versions/).
+
+### CSS et JS
+
+À cause de [problématiques liées à la
+RGPD](https://www.jsdelivr.com/blog/how-the-german-courts-ruling-on-google-fonts-affects-jsdelivr-and-why-it-is-safe-to-use/)
+les dépendances CSS et JS sont hébergées [dans le répertoire `assets`](/assets) et non sur un CDN. Le script
+`update-dependencies` met à jour ces dépendances en fonction [d'informations renseignées dans le script
+lui-même](/bin/update-dependencies).
+
+Généralement toutes les mises à jour se font automatiquement, à l'exception des mises à jour pouvant nuire au bon
+fonctionnement du site (Bootstrap). Ces mises à jour doivent être appliquées à la main en modifiant
+[le script `update-dependencies`](/bin/update-dependencies).
+
+### Ruby
+
+La version de Ruby utilisée en production est [celle de GitHub Pages](https://pages.github.com/versions/). En
+développement on utilisera la [version maintenue](https://www.ruby-lang.org/en/downloads/branches/) la plus proche.
 
 ### Suivi des mises à jour
 

@@ -80,19 +80,6 @@ paginate: 5
 paginate_path: ':num'
 future: true
 
-dependencies:
-  css:
-    - name: 'bootstrap.min.css'
-      href: 'https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css'
-      integrity: 'sha256-T/zFmO5s/0aSwc6ics2KLxlfbewyRz6UNw1s3Ppf5gE='
-    - name: 'font-awesome.min.css'
-      href: 'https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css'
-      integrity: 'sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0='
-  scripts:
-    - name: 'simple-jekyll-search.min.js'
-      src: 'https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.9.1/dest/simple-jekyll-search.min.js'
-      integrity: 'sha256-ieUctArvXa2Jaww7u+OyjqzBpOW04E9K17BzP8qrxVM='
-
 sass:
   style: compressed
 
