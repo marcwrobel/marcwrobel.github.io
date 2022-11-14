@@ -30,5 +30,8 @@ layout: default
     noResultsText: 'Aucun résultat',
     json: '/search.json'
   });
-  document.getElementById('search-input').focus();
+
+  document.body.onload = function () {
+    document.getElementById('search-input').focus();
+  };
 </script>
