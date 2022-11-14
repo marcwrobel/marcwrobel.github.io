@@ -13,7 +13,7 @@ layout: default
         </div>
 
         {% if paginator.page == 1 -%}
-        <div class="lead text-center py-3">
+        <div class="text-center">
           {{ content }}
         </div>
 
@@ -25,7 +25,7 @@ layout: default
         {%- endif %}
       </div>
 
-      <div class="col-sm-6 py-3 mx-auto">
+      <div class="col-sm-6 py-3">
         {% include posts-list.html %}
       </div>
     </div>

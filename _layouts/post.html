@@ -6,7 +6,7 @@ layout: default
 <main role="main" class="container {{ page.category }}-post">
   <div class="row">
     <div class="col-sm-12 col-lg-10 py-3 mx-auto">
-      <article itemscope itemtype="http://schema.org/BlogPosting">
+      <article itemscope itemtype="https://schema.org/BlogPosting">
         <header>
           <h1 itemprop="name headline">{{ page.title | escape }}</h1>
 
@@ -18,13 +18,13 @@ layout: default
               {{ page.date | date: site.date_format }}
             </time>
             •
-            <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span itemprop="author" itemscope itemtype="https://schema.org/Person">
               <span itemprop="name">{{ page.author | default: site.author.name | escape }}</span>
             </span>
           </p>
         </header>
 
-        <div class="text-justify pt-2" itemprop="articleBody">
+        <div class="pt-2" itemprop="articleBody">
           {{ content }}
         </div>
       </article>

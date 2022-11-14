@@ -3,10 +3,10 @@
 {%- assign prev_class = "disabled" -%}
 {%- if paginator.previous_page -%}{%- assign prev_class = "" -%}{% endif %}
 
-<ul class="nav flex-column">
-  <main class="all-posts">
+<main class="all-posts w-100">
+  <ul class="nav w-100">
     {% for post in paginator.posts %}
-    <li class="nav-item">
+    <li class="nav-item w-100">
       <a class="text-decoration-none" href="{{ post.url | relative_url }}">
         <div class="d-flex flex-row">
           <div class="post-icon">
@@ -26,8 +26,8 @@
       </a>
     </li>
     {% endfor %}
-  </main>
-</ul>
+  </ul>
+</main>
 
 <ul class="nav nav-pills">
   <li class="nav-item">

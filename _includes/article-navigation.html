@@ -1,10 +1,10 @@
-<ul class="nav">
-  <li class="nav-item mr-auto">
+<ul class="nav nav-fill nav-justified">
+  <li class="nav-item text-start">
     {% if page.previous.url %}
     <a href="{{ page.previous.url }}">&laquo;&nbsp;{{ page.previous.title }}</a>
     {% endif %}
   </li>
-  <li class="nav-item">
+  <li class="nav-item text-end">
     {% if page.next.url %}
     <a href="{{ page.next.url }}">{{ page.next.title }}&nbsp;&raquo;</a>
     {% endif %}
