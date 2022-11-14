@@ -23,7 +23,8 @@ permalink: /a-propos
 ## Éducation
 
 - Master Professionnel Ingénierie Logiciel pour l’Internet
-  ([ILI](https://www.cril.univ-artois.fr/master/ili/m2proili-home.html)), Université Jean Perrin, Lens (2007),
+  ([ILI](https://www.cril.univ-artois.fr/master/ili/m2proili-home.html)), Mention Bien, Université Jean Perrin, Lens
+  (2007),
 - Licence d’informatique, Mention Bien, Faculté Jean Perrin, Lens (2005).
 
 ## Projets
