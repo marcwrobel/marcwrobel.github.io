@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello, world!
-category: notes
+category: nouvelles
 seo:
   date_modified: 2007-09-01
 ---

@@ -26,6 +26,8 @@ social:
     - https://www.linkedin.com/in/marcwrobelfr
 
 category_icons:
+  - title: nouvelles
+    icon: newspaper
   - title: liens
     icon: link-45deg
   - title: notes
