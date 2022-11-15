@@ -4,6 +4,8 @@ title: Liens en vrac — Mai 2021
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de mai 2021.
+
 ## Nouvelles
 
 - [Announcing TypeScript 4.3](https://devblogs.microsoft.com/typescript/announcing-typescript-4-3/)

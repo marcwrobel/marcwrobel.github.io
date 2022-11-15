@@ -4,6 +4,8 @@ title: Liens en vrac - Décembre 2020
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de décembre 2020.
+
 ## Nouvelles
 
 - [GitLab 13.7 released with merge request reviewers and automatic rollback upon failure](https://about.gitlab.com/releases/2020/12/22/gitlab-13-7-released/)

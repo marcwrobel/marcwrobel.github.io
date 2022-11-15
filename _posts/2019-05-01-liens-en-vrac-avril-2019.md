@@ -4,6 +4,8 @@ title: Liens en vrac - Avril 2019
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois d’avril 2019.
+
 ## News
 
 - [RGPD : la CNIL prévient qu’elle sera désormais moins conciliante](https://www.numerama.com/politique/482019-rgpd-la-cnil-previent-quelle-sera-desormais-moins-conciliante-en-cas-decart.html)

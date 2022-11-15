@@ -4,6 +4,8 @@ title: Liens en vrac — Avril 2021
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de d’avril 2021.
+
 ## Nouvelles
 
 - [GitLab 13.11 released with Kubernetes Agent and Pipeline Compliance](https://about.gitlab.com/releases/2021/04/22/gitlab-13-11-released/)

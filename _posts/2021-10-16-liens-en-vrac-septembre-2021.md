@@ -4,6 +4,8 @@ title: Liens en vrac — Septembre 2021
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de septembre 2021.
+
 ## Nouvelles
 
 - [The Arrival of Java 17!](https://inside.java/2021/09/14/the-arrival-of-java17/)

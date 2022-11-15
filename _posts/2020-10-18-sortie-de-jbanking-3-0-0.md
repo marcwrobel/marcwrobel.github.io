@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sortie de jbanking 3.0.0
+description: La version 3.0.0 de jbanking est sortie avec de nombreuses améliorations liées à la documentation et l’intégration de la version 88 d'IBAN Registry.
 category: développement
 ---
 

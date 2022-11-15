@@ -4,6 +4,8 @@ title: Liens en vrac - Juin 2019
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de juin 2019.
+
 ## News
 
 - [Lancement de la Suite Elastic 7.2.0](https://www.elastic.co/fr/blog/elastic-stack-7-2-0-released)

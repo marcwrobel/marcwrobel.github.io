@@ -4,6 +4,8 @@ title: Liens en vrac — Juin 2022
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de juin 2022.
+
 ## Nouvelles
 
 - [New Hertzbleed Side Channel Attack Affects All Modern AMD and Intel CPUs](https://thehackernews.com/2022/06/new-hertzbleed-side-channel-attack.html)

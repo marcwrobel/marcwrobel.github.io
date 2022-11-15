@@ -4,6 +4,8 @@ title: Liens en vrac - Septembre 2019
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de septembre 2019.
+
 ## News
 
 - [Spring Framework 5.2 goes GA](https://spring.io/blog/2019/09/30/spring-framework-5-2-goes-ga)

@@ -4,6 +4,8 @@ title: Liens en vrac — Juin 2021
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de juin 2021.
+
 ## Nouvelles
 
 - [GitLab 14.0 released with a celebration of GitLab 14](https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/)

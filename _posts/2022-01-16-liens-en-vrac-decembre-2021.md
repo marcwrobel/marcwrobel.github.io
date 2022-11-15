@@ -4,6 +4,8 @@ title: Liens en vrac — Décembre 2021
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de décembre 2021.
+
 ## Nouvelles
 
 - [Log4Shell](https://github.com/snyk-labs/awesome-log4shell)

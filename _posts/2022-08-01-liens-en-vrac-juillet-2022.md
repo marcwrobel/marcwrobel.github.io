@@ -4,6 +4,8 @@ title: Liens en vrac — Juillet 2022
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de juillet 2022.
+
 ## Nouvelles
 
 - [A synchronized criminal attack from abroad hit Albania over the weekend](https://securityaffairs.co/wordpress/133363/cyber-warfare-2/albania-cyber-attack.html)

@@ -4,6 +4,8 @@ title: Liens en vrac — Décembre 2018
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de décembre 2018.
+
 ## News
 
 - [Oracle's Plan for Distrusting Symantec TLS Certificates in the JDK](https://blogs.oracle.com/java-platform-group/jdk-distrusting-symantec-tls-certificates)

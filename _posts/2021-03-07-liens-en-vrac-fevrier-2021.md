@@ -4,6 +4,8 @@ title: Liens en vrac - Février 2021
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de février 2021.
+
 ## Nouvelles
 
 - [Announcing TypeScript 4.2](https://devblogs.microsoft.com/typescript/announcing-typescript-4-2/)

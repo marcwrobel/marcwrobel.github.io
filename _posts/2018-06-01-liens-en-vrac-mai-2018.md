@@ -4,6 +4,8 @@ title: Liens en vrac - Mai 2018
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de mai 2018.
+
 ## News
 
 - [Version 6 of Angular Now Available](https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4)

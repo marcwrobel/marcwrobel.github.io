@@ -4,6 +4,8 @@ title: Liens en vrac - Novembre 2020
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de novembre 2020.
+
 ## Nouvelles
 
 - [Spring Boot 2.4.0 available now](https://spring.io/blog/2020/11/12/spring-boot-2-4-0-available-now)

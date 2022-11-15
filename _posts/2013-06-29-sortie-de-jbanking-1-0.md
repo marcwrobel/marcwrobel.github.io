@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sortie de jbanking 1.0
+description: La version 1.0 de jbanking est sortie avec le support des codes BIC (ISO 9362), IBAN (ISO 13616), pays (ISO 3166-1) et devises (ISO 4217).
 category: développement
 ---
 

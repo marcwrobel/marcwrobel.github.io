@@ -4,6 +4,8 @@ title: Liens en vrac - Avril 2018
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois d’avril 2018.
+
 ## News
 
 - [Oracle sets date for end of Java 8 updates](https://www.javaworld.com/article/3269446/oracle-sets-date-for-end-of-java-8-updates.html)

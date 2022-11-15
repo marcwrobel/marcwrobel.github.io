@@ -4,6 +4,8 @@ title: Liens en vrac — Février 2022
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de février 2022.
+
 ## Nouvelles
 
 - [GitLab 14.8 released with new SSH key types and security approval policies](https://about.gitlab.com/releases/2022/02/22/gitlab-14-8-released/)

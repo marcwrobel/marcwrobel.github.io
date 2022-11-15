@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sortie de jbanking 3.1.1
+description: La version 3.1.1 de jbanking est sortie avec un correctif lié à la validation du check digit pour les IBAN et les identifiants créanciers (CI).
 category: développement
 ---
 

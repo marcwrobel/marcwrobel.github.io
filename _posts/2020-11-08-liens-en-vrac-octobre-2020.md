@@ -4,6 +4,8 @@ title: Liens en vrac - Octobre 2020
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois d’octobre 2020.
+
 ## Nouvelles
 
 - [Spring Framework 5.3 goes GA](https://spring.io/blog/2020/10/27/spring-framework-5-3-goes-ga)

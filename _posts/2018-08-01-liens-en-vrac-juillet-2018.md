@@ -4,6 +4,8 @@ title: Liens en vrac - Juillet 2018
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de juillet 2018.
+
 ## News
 
 - [Spring Boot 1.x EOL Aug 1st 2019](https://spring.io/blog/2018/07/30/spring-boot-1-x-eol-aug-1st-2019)

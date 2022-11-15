@@ -4,6 +4,8 @@ title: Liens en vrac - Février 2020
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de février 2020.
+
 ## News
 
 - [Ghostcat breach affects all Tomcat versions](https://snyk.io/blog/ghostcat-breach-affects-all-tomcat-versions/)

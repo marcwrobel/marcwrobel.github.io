@@ -4,6 +4,8 @@ title: Liens en vrac - Août 2018
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois d’août 2018.
+
 ## News
 
 - [Announcing TypeScript 3.0](https://devblogs.microsoft.com/typescript/announcing-typescript-3-0/)

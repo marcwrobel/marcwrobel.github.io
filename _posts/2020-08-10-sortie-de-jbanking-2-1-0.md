@@ -1,20 +1,20 @@
 ---
 layout: post
 title: Sortie de jbanking 2.1.0
+description: La version 2.1.0 de jbanking est sortie avec l’enrichissement des informations sur les pays (ISO 3166-1) et le support du calcul des jours fériés / ouvrés.
 category: développement
 ---
 
 La version 2.1.0 de [jbanking](https://github.com/marcwrobel/jbanking) est sortie. Cette nouvelle version inclue :
 
-- un alignement des définitions d’IBAN (ISO 13616) avec [IBAN Registry Release 87](https://www.iso13616.org/) (mai 2020)
-  ,
+- un alignement des définitions d’IBAN (ISO 13616) avec [IBAN Registry Release 87](https://www.iso13616.org/) (mai 2020),
 - des améliorations autour de l’enum IsoCountry :
   - ajout des codes ISO 3166-1 alpha-3,
   - ajout des codes numériques ISO 3166-1,
   - ajout du statut des pays (independent ou dépendent),
   - ajout de la participation des pays à certains accords : Single Euro Payments Area (SEPA), Union Européenne (UE),
     European Economic Area (EEA), SEPA COM Pacifique et European Free Trade Association (EFTA).
-- le support configurable de calcul des jours ouvré avec quelques calendriers prédéfinis :
+- le support, configurable, du calcul des jours fériés / ouvrés avec quelques calendriers prédéfinis :
   - Quartiers d’affaires de Francfort, Londres, Paris et Sydney,
   - Federal Reserve Bank of New York (FED),
   - New York Stock Exchange (NYSE),

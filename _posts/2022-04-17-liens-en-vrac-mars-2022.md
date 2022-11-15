@@ -4,6 +4,8 @@ title: Liens en vrac — Mars 2022
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de mars 2022.
+
 ## Nouvelles
 
 - [The Arrival of Java 18!](https://inside.java/2022/03/22/the-arrival-of-java18/)

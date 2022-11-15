@@ -4,6 +4,8 @@ title: Liens en vrac - Juillet 2020
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de juillet 2020.
+
 ## Nouvelles
 
 - [Debian 8 Long Term Support reaching end-of-life](https://www.debian.org/News/2020/20200709)

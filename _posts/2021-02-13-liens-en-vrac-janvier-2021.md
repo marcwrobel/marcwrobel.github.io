@@ -4,6 +4,8 @@ title: Liens en vrac - Janvier 2021
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de janvier 2021.
+
 ## Nouvelles
 
 - [Keycloak 12.0.0 released](https://www.keycloak.org//2020/12/keycloak-1200-released.html)

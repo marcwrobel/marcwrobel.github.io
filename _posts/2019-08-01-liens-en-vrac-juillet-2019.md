@@ -4,6 +4,8 @@ title: Liens en vrac - Juillet 2019
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de juillet 2019.
+
 ## News
 
 - [Debian 10 "buster" released](https://www.debian.org/News/2019/20190706)

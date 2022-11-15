@@ -4,7 +4,7 @@ title: Configuration d’IntelliJ IDEA
 category: développement
 ---
 
-Quelques notes sur la configuration d’[IntelliJ IDEA](https://www.jetbrains.com/idea/).
+Quelques notes sur ma configuration d’[IntelliJ IDEA](https://www.jetbrains.com/idea/).
 
 Avant d’ouvrir le moindre projet, installer les plugins suivants depuis l'onglet _Plugins_ de l'écran de démarrage :
 

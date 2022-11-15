@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Sortie de jbanking 3.1.0
+description: La version 3.1.0 de jbanking est sortie avec l’enrichissement des informations sur les devises (ISO 4217) et de nombres améliorations liées au support des calendriers.
 category: développement
 ---
 
 La version 3.1.0 de [jbanking](https://github.com/marcwrobel/jbanking) est sortie. Cette nouvelle version inclue :
 
-- une catégorisation des devises ISO pour permettre un filtrage des devises en fonction du domaine d’utilisation :
+- une catégorisation des devises ISO 4217 pour permettre un filtrage des devises en fonction du domaine d’utilisation :
   - `NATIONAL` : devises nationales ou supranationales, telles que _EUR_ ou _USD_,
   - `BOND` : unités de marché obligataire, telles que [XBB](https://wikipedia.org/wiki/European_Unit_of_Account),
   - `FUND` : fonds, tels

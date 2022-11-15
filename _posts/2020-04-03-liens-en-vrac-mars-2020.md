@@ -4,6 +4,8 @@ title: Liens en vrac — Mars 2020
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de mars 2020.
+
 ## Nouvelles
 
 - [JDK 14 Has Been Released](https://blogs.oracle.com/thejavatutorials/jdk-14-has-been-released)

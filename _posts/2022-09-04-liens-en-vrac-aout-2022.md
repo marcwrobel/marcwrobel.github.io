@@ -4,6 +4,8 @@ title: Liens en vrac — Août 2022
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois d’août 2021.
+
 ## Nouvelles
 
 - [FBI’s team to investigate massive cyberattack in Montenegro](https://apnews.com/article/russia-ukraine-technology-hacking-montenegro-2a8eb2df87f657b6d7b9971b7419bff9),

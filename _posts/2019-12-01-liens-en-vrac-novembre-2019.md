@@ -4,6 +4,8 @@ title: Liens en vrac — Novembre 2019
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de novembre 2019.
+
 ## News
 
 - [Bootstrap 4.4.0](https://blog.getbootstrap.com/2019/11/26/bootstrap-4-4-0/)

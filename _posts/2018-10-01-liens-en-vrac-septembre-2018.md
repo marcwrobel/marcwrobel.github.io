@@ -4,6 +4,8 @@ title: Liens en vrac - Septembre 2018
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de septembre 2018.
+
 ## News
 
 - [JDK 11 Is Released!](https://blogs.oracle.com/thejavatutorials/jdk-11-is-released)

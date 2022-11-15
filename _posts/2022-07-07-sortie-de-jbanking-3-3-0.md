@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sortie de jbanking 3.3.0
+description: La version 3.3.0 de jbanking est sortie avec le support officiel de Java 17 et 18 et de nombreuses améliorations de la javadoc.
 category: développement
 ---
 

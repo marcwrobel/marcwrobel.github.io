@@ -4,6 +4,8 @@ title: Liens en vrac - Mai 2019
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de mai 2019.
+
 ## News
 
 - [What’s New in Red Hat Ansible Engine 2.8](https://www.ansible.com/blog/whats-new-in-red-hat-ansible-engine-2.8)

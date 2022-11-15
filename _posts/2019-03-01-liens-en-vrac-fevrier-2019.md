@@ -4,6 +4,8 @@ title: Liens en vrac - Février 2019
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de février 2019.
+
 ## News
 
 - [La stupéfiante arnaque d’un escroc qui utilise un masque de Jean-Yves Le Drian pour extorquer 80 millions d’euros](https://www.ladepeche.fr/2019/02/14/la-stupefiante-arnaque-dun-escroc-qui-utilise-un-masque-de-jean-yves-le-drian-pour-extorquer-80-millions-deuros,8014877.php)

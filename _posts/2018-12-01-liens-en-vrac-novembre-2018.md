@@ -4,6 +4,8 @@ title: Liens en vrac - Novembre 2018
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de novembre 2018.
+
 ## News
 
 - [Amazon now has its own version of Java: Corretto](https://www.infoworld.com/article/3324492/amazon-now-has-its-own-version-of-java-corretto.html)

@@ -4,6 +4,8 @@ title: Liens en vrac - Août 2019
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois d’août 2019.
+
 ## News
 
 - [Ubuntu & Debian Moving Along With Plans For Removing Python 2 Packages](https://www.phoronix.com/scan.php?page=news_item&px=Ubuntu-Debian-Python-2-Process)

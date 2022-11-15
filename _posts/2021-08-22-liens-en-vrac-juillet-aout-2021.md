@@ -4,6 +4,8 @@ title: Liens en vrac — Juillet / Août 2021
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes des mois de juillet / août 2021.
+
 ## Nouvelles
 
 - [Debian 11 "bullseye" has been released!](https://bits.debian.org/2021/08/bullseye-released.html)

@@ -4,6 +4,8 @@ title: Liens en vrac — Octobre 2022
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois d’octobre 2022.
+
 ## Nouvelles
 
 - [Text4Shell: A Vulnerability in Java library Apache Commons Text (CVE-2022-42889)](https://www.lunasec.io/docs/blog/text4shell-java-rce-cve-2022-42889/),

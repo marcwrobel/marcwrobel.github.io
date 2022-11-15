@@ -4,6 +4,8 @@ title: Liens en vrac — Septembre 2022
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de septembre 2022.
+
 ## Nouvelles
 
 - [Java 19 Delivers Features for Projects Loom, Panama and Amber](https://www.infoq.com/news/2022/09/java19-released/)

@@ -4,6 +4,8 @@ title: Liens en vrac — Mai 2022
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de mai 2022.
+
 ## Nouvelles
 
 - [Confluence Server and Data Center - CVE-2022-26134 - Critical severity unauthenticated remote code execution vulnerability](https://confluence.atlassian.com/doc/confluence-security-advisory-2022-06-02-1130377146.html),

@@ -4,6 +4,8 @@ title: Liens en vrac — Octobre 2021
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois d’octobre 2021.
+
 ## Nouvelles
 
 - [Node v17.0.0 released](https://nodejs.org/en/blog/release/v17.0.0/)

@@ -4,6 +4,8 @@ title: Liens en vrac - Janvier 2019
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de janvier 2019.
+
 ## News
 
 - [DNS Flag Day, quels impacts ?](https://www.ovh.com/fr/blog/dns-flag-day-quels-impacts/)

@@ -4,6 +4,8 @@ title: Liens en vrac — Novembre 2021
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de novembre 2021.
+
 ## Nouvelles
 
 - [Spring Boot 2.6 is now available](https://spring.io/blog/2021/11/19/spring-boot-2-6-is-now-available)

@@ -4,6 +4,8 @@ title: Liens en vrac - Octobre 2019
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois d’octobre 2019.
+
 ## News
 
 - [Node.js 12 to LTS and Node.js 13 is here!](https://medium.com/@nodejs/node-js-12-to-lts-and-node-js-13-is-here-e28d6a4a2bd)

@@ -4,6 +4,8 @@ title: Liens en vrac — Mai 2020
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de mai 2020.
+
 ## Nouvelles
 
 - [Java programming language celebrates 25 years](https://www.infoworld.com/article/3544229/java-programming-language-celebrates-25-years.html)

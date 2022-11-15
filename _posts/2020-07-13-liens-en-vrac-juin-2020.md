@@ -4,6 +4,8 @@ title: Liens en vrac - Juin 2020
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de juin 2020.
+
 ## Nouvelles
 
 - [Face à Amazon ou à Google, les premiers pas timides du « cloud européen »](https://www.lemonde.fr/economie/article/2020/06/04/face-a-amazon-ou-a-google-les-premiers-pas-timides-du-cloud-europeen_6041797_3234.html)

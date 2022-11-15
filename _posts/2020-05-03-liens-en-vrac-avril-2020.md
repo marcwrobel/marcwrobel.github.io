@@ -4,6 +4,8 @@ title: Liens en vrac — Avril 2020
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois d’avril 2020.
+
 ## Nouvelles
 
 - [GitLab 12.10 released with Requirements Management and Autoscaling CI on AWS Fargate](https://about.gitlab.com/releases/2020/04/22/gitlab-12-10-released/)

@@ -4,6 +4,8 @@ title: Liens en vrac — Avril 2022
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de d’avril 2022.
+
 ## Nouvelles
 
 - [Java Cryptography Implementation Mistake Allows Digital-Signature Forgeries](https://www.schneier.com/blog/archives/2022/04/java-cryptography-implementation-mistake-allows-digital-signature-forgeries.html)

@@ -4,6 +4,8 @@ title: Liens en vrac - Décembre 2019
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de décembre 2019.
+
 ## News
 
 - [VMware Completes Acquisition of Pivotal](https://www.vmware.com/company/news/releases/vmw-newsfeed.VMware-Completes-Acquisition-of-Pivotal.1964966.html)

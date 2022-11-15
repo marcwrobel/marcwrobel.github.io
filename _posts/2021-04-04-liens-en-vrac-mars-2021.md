@@ -4,6 +4,8 @@ title: Liens en vrac — Mars 2021
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de mars 2021.
+
 ## Nouvelles
 
 - [Debian 11.0 Is Now Under A Hard Freeze](https://www.phoronix.com/scan.php?page=news_item&px=Debian-11.0-Hard-Freeze)

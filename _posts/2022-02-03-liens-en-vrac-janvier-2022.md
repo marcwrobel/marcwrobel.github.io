@@ -4,6 +4,8 @@ title: Liens en vrac — Janvier 2022
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de janvier 2022.
+
 ## Nouvelles
 
 - [Bootstrap Icons v1.8.0](https://blog.getbootstrap.com/2022/01/31/bootstrap-icons-1-8-0/)

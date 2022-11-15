@@ -4,7 +4,7 @@ title: Java et le JDK
 category: développement
 ---
 
-Le [Java Development Kit (JDK)](https://wikipedia.org/wiki/Java_Development_Kit) désigne le kit utilisé pour développer, déboguer, et monitorer des applications
+Le [Java Development Kit (JDK)](https://wikipedia.org/wiki/Java_Development_Kit) désigne le kit utilisé pour développer, déboguer et monitorer des applications
 Java SE (Standard Edition). Il a été initialement développé par [Sun Microsystems](https://wikipedia.org/wiki/Sun_Microsystems).
 
 Quelques dates clés concernant le JDK :

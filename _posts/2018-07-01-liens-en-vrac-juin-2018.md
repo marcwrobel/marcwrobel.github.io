@@ -4,6 +4,8 @@ title: Liens en vrac - Juin 2018
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de juin 2018.
+
 ## News
 
 - [Oracle now requires a subscription to use Java SE](https://www.javaworld.com/article/3284081/oracle-now-requires-a-subscription-to-use-java-se.html)

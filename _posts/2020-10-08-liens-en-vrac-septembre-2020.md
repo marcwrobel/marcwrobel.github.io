@@ -4,6 +4,8 @@ title: Liens en vrac - Septembre 2020
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de septembre 2020.
+
 ## Nouvelles
 
 - [Maximum Lifespan of SSL/TLS Certificates is 398 Days Starting Today](https://thehackernews.com/2020/09/ssl-tls-certificate-validity-398.html)

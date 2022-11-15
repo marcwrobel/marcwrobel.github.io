@@ -4,6 +4,8 @@ title: Liens en vrac - Octobre 2018
 category: liens
 ---
 
+Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois d’octobre 2018.
+
 ## News
 
 - [Angular 7 Released with Virtual Scroll, Drag and Drop, CLI Prompts and More](https://www.infoq.com/news/2018/11/angular-7/)
