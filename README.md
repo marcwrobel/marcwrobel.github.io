@@ -8,12 +8,9 @@ Le site Web [www.marcwrobel.fr](http://www.marcwrobel.fr/) utilise le générate
 [www.marcwrobel.fr](http://www.marcwrobel.fr/) utilise aussi :
 
 - [Bootstrap](https://getbootstrap.com/) pour la mise en forme,
-- [Font Awesome 4](https://fontawesome.com/v4.7.0/icons/) pour les icônes (la version 5 étant
-  beaucoup moins pratique à utiliser dans le cadre de ce site web, on reste sur la 4),
-- [Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search) pour la
-  fonctionnalité de recherche,
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) pour le développement du site et la rédaction du
-  contenu,
+- [Bootstrap Icons](https://icons.getbootstrap.com/) pour les icônes,
+- [Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search) pour la fonctionnalité de recherche,
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) pour le développement du site et la rédaction du contenu,
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.marcwrobel.fr),
   [GiftOfSpeed](https://www.giftofspeed.com/) et
   [Accessibility Checker](https://www.accessibilitychecker.org/audit/?website=https%3A%2F%2Fwww.marcwrobel.fr%2F&flag=eu)
@@ -21,8 +18,8 @@ Le site Web [www.marcwrobel.fr](http://www.marcwrobel.fr/) utilise le générate
 
 ## Prérequis
 
-Ce site utilise le générateur de site statique [Jekyll](https://jekyllrb.com). Pour l’installer vous
-pouvez vous référer à [la documentation officielle](https://jekyllrb.com/docs/installation/).
+Ce site utilise le générateur de site statique [Jekyll](https://jekyllrb.com). Pour l’installer, consultez
+[la documentation officielle](https://jekyllrb.com/docs/installation/).
 
 ## Mise à jour du site
 
@@ -32,11 +29,11 @@ Lancez tout d’abord le serveur local :
 bin/serve
 ```
 
-Apportez ensuite vos modifications et pré-visualisez les au fur et à mesure [dans votre
+Apportez ensuite vos modifications et prévisualisez-les au fur et à mesure [dans votre
 navigateur](http://localhost:4000/).
 
-Commitez enfin vos modifications sur la branche `master`. Tout ce qui est commité sur cette branche
-est automatiquement publié sur [www.marcwrobel.fr](http://www.marcwrobel.fr/).
+Commitez enfin vos modifications sur la branche `main`. Tout ce qui est commité sur cette branche est automatiquement
+publié sur [www.marcwrobel.fr](http://www.marcwrobel.fr/).
 
 ## Mise à jour des dépendances
 
@@ -78,21 +75,26 @@ développement on utilisera la [version maintenue](https://www.ruby-lang.org/en/
 
 ### Suivi des mises à jour
 
-Que ce soit en grande partie automatique (pour Jekyll, avec [Bundler](https://bundler.io/)) ou manuel (pour Bootstrap ou simple-jekyll-search) pour mettre à
-jour les dépendances utilisées par ce site il faut déjà que vous soyez au courant que ces mises à jour existent. Pour cela plusieurs moyens :
+Que ce soit en grande partie automatique (pour Jekyll, avec [Bundler](https://bundler.io/)) ou manuel (pour Bootstrap ou
+Simple-Jekyll-Search) pour mettre à jour les dépendances utilisées par ce site il faut déjà que vous soyez au courant
+que ces mises à jour existent. Pour cela plusieurs moyens :
 
-- suivre les blogs des projets ([Jekyll](https://jekyllrb.com/news/), [Bootstrap](https://blog.getbootstrap.com/), [Font Awesome](https://fontawesome.com/)),
-- suivre les pages [GitHub](https://github.com) des projets ([Jekyll](https://github.com/jekyll/jekyll), [Bootstrap](https://github.com/twbs/bootstrap),
-  [Font Awesome](https://github.com/FortAwesome/Font-Awesome), [simple-jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search)),
-- ou, plus simplement, utiliser [librairies.io](https://libraries.io/) ([Jekyll](https://libraries.io/rubygems/jekyll), [Bootstrap](https://libraries.io/npm/bootstrap),
-  [Font Awesome](https://libraries.io/npm/font-awesome), [simple-jekyll-search](https://libraries.io/npm/simple-jekyll-search)).
+- suivre les blogs des projets ([Jekyll](https://jekyllrb.com/news/),
+  [Bootstrap et Boostrap Icons](https://blog.getbootstrap.com/)),
+- suivre les pages [GitHub](https://github.com) des projets ([Jekyll](https://github.com/jekyll/jekyll),
+  [Bootstrap](https://github.com/twbs/bootstrap), [Bootstrap](https://github.com/twbs/icons) et
+  [Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search)),
+- ou, plus simplement, utiliser [newreleases.io](https://newreleases.io)
+  ([Jekyll](https://newreleases.io/gems/jekyll),
+  [Bootstrap](https://newreleases.io/npm/bootstrap), [Bootstrap Icons](https://newreleases.io/npm/bootstrap-icons)
+  et [Simple-Jekyll-Search](https://newreleases.io/npm/simple-jekyll-search)).
 
 ## Documentation utile
 
-- https://jekyllrb.com/docs/
-- https://getbootstrap.com/docs/
-- https://fontawesome.com/v4.7.0/icons/
-- https://fontawesome.com/v4.7.0/accessibility/
+- [Jekyll](https://jekyllrb.com/docs/)
+- [Bootstrap](https://getbootstrap.com/docs/)
+- [Bootstrap Icons](https://icons.getbootstrap.com/)
+- [Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search)
 
 ## License
 
