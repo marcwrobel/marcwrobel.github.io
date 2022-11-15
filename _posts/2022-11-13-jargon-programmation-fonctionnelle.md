@@ -2,6 +2,8 @@
 layout: post
 title: Le jargon de la programmation fonctionnelle
 category: développement
+seo:
+  date_modified: 2022-11-15
 ---
 
 L’excellent dépôt [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) a
