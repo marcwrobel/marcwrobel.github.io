@@ -14,9 +14,10 @@ Le site Web [www.marcwrobel.fr](http://www.marcwrobel.fr/) utilise le générate
   fonctionnalité de recherche,
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) pour le développement du site et la rédaction du
   contenu,
-- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.marcwrobel.fr) et
-  [GiftOfSpeed](https://www.giftofspeed.com/) pour l’analyse du site et la recommandation de bonnes
-  pratiques.
+- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.marcwrobel.fr),
+  [GiftOfSpeed](https://www.giftofspeed.com/) et
+  [Accessibility Checker](https://www.accessibilitychecker.org/audit/?website=https%3A%2F%2Fwww.marcwrobel.fr%2F&flag=eu)
+  pour l’analyse du site et la recommandation de bonnes pratiques.
 
 ## Prérequis
 
