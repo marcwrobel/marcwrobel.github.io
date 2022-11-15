@@ -3,6 +3,8 @@ layout: post
 title: Sortie de jbanking 4.0.0
 description: La version 4.0.0 de jbanking est sortie avec le support la génération aléatoire d'IBAN (ISO 13616) et de grosses améliorations de performances.
 category: développement
+seo:
+  date_modified: 2022-11-15
 ---
 
 La version 4.0.0 de [jbanking](https://github.com/marcwrobel/jbanking) est sortie. Cette nouvelle version apporte de

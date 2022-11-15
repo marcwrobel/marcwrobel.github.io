@@ -2,6 +2,8 @@
 layout: post
 title: Sortie de la collection de rôles Ansible marcwrobel.assertions 2.0.0
 category: développement
+seo:
+  date_modified: 2022-11-15
 ---
 
 La version 2.0.0 de la collection de rôles

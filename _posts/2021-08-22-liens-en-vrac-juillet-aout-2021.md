@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac — Juillet / Août 2021
 category: liens
+seo:
+  date_modified: 2022-11-15
 ---
 
 Nouvelles, articles, podcasts, vidéos et découvertes intéressantes des mois de juillet / août 2021.

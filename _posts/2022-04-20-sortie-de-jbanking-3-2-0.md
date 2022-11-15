@@ -3,6 +3,8 @@ layout: post
 title: Sortie de jbanking 3.2.0
 description: La version 3.2.0 de jbanking est sortie avec l’intégration des amendements ISO 4217 n°170 et n°171 et diverses corrections dans la documentation. 
 category: développement
+seo:
+  date_modified: 2022-11-15
 ---
 
 La version 3.2.0 de [jbanking](https://github.com/marcwrobel/jbanking) est sortie. Cette nouvelle version inclue :

@@ -2,6 +2,8 @@
 layout: post
 title: Installation de Debian 11
 category: administration
+seo:
+  date_modified: 2021-09-24
 ---
 
 Quelques notes sur la manière dont j’installe généralement

@@ -3,6 +3,8 @@ layout: post
 title: Sortie de jbanking 3.1.0
 description: La version 3.1.0 de jbanking est sortie avec l’enrichissement des informations sur les devises (ISO 4217) et de nombres améliorations liées au support des calendriers.
 category: développement
+seo:
+  date_modified: 2022-11-15
 ---
 
 La version 3.1.0 de [jbanking](https://github.com/marcwrobel/jbanking) est sortie. Cette nouvelle version inclue :

@@ -2,6 +2,8 @@
 layout: post
 title: Configuration d’IntelliJ IDEA
 category: développement
+seo:
+  date_modified: 2022-11-15
 ---
 
 Quelques notes sur ma configuration d’[IntelliJ IDEA](https://www.jetbrains.com/idea/).

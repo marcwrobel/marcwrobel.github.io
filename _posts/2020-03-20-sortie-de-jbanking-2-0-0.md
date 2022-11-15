@@ -3,6 +3,8 @@ layout: post
 title: Sortie de jbanking 2.0.0
 description: La version 2.0.0 de jbanking est (enfin !) sortie avec le support des Creditor Identifiers (CI) et l’intégration de la version 86 d'IBAN Registry.
 category: développement
+seo:
+  date_modified: 2022-11-15
 ---
 
 La version 2.0.0 de [jbanking](https://github.com/marcwrobel/jbanking) est (enfin !) sortie. Cette nouvelle version

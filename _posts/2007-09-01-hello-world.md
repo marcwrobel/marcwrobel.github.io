@@ -2,6 +2,8 @@
 layout: post
 title: Hello, world!
 category: notes
+seo:
+  date_modified: 2007-09-01
 ---
 
 Bienvenu sur le premier article de [www.marcwrobel.fr](http://www.marcwrobel.fr/) !

@@ -2,6 +2,8 @@
 layout: post
 title: Installation de Debian 10
 category: administration
+seo:
+  date_modified: 2022-11-15
 ---
 
 Quelques notes sur la manière dont j’installe généralement

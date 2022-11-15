@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac — Octobre 2022
 category: liens
+seo:
+  date_modified: 2022-11-15
 ---
 
 Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois d’octobre 2022.

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Renrot et le renommage de photos en masse
-category: tools
+category: outils
+seo:
+  date_modified: 2022-11-15
 ---
 
 [`renrot`](https://puszcza.gnu.org.ua/projects/renrot/) est un utilitaire en ligne de commande très pratique qui permet

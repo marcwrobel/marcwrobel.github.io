@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac - Juin 2018
 category: liens
+seo:
+  date_modified: 2022-11-15
 ---
 
 Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de juin 2018.

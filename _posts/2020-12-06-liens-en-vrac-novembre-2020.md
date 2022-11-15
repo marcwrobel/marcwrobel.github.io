@@ -2,6 +2,8 @@
 layout: post
 title: Liens en vrac - Novembre 2020
 category: liens
+seo:
+  date_modified: 2022-11-15
 ---
 
 Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de novembre 2020.
