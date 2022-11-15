@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Java et le JDK
+description: Quelques informations et dates clés sur Java
 category: développement
+seo:
+  date_modified: 2022-11-15
 ---
 
 Le [Java Development Kit (JDK)](https://wikipedia.org/wiki/Java_Development_Kit) désigne le kit utilisé pour développer, déboguer et monitorer des applications
@@ -27,7 +30,7 @@ Quelques dates clés concernant le JDK :
   Le cycle de publication du JDK passe à six mois, avec une version LTS (long terme support)
   tous les trois ans. Pour plus d’informations : [Update and FAQ on the Java SE Release Cadence](https://blogs.oracle.com/java-platform-group/update-and-faq-on-the-java-se-release-cadence).
 - Septembre 2017 : [Sortie de Java SE 9](https://openjdk.java.net/projects/jdk9/).
-- Janvier 2018 : [Oracle annonce la fin du support gratuit de Oracle Java SE 8 pour les utilisations
+- Janvier 2018 : [Oracle annonce la fin du support gratuit d’Oracle Java SE 8 pour les utilisations
   commerciales](https://blogs.oracle.com/java-platform-group/extension-of-oracle-java-se-8-public-updates-and-java-web-start-support).
 - Mars 2018 - [Sortie de Java SE 10](https://openjdk.java.net/projects/jdk/10/).
 - Septembre 2018 : [Sortie de Java SE 11 LTS](https://openjdk.java.net/projects/jdk/11/).
@@ -36,13 +39,17 @@ Quelques dates clés concernant le JDK :
 - Mars 2019 : [Alibaba publie en open source sa distribution OpenJDK Dragonwell](https://www.alibabacloud.com/blog/alibaba-makes-dragonwell-openjdk-open-source_594624).
 - Septembre 2019 : [Sortie de Java SE 13](https://openjdk.java.net/projects/jdk/13/).
 - Mars 2020 : [Sortie de Java SE 14](https://openjdk.java.net/projects/jdk/14/).
+- Septembre 2020 : [Sortie de Java SE 15](https://openjdk.java.net/projects/jdk/15/).
+- Mars 2021 : [Sortie de Java SE 16](https://openjdk.java.net/projects/jdk/16/).
+- Mars 2021 : [AdoptOpenJDK devient Eclipse Adoptium](https://blog.adoptium.net/2021/03/eclipse-adoptium-announcement/).
+- Mai 2021 : [Microsoft annonce la sortie de sa distribution OpenJDK, Microsoft Build of OpenJDK](https://devblogs.microsoft.com/java/announcing-general-availability-of-microsoft-build-of-openjdk/).
+- Août 2021 : [Eclipse Adoptium sort ses premiers builds d’OpenJDK sous l’appellation Eclipse Temurin](https://blog.adoptium.net/2021/08/adoptium-celebrates-first-release/).
+- Septembre 2021 : [Sortie de Java SE 17 LTS](https://openjdk.java.net/projects/jdk/17/).
+- Mars 2022 : [Sortie de Java SE 18](https://openjdk.java.net/projects/jdk/18/).
+- Septembre 2022 : [Sortie de Java SE 19](https://openjdk.java.net/projects/jdk/19/).
 
 Pour plus d’information sur l’historique de Java vous pouvez consulter l’article [Java version
 history](https://wikipedia.org/wiki/Java_version_history).
 
-Pour plus d’information sur Oracle JDK vs OpenJDK, ainsi que sur les différents builds et
-fournisseurs de JDK, consultez plutôt [Java is Still Free](https://docs.google.com/document/d/1nFGazvrCvHMZJgFstlbzoHjpAVwv5DEdnaBr_5pKuHo/edit?usp=sharing).
-
-Quelques autres liens intéressants :
-
-- [(Don’t Fear) the Java](https://www.azul.com/dont-fear-the-java/)
+Pour plus d’information sur les différents builds et fournisseurs de JDK, consultez plutôt
+[Which Version of JDK Should I Use?](https://whichjdk.com/).
