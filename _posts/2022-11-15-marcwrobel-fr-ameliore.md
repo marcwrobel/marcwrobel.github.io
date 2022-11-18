@@ -18,7 +18,7 @@ Je m'y suis attelé ces derniers jours et c'est désormais chose faite ! Voici c
   depuis la version 5),
 - internalisation des dépendances CSS et JavaScript (pour des questions de [conformité au
   RGPD](https://www.jsdelivr.com/blog/how-the-german-courts-ruling-on-google-fonts-affects-jsdelivr-and-why-it-is-safe-to-use/)),
-- démarrage d'une page [À propos](https://www.marcwrobel.fr/a-propos) (il faut bien se vendre un peu non !?),
+- démarrage d'une page [À propos]({% link a-propos.md %}) (il faut bien se vendre un peu non !?),
 - et de nombreuses petites améliorations liées au style visuel, au SEO, au contenu, à la maintenance du site…
 
 La date de dernière modification a été mise à jour sur l'ensemble des articles. Ça ne devrait pas être un problème pour
