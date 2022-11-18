@@ -9,7 +9,13 @@ lang: fr
 # Pour jekyll-seo-tag
 tagline: Encore un blog de développeur
 description: Un bloc-note personnel qui me permet de consigner et partager mes trucs et astuces, pratiques et découvertes liés à mon métier de développeur.
-logo: /assets/img/icon-192.png
+logo: /assets/img/icon-512.png
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/icon-512.png
 
 author:
   name: Marc Wrobel
