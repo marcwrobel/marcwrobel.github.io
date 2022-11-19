@@ -2,18 +2,29 @@
 layout: default
 ---
 
+{%- if paginator.page == 1 -%}
+{%- assign type = "WebSite" -%}
+{%- else -%}
+{%- assign type = "WebPage" -%}
+{%- endif -%}
+
 <div class="d-flex align-items-center min-vh-100">
-  <main role="main" class="container">
+  <main itemscope itemtype="https://schema.org/{{ type }}" role="main" class="container">
     <div class="row">
       <div class="col-sm-6 py-3">
         <div class="d-flex justify-content-center">
           <a class="w-100" href="{% link a-propos.md %}">
-            <img class="w-50 img-responsive center-block d-block mx-auto" src="{% link /assets/img/icon.svg %}" alt="Logo">
+            <img itemprop="image" class="w-50 img-responsive center-block d-block mx-auto" src="{% link /assets/img/icon.svg %}" alt="Logo">
           </a>
         </div>
 
         {% if paginator.page == 1 -%}
-        <div class="text-center">
+        <div itemprop="creator" itemtype="https://schema.org/Person" class="d-none">
+          <label itemprop="name">{{ author.name }}</label>
+          <label itemprop="url">{{ author.url }}</label>
+        </div>
+
+        <div itemprop="abstract" class="text-center">
           {{ content }}
         </div>
 

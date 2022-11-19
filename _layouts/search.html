@@ -3,7 +3,7 @@ layout: default
 ---
 
 {%- include header.html -%}
-<main role="main" class="container">
+<main itemscope itemtype="https://schema.org/SearchResultsPage" role="main" class="container">
   <div class="d-flex flex-row align-items-center flex-wrap">
     <div class="input-group">
       <div class="input-group-text">
@@ -14,7 +14,7 @@ layout: default
     </div>
   </div>
 
-  <ul id="results-container" class="nav flex-column pt-3"></ul>
+  <ul itemprop="mainContentOfPage" id="results-container" class="nav flex-column pt-3"></ul>
 </main>
 
 <script>

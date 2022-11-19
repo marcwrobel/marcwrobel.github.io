@@ -6,13 +6,13 @@ layout: default
 <main role="main" class="container">
   <div class="row">
     <div class="col-sm-12 col-lg-10 py-3 mx-auto">
-      <article>
+      <article itemscope itemtype="https://schema.org/WebPage">
         {%- if page.title -%}
         <header>
-          <h1>{{ page.title | escape }}</h1>
+          <h1 itemprop="name headline">{{ page.title | escape }}</h1>
         </header>
         {%- endif -%}
-        <div>
+        <div itemprop="mainContentOfPage">
           {{ content }}
         </div>
       </article>

@@ -6,9 +6,9 @@ layout: default
 <main role="main" class="container">
   <div class="row">
     <div class="col-sm-12 col-lg-10 py-3 mx-auto">
-      <article>
+      <article itemscope itemtype="https://schema.org/Person">
         <header class="text-center">
-          <h1>Marc Wrobel</h1>
+          <h1 itemprop="name">Marc Wrobel</h1>
 
           {%- assign icon_size = "1" -%}
           {%- assign show_text = true -%}
@@ -16,7 +16,7 @@ layout: default
           {% include navigation.html %}
         </header>
 
-        <div class="text-justify">
+        <div itemprop="description">
           {{ content }}
         </div>
       </article>

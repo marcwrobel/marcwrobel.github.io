@@ -6,7 +6,7 @@ layout: default
 <main role="main" class="container {{ page.category }}-post">
   <div class="row">
     <div class="col-sm-12 col-lg-10 py-3 mx-auto">
-      <article itemscope itemtype="https://schema.org/BlogPosting">
+      <article itemscope itemtype="https://schema.org/{{ seo.type | default: 'BlogPosting' }}">
         <header>
           <h1 itemprop="name headline">{{ page.title | escape }}</h1>
 
