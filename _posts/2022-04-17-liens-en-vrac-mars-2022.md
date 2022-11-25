@@ -20,7 +20,7 @@ Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de
 - [GitLab 14.9 released with epic to epic linking and integrated security training](https://about.gitlab.com/releases/2022/03/22/gitlab-14-9-released/)
   — pas mal de petites améliorations, mais rien qui sorte du lot ce mois-ci.
 - [Announcing TypeScript 4.6](https://devblogs.microsoft.com/typescript/announcing-typescript-4-6/)
-  — le compilateur s’améliorer, quelques contraintes sont relâchées et la cible _es2022_ fait son apparition.
+  — le compilateur s’améliore, quelques contraintes sont relâchées et la cible _es2022_ fait son apparition.
 - [What's new in Angular 13.3?](https://blog.ninja-squad.com/2022/03/16/what-is-new-angular-13.3/)
   — le support de TypeScript 4.6, ainsi qu’une légère réduction de la taille du code compilé.
 - [Chrome 100 Released With APIs For Multi-Screen Window Placement, Digital Goods](https://www.phoronix.com/scan.php?page=news_item&px=Google-Chrome-100)
