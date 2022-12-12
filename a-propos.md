@@ -33,7 +33,9 @@ permalink: /a-propos
 - Créateur de [jbanking](https://github.com/marcwrobel/jbanking),
   [asdf-quarkus](https://github.com/asdf-community/asdf-quarkus),
   [Les Cast Codeurs podcast bot](https://github.com/lescastcodeurs/lcc-slack-bot)…,
-- [Contributeur](https://github.com/marcwrobel) occasionnel à divers projets ou initiatives liés à l'open source.
+- [Contributeur](https://github.com/marcwrobel) occasionnel à divers projets ou initiatives liés à l'open source,
+  tels qu’[endoflife.date](https://github.com/endoflife-date/endoflife.date) ou
+  [lescastcodeurs.com](https://github.com/lescastcodeurs/lescastcodeurs.com).
 
 ## Langues
 
