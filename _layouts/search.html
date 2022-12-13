@@ -14,7 +14,14 @@ layout: default
     </div>
   </div>
 
-  <ul itemprop="mainContentOfPage" id="results-container" class="nav flex-column pt-3"></ul>
+  <ul itemprop="mainContentOfPage" id="results-container" class="nav flex-column pt-3">
+    {% for post in site.posts %}
+    <li class="nav-item p-2">
+      <a class="h3 text-decoration-none" href="{{ post.url }}">{{ post.title }}</a>
+      <div class="text-secondary small">{{ post.date | date: site.date_format }} • {{ post.category }}</div>
+    </li>
+    {% endfor %}
+  </ul>
 </main>
 
 <script>
