@@ -125,7 +125,7 @@ date_format: '%d/%m/%Y'
 permalink: /:title
 
 paginate: 5
-paginate_path: ':num'
+paginate_path: ':num/'
 future: true
 seo_paginator_message: "Page %<current>s sur %<total>s | "
 
