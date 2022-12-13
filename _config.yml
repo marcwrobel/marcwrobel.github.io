@@ -30,6 +30,7 @@ social:
     - https://stackoverflow.com/cv/marcwrobel
     - https://twitter.com/marcwrobelfr
     - https://www.linkedin.com/in/marcwrobelfr
+    - https://fosstodon.org/@marcwrobel
 
 category_icons:
   - title: nouvelles
@@ -88,6 +89,13 @@ links:
     menu: false
     order: 30
     icon: stack-overflow
+  - title: Mastodon
+    url: https://fosstodon.org/@marcwrobel
+    home: true
+    about: true
+    menu: false
+    order: 35
+    icon: mastodon
   - title: Email
     url: mailto:marc.wrobel@gmail.com
     home: true
