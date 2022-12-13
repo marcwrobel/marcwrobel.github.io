@@ -3,7 +3,7 @@
 {%- assign prev_class = "disabled" -%}
 {%- if paginator.previous_page -%}{%- assign prev_class = "" -%}{% endif %}
 
-<main class="all-posts w-100">
+<div class="all-posts w-100">
   <ul class="nav w-100">
     {% for post in paginator.posts %}
     <li class="nav-item w-100">
@@ -27,23 +27,23 @@
     </li>
     {% endfor %}
   </ul>
-</main>
+</div>
 
 <ul class="nav nav-pills">
   <li class="nav-item">
-    <a rel="next" href="{{ paginator.next_page_path | relative_url }}" class="nav-link {{ next_class }}"
-       title="Articles précédents">
+    <a rel="next" href="{{ paginator.next_page_path | relative_url }}" title="Articles précédents"
+       class="nav-link {{ next_class }}">
       &laquo;&nbsp;Précédents
     </a>
   </li>
   <li class="nav-item">
-    <a rel="search" href="{% link rechercher.md %}" class="nav-link" title="Recherche">
+    <a rel="search" href="{% link rechercher.md %}" class="nav-link" title="Rechercher">
       <span class="bi bi-search" aria-hidden="true" title="Recherche"></span>
     </a>
   </li>
   <li class="nav-item">
-    <a rel="prev" href="{{ paginator.previous_page_path | relative_url }}" class="nav-link {{ prev_class }}"
-       title="Articles suivants">
+    <a rel="prev" href="{{ paginator.previous_page_path | relative_url }}" title="Articles suivants"
+       class="nav-link {{ prev_class }}">
       Suivants&nbsp;&raquo;
     </a>
   </li>
