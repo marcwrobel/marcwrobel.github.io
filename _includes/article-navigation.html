@@ -1,12 +1,16 @@
 <ul class="nav nav-fill nav-justified">
   <li class="nav-item text-start">
     {% if page.previous.url %}
-    <a rel="prev" href="{{ page.previous.url }}">&laquo;&nbsp;{{ page.previous.title }}</a>
+    <a rel="prev" href="{{ page.previous.url }}" title="Article précédent">
+      &laquo;&nbsp;{{ page.previous.title }}
+    </a>
     {% endif %}
   </li>
   <li class="nav-item text-end">
     {% if page.next.url %}
-    <a rel="next" href="{{ page.next.url }}">{{ page.next.title }}&nbsp;&raquo;</a>
+    <a rel="next" href="{{ page.next.url }}" title="Article suivant">
+      {{ page.next.title }}&nbsp;&raquo;
+    </a>
     {% endif %}
   </li>
 </ul>
