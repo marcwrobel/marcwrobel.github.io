@@ -18,7 +18,7 @@ Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de
   [What’s new in Angular CLI 14.1?](https://blog.ninja-squad.com/2022/07/21/angular-cli-14.1/)
   — Angular 14.1 est sorti : comme d’habitude Ninja Squad nous fait un très bon résumé.
 - [GitLab 15.2 released with live wiki diagram previews and redesigned merge request reports](https://about.gitlab.com/releases/2022/07/22/gitlab-15-2-released/)
-  — ça a l’air vraiment pas mal l’_incident timeline_.
+  — ça à l’air vraiment pas mal l’_incident timeline_.
 - [Keycloak 19.0.0 released](https://www.keycloak.org/2022/07/keycloak-1900-released)
   — la nouvelle console d’administration semble agréable à utiliser (tout en restant proche de l’ancienne).
 - [IntelliJ IDEA 2022.2 Is Out!](https://blog.jetbrains.com/idea/2022/07/intellij-idea-2022-2/)
