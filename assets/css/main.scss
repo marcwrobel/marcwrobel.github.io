@@ -89,3 +89,22 @@ table {
  * Code
  */
 @import 'code';
+
+/**
+ * Print
+ */
+@media print {
+  :root {
+    --bs-body-bg: #FFFFFF;
+  }
+
+  // pas super, mais fait le job
+  body {
+    font-size: 14px;
+  }
+
+  .container {
+    padding:0;
+    margin:0 auto;
+  }
+}
