@@ -89,7 +89,7 @@ links:
   - title: Stack Overflow
     url: https://stackoverflow.com/users/374236/marc-wrobel
     home: true
-    about: true
+    about: false
     menu: false
     order: 30
     icon: stack-overflow
@@ -97,7 +97,7 @@ links:
   - title: Mastodon
     url: https://fosstodon.org/@marcwrobel
     home: true
-    about: true
+    about: false
     menu: false
     order: 35
     icon: mastodon
