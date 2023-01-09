@@ -8,60 +8,55 @@ permalink: /a-propos
 
 - 15+ ans d'expérience en développement Java dans les domaines de la trésorerie bancaire, de
   l'édition et des médias,
-- de solides compétences en administration système et en automatisation,
+- de solides compétences en administration Linux et en automatisation,
 - une bonne connaissance des outils DevOps,
 - j'aime partager mes connaissances et apprendre des autres.
 
 ## Expériences
 
-#### Lead développeur — Cegid (janv. 2020 — juil. 2022)
+#### Lead développeur — Cegid (janvier 2020 — juillet 2022)
 
-- Conception et développement d'une application SaaS de prévisions de trésorerie moyen terme.
-- Management de deux petites équipes de développement (l'une développant en Java, l'autre en C#).
+- Conception et développement d'une application de prévisions de trésorerie moyen terme.
+- Management d'équipes.
 - Maintenance opérationnelle de plateformes Windows.
-- Contexte : prévision de trésorerie bancaire.
-- Mots clés : Java, Spring Boot, Angular, Keycloak, PostgreSQL, Linux, Ansible, Windows, GitLab,
-  Azure DevOps.
+- Mots clés : Java, Spring Boot, Angular, Keycloak, PostgreSQL, Docker, Ansible, Linux, Windows,
+  GitLab, Azure DevOps.
 
-#### Développeur sénior / DevOps — ACA (août 2014 — déc. 2019)
+#### Développeur sénior / DevOps — ACA (août 2014 — décembre 2019)
 
-- Développement et maintenance d'une suite logicielle SaaS à destination des trésoriers d'entreprise.
+- Développement et maintenance d'une suite logicielle de sécurisation des flux financier et des
+  flux de paiement à destination des trésoriers d'entreprise.
 - Automatisation de la configuration et du déploiement des plateformes Linux et des services SaaS.
 - Maintenance opérationnelle des plateformes Linux et des services SaaS.
 - Configuration et maintenance des serveurs et des outils internes.
-- Contexte : sécurisation des flux financier et des pouvoirs bancaires.
-- Mots clés : Java, Spring, Spring Boot, Grails, PostgreSQL, Elastic, Linux, Ansible, SEPA, EBICS,
-  SWIFT CSP, GitLab, Jenkins, Confluence, Jira.
+- Mots clés : Java, Spring, Spring Boot, Groovy, Grails, PostgreSQL, ELK, Docker, Linux, Ansible,
+  GitLab, Jenkins, Confluence, Jira, SEPA, SWIFT, EBICS.
 
-#### Développeur — Alsyon Technologies (avr. 2011 — juil. 2014)
+#### Développeur — Alsyon Technologies (avril 2011 — juillet 2014)
 
 - Développement et maintenance d'une suite logicielle de sécurisation des pouvoirs bancaires et des
   flux de paiement à destination des trésoriers d'entreprise.
 - Développements d'une solution de gestion des mandats et des prélèvements SEPA.
-- Participation à l'effort de migration vers le SaaS des logiciels.
+- Participation à la migration des logiciels vers le SaaS.
 - Configuration et maintenance des serveurs et des outils internes.
-- Contexte : sécurisation des flux financier, communication bancaire.
-- Mots clés : Java, Spring, Grails, PostgreSQL, Linux, Bash, SEPA, EBICS, SWIFT, Jenkins,
-  Confluence.
+- Mots clés : Java, Spring, Groovy, Grails, PostgreSQL, Linux, Bash, Jenkins, Confluence, SEPA,
+  EBICS, SWIFT.
 
-#### Développeur — Weka France / Excilys (avr. 2010 — mars 2011)
+#### Développeur — Weka France / Excilys (avril 2010 — mars 2011)
 
-- Développement et maintenance de sites web hébergeant du contenu de formation pour les
+- Développement et maintenance de plateformes web hébergeant du contenu de formation pour les
   professionnels.
-- Contexte : édition et formation professionnelle.
 - Mots clés : Java, Spring, Apache Jackrabbit.
 
-#### Développeur junior — AOL France / Excilys (nov. 2007 - mars 2010)
+#### Développeur junior — AOL France / Excilys (novembre 2007 - mars 2010)
 
 - Maintenance des sites du portail Web d'AOL France.
-- Contexte : médias et publicité en ligne, environnement international (UK, USA, Inde).
 - Mots clés : Java, Spring, HTML, CSS, Hibernate.
 
-#### Développeur junior — Excilys (avril 2007 - sept. 2007)
+#### Développeur junior — Stage — Excilys (avril 2007 - septembre 2007)
 
 - Développement et maintenance du logiciel interne de gestion des congés / feuilles de temps.
 - Réalisation de tests de charge sur les sites du portail Web d'AOL France.
-- Contexte : stage.
 - Mots clés : Java EE, JSP, JPA, HTML, CSS, SQL, JMeter.
 
 ## Éducation
@@ -84,4 +79,4 @@ permalink: /a-propos
 ## Langues
 
 - Français (langue maternelle),
-- Anglais (écriture bonne, parlé correct).
+- Anglais (professionnel).
