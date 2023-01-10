@@ -24,8 +24,8 @@ permalink: /a-propos
 
 #### Développeur sénior / DevOps — ACA (août 2014 — décembre 2019)
 
-- Développement et maintenance d'une suite logicielle de sécurisation des flux financier et des
-  flux de paiement à destination des trésoriers d'entreprise.
+- Développement et maintenance d'une suite logicielle de gestion des pouvoirs bancaires et de
+  sécurisation des flux financiers à destination des trésoriers d'entreprise.
 - Automatisation de la configuration et du déploiement des plateformes Linux et des services SaaS.
 - Maintenance opérationnelle des plateformes Linux et des services SaaS.
 - Configuration et maintenance des serveurs et des outils internes.
@@ -34,8 +34,8 @@ permalink: /a-propos
 
 #### Développeur — Alsyon Technologies (avril 2011 — juillet 2014)
 
-- Développement et maintenance d'une suite logicielle de sécurisation des pouvoirs bancaires et des
-  flux de paiement à destination des trésoriers d'entreprise.
+- Développement et maintenance d'une suite logicielle de gestion des pouvoirs bancaires et de
+  sécurisation des flux financiers à destination des trésoriers d'entreprise.
 - Développements d'une solution de gestion des mandats et des prélèvements SEPA.
 - Participation à la migration des logiciels vers le SaaS.
 - Configuration et maintenance des serveurs et des outils internes.
@@ -68,12 +68,12 @@ permalink: /a-propos
 
 ## Projets
 
-- Auteur de [www.marcwrobel.fr](https://www.marcwrobel.fr/),
+- Auteur de [www.marcwrobel.fr](https://www.marcwrobel.fr/).
 - Créateur de [jbanking](https://github.com/marcwrobel/jbanking),
   [asdf-quarkus](https://github.com/asdf-community/asdf-quarkus),
-  [Les Cast Codeurs podcast bot](https://github.com/lescastcodeurs/lcc-slack-bot)…,
-- [Contributeur](https://github.com/marcwrobel) occasionnel à divers projets ou initiatives liés à l'open source,
-  tels qu’[endoflife.date](https://github.com/endoflife-date/endoflife.date) ou
+  [Les Cast Codeurs podcast bot](https://github.com/lescastcodeurs/lcc-slack-bot)…
+- [Contributeur](https://github.com/marcwrobel) occasionnel à divers projets ou initiatives liés à
+  l'open source, tels qu’[endoflife.date](https://github.com/endoflife-date/endoflife.date) ou
   [lescastcodeurs.com](https://github.com/lescastcodeurs/lescastcodeurs.com).
 
 ## Langues
