@@ -2,6 +2,9 @@
 layout: about-me
 title: À propos
 permalink: /a-propos
+lang: fr
+translated_page: /about
+translated_title: English version
 ---
 
 ## En résumé
