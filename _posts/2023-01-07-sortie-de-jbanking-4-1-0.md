@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sortie de jbanking 4.1.0
-description: La version 4.1.0 de jbanking est sortie avec le support la génération aléatoire d'IBAN (ISO 13616) et de grosses améliorations de performances.
+description: Intégration de l'amendement 174 du ISO 4217 Currency Code Service et ajout du couronnement du roi Charles III à la liste des jours fériés du calendrier prédéfini LONDON.
 category: développement
 seo:
   date_modified: 2023-01-07
