@@ -71,13 +71,17 @@ translated_title: English version
 
 ## Projets
 
-- Auteur de [www.marcwrobel.fr](https://www.marcwrobel.fr/).
-- Créateur de [jbanking](https://github.com/marcwrobel/jbanking),
-  [asdf-quarkus](https://github.com/asdf-community/asdf-quarkus),
-  [Les Cast Codeurs podcast bot](https://github.com/lescastcodeurs/lcc-slack-bot)…
-- [Contributeur](https://github.com/marcwrobel) occasionnel à divers projets ou initiatives liés à
-  l'open source, tels qu’[endoflife.date](https://github.com/endoflife-date/endoflife.date) ou
-  [lescastcodeurs.com](https://github.com/lescastcodeurs/lescastcodeurs.com).
+- Auteur de [www.marcwrobel.fr](https://www.marcwrobel.fr/), un blog personnel où je consigne et
+  partage toutes sortes de choses liées à mon métier.
+- Créateur de [jbanking](https://github.com/marcwrobel/jbanking), une bibliothèque d'utilitaires
+  en Java qui aide au développement de fonctionnalités qui touchent au monde bancaire.
+- Créateur de [lcc-slack-bot](https://github.com/lescastcodeurs/lcc-slack-bot), un
+  bot Slack permettant d'automatiser la création des notes des épisodes du podcast
+  [Les Cast Codeurs](https://lescastcodeurs.com/).
+- [Contributeur occasionnel](https://github.com/marcwrobel) à divers projets open source, tels
+  que [endoflife.date](https://github.com/endoflife-date/endoflife.date),
+  [lescastcodeurs.com](https://github.com/lescastcodeurs/lescastcodeurs.com),
+  [asdf](https://github.com/asdf-community)…
 
 ## Langues
 
