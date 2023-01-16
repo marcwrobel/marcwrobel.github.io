@@ -9,11 +9,12 @@ translated_title: English version
 
 ## En résumé
 
-- 15+ ans d'expérience en développement Java dans les domaines de la trésorerie bancaire, de
-  l'édition et des médias,
-- de solides compétences en administration Linux et en automatisation,
-- une bonne connaissance des outils DevOps,
-- j'aime partager mes connaissances et apprendre des autres.
+- 15+ ans d'expérience en développement back-end (principalement en Java) mais aussi front-end
+  (dernièrement avec Angular) dans les domaines de la trésorerie bancaire, de l'édition et des
+  médias.
+- Une bonne connaissance des outils DevOps.
+- De solides compétences en administration Linux et en automatisation (avec Ansible).
+- J'aime partager mes connaissances et apprendre des autres.
 
 ## Expériences
 

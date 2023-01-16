@@ -9,9 +9,10 @@ translated_title: Version française
 
 ## Summary
 
-- 15+ years of experience in Java development (in banking, publishing and media industries),
-- strong Linux administration and automation skills,
-- good knowledge of DevOps tools,
+- 15+ years of experience in back-end development (mainly in Java) and front-end development
+  (lately with Angular) in the banking, publishing and media industries.
+- Good knowledge of DevOps tools.
+- Strong Linux administration and automation skills (with Ansible).
 - I like to share my knowledge and learn from others.
 
 ## Experience
