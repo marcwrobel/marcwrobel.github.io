@@ -22,7 +22,7 @@ translated_title: English version
 - Conception et développement d'une application de prévisions de trésorerie moyen terme.
 - Management d'équipes.
 - Maintenance opérationnelle de plateformes Windows.
-- Mots clés : Java, Spring Boot, Angular, Keycloak, PostgreSQL, Docker, Ansible, Linux, Windows,
+- Mots-clés : Java, Spring Boot, Angular, Keycloak, PostgreSQL, Docker, Ansible, Linux, Windows,
   GitLab, Azure DevOps.
 
 #### Développeur sénior / DevOps — ACA (août 2014 — décembre 2019)
@@ -32,7 +32,7 @@ translated_title: English version
 - Automatisation de la configuration et du déploiement des plateformes Linux et des services SaaS.
 - Maintenance opérationnelle des plateformes Linux et des services SaaS.
 - Configuration et maintenance des serveurs et des outils internes.
-- Mots clés : Java, Spring, Spring Boot, Groovy, Grails, PostgreSQL, ELK, Docker, Linux, Ansible,
+- Mots-clés : Java, Spring, Spring Boot, Groovy, Grails, PostgreSQL, ELK, Docker, Linux, Ansible,
   GitLab, Jenkins, Confluence, Jira, SEPA, SWIFT, EBICS.
 
 #### Développeur — Alsyon Technologies (avril 2011 — juillet 2014)
@@ -42,25 +42,25 @@ translated_title: English version
 - Développements d'une solution de gestion des mandats et des prélèvements SEPA.
 - Participation à la migration des logiciels vers le SaaS.
 - Configuration et maintenance des serveurs et des outils internes.
-- Mots clés : Java, Spring, Groovy, Grails, PostgreSQL, Linux, Bash, Jenkins, Confluence, SEPA,
+- Mots-clés : Java, Spring, Groovy, Grails, PostgreSQL, Linux, Bash, Jenkins, Confluence, SEPA,
   EBICS, SWIFT.
 
 #### Développeur — Weka France / Excilys (avril 2010 — mars 2011)
 
 - Développement et maintenance de plateformes web hébergeant du contenu de formation pour les
   professionnels.
-- Mots clés : Java, Spring, Apache Jackrabbit.
+- Mots-clés : Java, Spring, Apache Jackrabbit.
 
 #### Développeur junior — AOL France / Excilys (novembre 2007 - mars 2010)
 
 - Maintenance des sites du portail Web d'AOL France.
-- Mots clés : Java, Spring, HTML, CSS, Hibernate.
+- Mots-clés : Java, Spring, HTML, CSS, Hibernate.
 
 #### Développeur junior — Stage — Excilys (avril 2007 - septembre 2007)
 
 - Développement et maintenance du logiciel interne de gestion des congés / feuilles de temps.
 - Réalisation de tests de charge sur les sites du portail Web d'AOL France.
-- Mots clés : Java EE, JSP, JPA, HTML, CSS, SQL, JMeter.
+- Mots-clés : Java EE, JSP, JPA, HTML, CSS, SQL, JMeter.
 
 ## Éducation
 
