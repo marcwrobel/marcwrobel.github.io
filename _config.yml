@@ -15,7 +15,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/img/icon-512.png
+      image: /assets/img/default-twitter-card.png
 
 author:
   name: Marc Wrobel
