@@ -21,8 +21,8 @@ translated_title: English version
 #### Lead développeur — Cegid (janvier 2020 — juillet 2022)
 
 - Conception et développement d’une application de prévisions de trésorerie moyen terme.
-- Management d’équipe.
-- Maintenance opérationnelle de plateformes Windows.
+- Management d’équipe (4 personnes).
+- Maintient en condition opérationnelle de serveurs Windows.
 - Mots-clés : Java, Spring Boot, Angular, Keycloak, PostgreSQL, Docker, Ansible, Linux, Windows,
   GitLab, Azure DevOps.
 
@@ -30,8 +30,8 @@ translated_title: English version
 
 - Développement et maintenance d’une suite logicielle de gestion des pouvoirs bancaires et de
   sécurisation des flux financiers à destination des trésoriers d’entreprise.
-- Automatisation de la configuration et du déploiement des plateformes Linux et des services SaaS.
-- Maintenance opérationnelle des plateformes Linux et des services SaaS.
+- Déploiement, sécurisation et maintien en condition opérationnelle des 30+ serveurs Linux et des
+  100+ services installés sur ces serveurs.
 - Configuration et maintenance des serveurs et des outils internes.
 - Mots-clés : Java, Spring, Spring Boot, Groovy, Grails, PostgreSQL, ELK, Docker, Linux, Ansible,
   GitLab, Jenkins, Confluence, Jira, SEPA, SWIFT, EBICS.
