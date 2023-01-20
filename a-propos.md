@@ -21,8 +21,8 @@ translated_title: English version
   terme au sein d'une équipe agile de 4 personnes.
 - Management d’équipe (4 développeurs).
 - Maintien en condition opérationnelle de serveurs Windows.
-- Mots-clés : Java, Spring Boot, Angular, Keycloak, PostgreSQL, Docker, Ansible, Linux, Windows,
-  GitLab, Azure DevOps, Scrum.
+- Mots-clés : Java, Spring Boot, Angular, Typescript, HTML, CSS, Keycloak, PostgreSQL, Docker,
+  Ansible, Linux, Windows, GitLab, Azure DevOps, Scrum.
 
 #### Développeur senior / DevOps — ACA (août 2014 — décembre 2019)
 
@@ -31,8 +31,8 @@ translated_title: English version
 - Automatisation du déploiement de 30+ serveurs Linux et de 100+ services SaaS avec Ansible.
 - Maintien en condition opérationnelle et sécurisation des serveurs et des services.
 - Configuration et maintenance des serveurs et des outils internes.
-- Mots-clés : Java, Spring, Spring Boot, Groovy, Grails, PostgreSQL, ELK, Docker, Linux, Ansible,
-  GitLab, Jenkins, Confluence, Jira, SEPA, SWIFT, EBICS.
+- Mots-clés : Java, Spring, Spring Boot, Groovy, Grails, HTML, CSS, PostgreSQL, Docker, Linux,
+  Ansible, Stack Elastic (ELK), GitLab, Jenkins, Confluence, Jira, SEPA, SWIFT, EBICS.
 
 #### Développeur — Alsyon Technologies (avril 2011 — juillet 2014)
 
@@ -40,14 +40,14 @@ translated_title: English version
   entreprises au sein d'une équipe d'une dizaine de personnes.
 - Migration de la suite logicielle vers le SaaS.
 - Configuration et maintenance des serveurs et des outils internes.
-- Mots-clés : Java, Spring, Groovy, Grails, PostgreSQL, Linux, Bash, Jenkins, Confluence, SEPA,
-  EBICS, SWIFT.
+- Mots-clés : Java, Spring, Groovy, Grails, HTML, CSS, PostgreSQL, Linux, Bash, Jenkins, Confluence,
+  SEPA, EBICS, SWIFT.
 
 #### Développeur — Weka France / Excilys (avril 2010 — mars 2011)
 
 - Développement et maintenance de plateformes web hébergeant du contenu de formation pour les
   professionnels au sein d'une équipe d'une dizaine de personnes.
-- Mots-clés : Java, Spring, Apache Jackrabbit.
+- Mots-clés : Java, Spring, HTML, CSS, Apache Jackrabbit.
 
 #### Développeur junior — AOL France / Excilys (novembre 2007 - mars 2010)
 
