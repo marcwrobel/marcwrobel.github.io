@@ -10,8 +10,8 @@ translated_title: English version
 ## En résumé
 
 - 15+ ans d’expérience en développement d'applications web et de back-ends, principalement en Java.
-- De solides compétences en administration Linux et en automatisation avec Ansible.
-- Une bonne connaissance des outils DevOps.
+- Une bonne connaissance des outils et pratiques DevOps.
+- De solides compétences en administration Linux.
 
 ## Expériences
 

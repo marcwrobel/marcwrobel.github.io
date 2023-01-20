@@ -10,8 +10,8 @@ translated_title: Version française
 ## Summary
 
 - 15+ years of experience developing web applications and back-ends, primarily in Java.
-- Strong Linux administration and automation skills with Ansible.
-- Good knowledge of DevOps tools.
+- Good knowledge of DevOps tools and practices.
+- Strong Linux administration skills.
 
 ## Experience
 
