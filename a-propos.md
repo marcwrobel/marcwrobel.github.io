@@ -30,7 +30,7 @@ translated_title: English version
   entreprises au sein d'une équipe d'une dizaine de personnes.
 - Automatisation du déploiement de 30+ serveurs Linux et de 100+ services SaaS avec Ansible.
 - Maintien en condition opérationnelle et sécurisation des serveurs et des services.
-- Configuration et maintenance des serveurs et des outils internes.
+- Mise en place, maintenance et amélioration de l'outillage utilisé par les développeurs / SysOps.
 - Mots-clés : Java, Spring, Spring Boot, Groovy, Grails, HTML, CSS, PostgreSQL, Docker, Linux,
   Ansible, Stack Elastic (ELK), GitLab, Jenkins, Confluence, Jira, SEPA, SWIFT, EBICS.
 
