@@ -18,16 +18,16 @@ translated_title: English version
 #### Lead développeur — Cegid (janvier 2020 — juillet 2022)
 
 - Conception, développement et déploiement d’une application de prévisions de trésorerie moyen
-  terme.
-- Management d’une équipe de 4 personnes.
-- Maintient en condition opérationnelle de serveurs Windows.
+  terme au sein d'une équipe agile de 4 personnes.
+- Management d’équipe (4 développeurs).
+- Maintien en condition opérationnelle de serveurs Windows.
 - Mots-clés : Java, Spring Boot, Angular, Keycloak, PostgreSQL, Docker, Ansible, Linux, Windows,
-  GitLab, Azure DevOps.
+  GitLab, Azure DevOps, Scrum.
 
 #### Développeur senior / DevOps — ACA (août 2014 — décembre 2019)
 
-- Développement d’une suite logicielle de gestion des pouvoirs bancaires et de sécurisation des flux
-  financiers à destination des trésoriers d’entreprise.
+- Développement d'une solution de gestion opérationnelle des flux de trésorerie pour les grandes
+  entreprises au sein d'une équipe d'une dizaine de personnes.
 - Automatisation du déploiement de 30+ serveurs Linux et de 100+ services SaaS avec Ansible.
 - Maintien en condition opérationnelle et sécurisation des serveurs et des services.
 - Configuration et maintenance des serveurs et des outils internes.
@@ -36,9 +36,8 @@ translated_title: English version
 
 #### Développeur — Alsyon Technologies (avril 2011 — juillet 2014)
 
-- Développement d’une suite logicielle de gestion des pouvoirs bancaires et de sécurisation des flux
-  financiers à destination des trésoriers d’entreprise.
-- Développement d’une solution de gestion des mandats et des prélèvements SEPA.
+- Développement d'une solution de gestion opérationnelle des flux de trésorerie pour les grandes
+  entreprises au sein d'une équipe d'une dizaine de personnes.
 - Migration de la suite logicielle vers le SaaS.
 - Configuration et maintenance des serveurs et des outils internes.
 - Mots-clés : Java, Spring, Groovy, Grails, PostgreSQL, Linux, Bash, Jenkins, Confluence, SEPA,
@@ -47,12 +46,13 @@ translated_title: English version
 #### Développeur — Weka France / Excilys (avril 2010 — mars 2011)
 
 - Développement et maintenance de plateformes web hébergeant du contenu de formation pour les
-  professionnels.
+  professionnels au sein d'une équipe d'une dizaine de personnes.
 - Mots-clés : Java, Spring, Apache Jackrabbit.
 
 #### Développeur junior — AOL France / Excilys (novembre 2007 - mars 2010)
 
-- Maintenance des sites du portail Web d’AOL France.
+- Maintenance des sites du portail Web d’AOL France au sein d'une équipe d'une trentaine de
+  personnes.
 - Mots-clés : Java, Spring, HTML, CSS, Hibernate.
 
 #### Développeur junior — Stage — Excilys (avril 2007 - septembre 2007)
