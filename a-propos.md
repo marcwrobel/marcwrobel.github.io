@@ -17,8 +17,8 @@ translated_title: English version
 
 #### Lead développeur — Cegid (janvier 2020 — juillet 2022)
 
-- Conception et développement d’une application de prévisions de trésorerie moyen terme.
-- Management d’équipe (4 personnes).
+- Conception, développement et déploiement d’une application de prévisions de trésorerie moyen terme.
+- Management d’une équipe de 4 personnes.
 - Maintient en condition opérationnelle de serveurs Windows.
 - Mots-clés : Java, Spring Boot, Angular, Keycloak, PostgreSQL, Docker, Ansible, Linux, Windows,
   GitLab, Azure DevOps.
