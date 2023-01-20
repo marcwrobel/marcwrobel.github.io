@@ -9,12 +9,9 @@ translated_title: English version
 
 ## En résumé
 
-- 15+ ans d’expérience en développement back-end (principalement en Java) mais aussi front-end
-  (dernièrement avec Angular) dans les domaines de la trésorerie d’entreprise, de l’édition et des
-  médias.
+- 15+ ans d’expérience en développement d'applications web et de back-ends, principalement en Java.
+- De solides compétences en administration Linux et en automatisation avec Ansible.
 - Une bonne connaissance des outils DevOps.
-- De solides compétences en administration Linux et en automatisation (avec Ansible).
-- J’aime partager mes connaissances et apprendre des autres.
 
 ## Expériences
 
