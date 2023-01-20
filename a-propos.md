@@ -25,8 +25,8 @@ translated_title: English version
 
 #### Développeur senior / DevOps — ACA (août 2014 — décembre 2019)
 
-- Développement et maintenance d’une suite logicielle de gestion des pouvoirs bancaires et de
-  sécurisation des flux financiers à destination des trésoriers d’entreprise.
+- Développement d’une suite logicielle de gestion des pouvoirs bancaires et de sécurisation des flux
+  financiers à destination des trésoriers d’entreprise.
 - Déploiement, sécurisation et maintien en condition opérationnelle des 30+ serveurs Linux et des
   100+ services installés sur ces serveurs.
 - Configuration et maintenance des serveurs et des outils internes.
@@ -35,10 +35,10 @@ translated_title: English version
 
 #### Développeur — Alsyon Technologies (avril 2011 — juillet 2014)
 
-- Développement et maintenance d’une suite logicielle de gestion des pouvoirs bancaires et de
-  sécurisation des flux financiers à destination des trésoriers d’entreprise.
-- Développements d’une solution de gestion des mandats et des prélèvements SEPA.
-- Participation à la migration des logiciels vers le SaaS.
+- Développement d’une suite logicielle de gestion des pouvoirs bancaires et de sécurisation des flux
+  financiers à destination des trésoriers d’entreprise.
+- Développement d’une solution de gestion des mandats et des prélèvements SEPA.
+- Migration de la suite logicielle vers le SaaS.
 - Configuration et maintenance des serveurs et des outils internes.
 - Mots-clés : Java, Spring, Groovy, Grails, PostgreSQL, Linux, Bash, Jenkins, Confluence, SEPA,
   EBICS, SWIFT.
