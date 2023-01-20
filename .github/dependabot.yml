@@ -1,4 +1,4 @@
-# See https://help.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+# See https://docs.github.com/en/code-security/dependabot/dependabot-security-updates/configuring-dependabot-security-updates
 
 version: 2
 updates:
