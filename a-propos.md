@@ -9,7 +9,7 @@ translated_title: English version
 
 ## En résumé
 
-- 15+ ans d’expérience en développement d'applications web et de back-ends, principalement en Java.
+- 15+ ans d’expérience en développement d'applications web et back-end, principalement en Java.
 - Une bonne connaissance des outils et pratiques DevOps.
 - Des compétences en administration système Linux.
 
@@ -17,8 +17,8 @@ translated_title: English version
 
 #### Lead développeur, [Cegid](https://www.linkedin.com/company/cegid/) (janv. 2020 - juil. 2022)
 
-- Conception, développement et déploiement d’une application de prévisions de trésorerie moyen
-  terme au sein d'une équipe agile de 4 personnes.
+- Conception et développement d’une nouvelle application de prévisions de trésorerie moyen terme au
+  sein d'une équipe agile de 4 personnes.
 - Management d’équipe (4 développeurs).
 - Maintien en condition opérationnelle de serveurs Windows.
 - Mots-clés : Java, Spring Boot, Angular, Typescript, HTML, CSS, Keycloak, PostgreSQL, Docker,
@@ -26,22 +26,29 @@ translated_title: English version
 
 #### Développeur senior / DevOps, [ACA](https://www.cegid.com/fr/presse/cegid-confirme-lacquisition-daca/) (août 2014 - déc. 2019)
 
-- Développement d'une solution de gestion opérationnelle des flux de trésorerie pour les grandes
-  entreprises au sein d'une équipe d'une dizaine de personnes.
+- Développement d'une suite logicielle de gestion opérationnelle des flux de trésorerie pour les
+  grandes entreprises au sein d'une équipe d'une dizaine de personnes, dont notamment :
+  - Développements de fonctionnalités autour de la signature électronique et de l'authentification.
+  - Sécurisation des logiciels, plateformes et processus de développement dans le cadre du Customer
+    Security Programme (CSP) SWIFT.
+  - Mise en place de tableaux de bord métier avec Kibana.
 - Automatisation du déploiement de 30+ serveurs Linux et de 100+ services SaaS avec Ansible.
 - Maintien en condition opérationnelle et sécurisation des serveurs et des services.
 - Mise en place, maintenance et amélioration de l'outillage utilisé par les développeurs / SysOps.
 - Mots-clés : Java, Spring, Spring Boot, Groovy, Grails, HTML, CSS, PostgreSQL, Docker, Linux,
-  Ansible, Stack Elastic (ELK), GitLab, Jenkins, Confluence, Jira, SEPA, SWIFT, EBICS.
+  Ansible, Stack Elastic (ELK), GitLab, Jenkins, Confluence, Jira.
 
 #### Développeur, [Alsyon Technologies](https://www.cambonpartners.com/en/transactions/none-none-62) (avr. 2011 - juil. 2014)
 
-- Développement d'une solution de gestion opérationnelle des flux de trésorerie pour les grandes
-  entreprises au sein d'une équipe d'une dizaine de personnes.
+- Développement d'une suite logicielle de sécurisation des pouvoirs bancaires et des flux de
+  paiement à destination des trésoriers de grandes entreprises au sein d'une équipe d'une dizaine de
+  personnes, dont notamment :
+  - Développements de fonctionnalités autour de la communication bancaire (SWIFT, FileAct, FIN,
+    EBICS, 3SKey...),
+  - Développements d'une solution de gestion des mandats et des prélèvements/virements SEPA.
 - Migration de la suite logicielle vers le SaaS.
-- Configuration et maintenance des serveurs et des outils internes.
-- Mots-clés : Java, Spring, Groovy, Grails, HTML, CSS, PostgreSQL, Linux, Bash, Jenkins, Confluence,
-  SEPA, EBICS, SWIFT.
+- Configuration et maintenance de l'outillage utilisé par les développeurs.
+- Mots-clés : Java, Spring, Groovy, Grails, HTML, CSS, PostgreSQL, Linux, Bash, Jenkins, Confluence.
 
 #### Développeur, [Weka](https://www.linkedin.com/company/weka-france/)/[Excilys](https://www.linkedin.com/company/groupe-excilys/) (avr. 2010 - mars 2011)
 
