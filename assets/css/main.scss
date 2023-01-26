@@ -98,13 +98,17 @@ table {
     --bs-body-bg: #FFFFFF;
   }
 
+  .container {
+    padding:0;
+    margin:0 auto;
+  }
+
   // pas super, mais fait le job
   body {
     font-size: 14px;
   }
 
-  .container {
-    padding:0;
-    margin:0 auto;
+  .about {
+    h4 { font-size: 1.25rem; }
   }
 }
