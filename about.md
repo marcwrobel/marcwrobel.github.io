@@ -37,7 +37,6 @@ translated_title: Version française
   assist with developing banking functionalities.
 - Creator of [lcc-slack-bot](https://github.com/lescastcodeurs/lcc-slack-bot), a Slack bot to
   automate show notes creation for [Les Cast Codeurs](https://lescastcodeurs.com/) podcast.
-- [Occasional contributor](https://github.com/marcwrobel) to various open source projects, such as
-  [endoflife.date](https://github.com/endoflife-date/endoflife.date),
-  [lescastcodeurs.com](https://github.com/lescastcodeurs/lescastcodeurs.com),
-  [asdf](https://github.com/asdf-community)…
+- [Contributor](https://github.com/marcwrobel) to various open source projects, such as
+  [endoflife.date](https://github.com/endoflife-date/endoflife.date) or
+  [asdf](https://github.com/asdf-community).

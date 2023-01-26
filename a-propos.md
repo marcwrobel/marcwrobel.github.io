@@ -77,7 +77,6 @@ translated_title: English version
 - Créateur de [lcc-slack-bot](https://github.com/lescastcodeurs/lcc-slack-bot), un
   bot Slack permettant d’automatiser la création des notes des épisodes du podcast
   [Les Cast Codeurs](https://lescastcodeurs.com/).
-- [Contributeur occasionnel](https://github.com/marcwrobel) à divers projets open source, tels
-  que [endoflife.date](https://github.com/endoflife-date/endoflife.date),
-  [lescastcodeurs.com](https://github.com/lescastcodeurs/lescastcodeurs.com),
-  [asdf](https://github.com/asdf-community)…
+- [Contributeur](https://github.com/marcwrobel) à divers projets open source, tels
+  que [endoflife.date](https://github.com/endoflife-date/endoflife.date) ou
+  [asdf](https://github.com/asdf-community).
