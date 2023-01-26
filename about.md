@@ -15,12 +15,12 @@ translated_title: Version française
 
 ## Experience
 
-- Lead developer — Cegid (January 2020 — July 2022)
-- Senior developer / DevOps — ACA (August 2014 — December 2019)
-- Developer — Alsyon Technologies (April 2011 — July 2014)
-- Developer — Weka France / Excilys (April 2010 — March 2011)
-- Junior developer — AOL France / Excilys (November 2007 - March 2010)
-- Junior developer — Internship — Excilys (April 2007 - September 2007)
+- Lead developer — Cegid (Jan 2020 — Jul 2022)
+- Senior developer / DevOps — ACA (Aug 2014 — Dec 2019)
+- Developer — Alsyon Technologies (Apr 2011 — Jul 2014)
+- Developer — Weka France / Excilys (Apr 2010 — Mar 2011)
+- Junior developer — AOL France / Excilys (Nov 2007 - Mar 2010)
+- Junior developer — Internship — Excilys (Apr 2007 - Sep 2007)
 
 ## Education
 

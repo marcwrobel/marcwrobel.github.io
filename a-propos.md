@@ -15,7 +15,7 @@ translated_title: English version
 
 ## Expériences
 
-#### Lead développeur — Cegid (janvier 2020 — juillet 2022)
+#### Lead développeur — Cegid (janv. 2020 — juil. 2022)
 
 - Conception, développement et déploiement d’une application de prévisions de trésorerie moyen
   terme au sein d'une équipe agile de 4 personnes.
@@ -24,7 +24,7 @@ translated_title: English version
 - Mots-clés : Java, Spring Boot, Angular, Typescript, HTML, CSS, Keycloak, PostgreSQL, Docker,
   Ansible, Linux, Windows, GitLab, Azure DevOps, Scrum.
 
-#### Développeur senior / DevOps — ACA (août 2014 — décembre 2019)
+#### Développeur senior / DevOps — ACA (août 2014 — déc. 2019)
 
 - Développement d'une solution de gestion opérationnelle des flux de trésorerie pour les grandes
   entreprises au sein d'une équipe d'une dizaine de personnes.
@@ -34,7 +34,7 @@ translated_title: English version
 - Mots-clés : Java, Spring, Spring Boot, Groovy, Grails, HTML, CSS, PostgreSQL, Docker, Linux,
   Ansible, Stack Elastic (ELK), GitLab, Jenkins, Confluence, Jira, SEPA, SWIFT, EBICS.
 
-#### Développeur — Alsyon Technologies (avril 2011 — juillet 2014)
+#### Développeur — Alsyon Technologies (avr. 2011 — juil. 2014)
 
 - Développement d'une solution de gestion opérationnelle des flux de trésorerie pour les grandes
   entreprises au sein d'une équipe d'une dizaine de personnes.
@@ -43,19 +43,19 @@ translated_title: English version
 - Mots-clés : Java, Spring, Groovy, Grails, HTML, CSS, PostgreSQL, Linux, Bash, Jenkins, Confluence,
   SEPA, EBICS, SWIFT.
 
-#### Développeur — Weka France / Excilys (avril 2010 — mars 2011)
+#### Développeur — Weka France / Excilys (avr. 2010 — mars 2011)
 
 - Développement et maintenance de plateformes web hébergeant du contenu de formation pour les
   professionnels au sein d'une équipe d'une dizaine de personnes.
 - Mots-clés : Java, Spring, HTML, CSS, Apache Jackrabbit.
 
-#### Développeur junior — AOL France / Excilys (novembre 2007 - mars 2010)
+#### Développeur junior — AOL France / Excilys (nov. 2007 - mars 2010)
 
 - Maintenance des sites du portail Web d’AOL France au sein d'une équipe d'une trentaine de
   personnes.
 - Mots-clés : Java, Spring, HTML, CSS, Hibernate.
 
-#### Développeur junior — Stage — Excilys (avril 2007 - septembre 2007)
+#### Développeur junior — Stage — Excilys (avr. 2007 - sept. 2007)
 
 - Développement et maintenance du logiciel interne de gestion des congés / feuilles de temps.
 - Réalisation de tests de charge sur les sites du portail Web d’AOL France.
