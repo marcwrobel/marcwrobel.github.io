@@ -66,6 +66,7 @@ translated_title: English version
 - Master Professionnel Ingénierie Logiciel pour l’Internet
   ([ILI](https://www.cril.univ-artois.fr/master/ili/m2proili-home.html)), Mention Bien, Université
   Jean Perrin, Lens (2007),
+- Langues : Français (langue maternelle), Anglais (professionnel).
 
 ## Projets
 
@@ -80,8 +81,3 @@ translated_title: English version
   que [endoflife.date](https://github.com/endoflife-date/endoflife.date),
   [lescastcodeurs.com](https://github.com/lescastcodeurs/lescastcodeurs.com),
   [asdf](https://github.com/asdf-community)…
-
-## Langues
-
-- Français (langue maternelle),
-- Anglais (professionnel).
