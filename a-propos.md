@@ -62,9 +62,9 @@ translated_title: English version
   personnes.
 - Mots-clés : Java, Spring, HTML, CSS, Hibernate.
 
-#### Stage Développeur junior, [Excilys](https://www.linkedin.com/company/groupe-excilys/) (avr. 2007 - sept. 2007)
+#### Développeur junior (Stage), [Excilys](https://www.linkedin.com/company/groupe-excilys/) (avr. 2007 - sept. 2007)
 
-- Développement et maintenance du logiciel interne de gestion des congés / feuilles de temps.
+- Développement du logiciel interne de gestion des congés / feuilles de temps.
 - Réalisation de tests de charge sur les sites du portail Web d’AOL France.
 - Mots-clés : Java EE, JSP, JPA, HTML, CSS, SQL, JMeter.
 
