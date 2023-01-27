@@ -15,6 +15,10 @@ translated_title: English version
 
 ## Expériences
 
+#### Pause professionnelle (août. 2022 - janv. 2023)
+
+- Repos, voyages, temps en famille, loisirs…
+
 #### Lead développeur, [Cegid](https://www.linkedin.com/company/cegid/) (janv. 2020 - juil. 2022)
 
 - Domaine de la trésorerie d’entreprise, au sein d’une équipe agile de 4 personnes.
