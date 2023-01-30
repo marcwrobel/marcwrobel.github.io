@@ -63,7 +63,7 @@ translated_title: English version
 
 - Domaine de la formation professionnelle, au sein d’une équipe de 10+ personnes.
 - Développement de plateformes web hébergeant le contenu de formation.
-- Mots-clés : Java, Spring, HTML, CSS, Apache Jackrabbit.
+- Mots-clés : Java, Spring, HTML, CSS, SQL.
 
 #### Développeur junior, [AOL](https://www.linkedin.com/company/aol/)/[Excilys](https://www.linkedin.com/company/groupe-excilys/) (nov. 2007 - mars 2010)
 
