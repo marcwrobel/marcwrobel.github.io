@@ -11,7 +11,7 @@ translated_title: Version française
 
 - 15+ years of experience developing web applications and back-ends, primarily in Java.
 - Good knowledge of DevOps tools and practices.
-- Linux system administration skills.
+- Linux system administration skills (installation, configuration, monitoring, scripting…).
 
 ## Experience
 
