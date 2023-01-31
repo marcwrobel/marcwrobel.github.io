@@ -23,12 +23,16 @@ translated_title: English version
 #### Lead développeur, [Cegid](https://www.linkedin.com/company/cegid/) (janv. 2020 - juil. 2022)
 
 - Domaine de la trésorerie d’entreprise, au sein d’une équipe agile de 4 personnes.
-- Conception et développement d’une nouvelle application de gestion des prévisions de trésorerie
-  moyen terme.
-- Management d’équipe (4 développeurs), recrutement.
+- Création d’une nouvelle application de gestion des prévisions de trésorerie moyen terme :
+  - recrutement et montée en compétences des développeurs,
+  - définition de l’architecture et des pratiques de développement,
+  - développement du back-end (Spring Boot) et du front-end (Angular),
+  - automatisation du déploiement (Ansible, Docker, CI/CD).
+- Management d’équipe (4 développeurs).
 - Maintien en condition opérationnelle de serveurs Windows.
 - Mots-clés : Java, Spring Boot, Angular, Typescript, HTML, CSS, Keycloak, PostgreSQL, Docker,
-  Ansible, Linux, Windows, GitLab CI/CD, SonarQube, Nexus, Azure DevOps, Scrum.
+  Ansible, Linux, Windows, GitLab CI/CD, Azure DevOps, SonarQube, Nexus, Artifactory, Black Duck,
+  Confluence, Jira, Scrum.
 
 #### Développeur senior / DevOps, [ACA](https://www.cegid.com/fr/presse/cegid-confirme-lacquisition-daca/) (août 2014 - déc. 2019)
 
@@ -45,8 +49,8 @@ translated_title: English version
 - Maintien en condition opérationnelle et sécurisation des serveurs et des services.
 - Amélioration et maintenance de l’outillage utilisé par les développeurs / SysOps.
 - Mentorat de développeurs / SysOps.
-- Mots-clés : Java, Spring, Spring Boot, Groovy, Grails, HTML, CSS, PostgreSQL, Docker, Linux,
-  Ansible, Stack Elastic (ELK), GitLab CI/CD, SonarQube, Nexus, Confluence, Jira.
+- Mots-clés : Java, Spring, Spring Boot, Groovy, Grails, Angular, HTML, CSS, PostgreSQL, Docker,
+  Linux, Ansible, Stack Elastic (ELK), GitLab CI/CD, SonarQube, Nexus, Confluence, Jira.
 
 #### Développeur, [Alsyon Technologies](https://www.cambonpartners.com/en/transactions/none-none-62) (avr. 2011 - juil. 2014)
 
