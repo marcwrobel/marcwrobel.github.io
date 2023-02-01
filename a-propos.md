@@ -22,7 +22,7 @@ translated_title: English version
 
 #### Lead développeur, [Cegid](https://www.linkedin.com/company/cegid/) (janv. 2020 - juil. 2022)
 
-- Domaine de la trésorerie d’entreprise, au sein d’une équipe agile de 4 personnes.
+- Au sein d’une équipe agile de 4 personnes, domaine de la trésorerie d’entreprise.
 - Création d’une nouvelle application de gestion des prévisions de trésorerie moyen terme :
   - recrutement et montée en compétences des développeurs,
   - définition de l’architecture et des pratiques de développement,
@@ -36,15 +36,14 @@ translated_title: English version
 
 #### Développeur senior / DevOps, [ACA](https://www.cegid.com/fr/presse/cegid-confirme-lacquisition-daca/) (août 2014 - déc. 2019)
 
-- Domaine de la trésorerie d’entreprise, suite au rachat d’Alsyon Technologies par ACA, au sein
-  d’une équipe de 10 personnes.
+- Au sein d’une équipe de 10 personnes, domaine de la trésorerie d’entreprise.
 - Développement et maintenance d’une suite logicielle de gestion opérationnelle des flux de
   trésorerie pour les grandes entreprises, dont notamment :
   - des fonctionnalités autour des pouvoirs bancaires, de la signature électronique et de
     l’authentification,
   - la sécurisation des logiciels, plateformes et processus de développement dans le cadre du
     Customer Security Programme (CSP) SWIFT,
-  - la mise en place de tableaux de bord métier avec Kibana.
+  - la mise en place de tableaux de bord métier (Kibana).
 - Automatisation du déploiement des 30+ serveurs Linux / 100+ services (Ansible).
 - Maintien en condition opérationnelle et sécurisation des serveurs et des services.
 - Amélioration et maintenance de l’outillage utilisé par les développeurs / SysOps.
@@ -54,7 +53,7 @@ translated_title: English version
 
 #### Développeur, [Alsyon Technologies](https://www.cambonpartners.com/en/transactions/none-none-62) (avr. 2011 - juil. 2014)
 
-- Domaine de la trésorerie d’entreprise, au sein d’une équipe de 10 personnes.
+- Au sein d’une équipe de 10 personnes, domaine de la trésorerie d’entreprise.
 - Développement d’une suite logicielle de sécurisation des pouvoirs bancaires et de gestion des flux
   bancaires pour les grandes entreprises, dont notamment :
   - des fonctionnalités autour de la communication bancaire ([certification SWIFT](https://www.swift.com/swift-resource/164791/download),
@@ -67,13 +66,13 @@ translated_title: English version
 
 #### Développeur, [Weka](https://www.linkedin.com/company/weka-france/)/[Excilys](https://www.linkedin.com/company/groupe-excilys/) (avr. 2010 - mars 2011)
 
-- Domaine de la formation professionnelle, au sein d’une équipe de 10 personnes.
+- Au sein d’une équipe de 10 personnes, domaine de la formation professionnelle.
 - Développement de plateformes web hébergeant le contenu de formation.
 - Environnement : Java, Spring, HTML, CSS, SQL.
 
 #### Développeur junior, [AOL](https://www.linkedin.com/company/aol/)/[Excilys](https://www.linkedin.com/company/groupe-excilys/) (nov. 2007 - mars 2010)
 
-- Domaine de la publicité et des médias, au sein d’une équipe de 30 personnes.
+- Au sein d’une équipe de 30 personnes, domaine de la publicité et des médias.
 - Maintenance et fermeture des sites du portail Web d’AOL France.
 - Environnement : Java, Spring, HTML, CSS, Hibernate.
 
