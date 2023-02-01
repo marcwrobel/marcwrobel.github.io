@@ -62,6 +62,13 @@ links:
     order: 5
     icon: search
     rel: search
+  - title: Paris
+    url: https://goo.gl/maps/rtBCLVhkKVUJbnNN9
+    home: false
+    about: true
+    menu: false
+    order: 6
+    icon: geo-alt-fill
   - title: À propos
     url: /a-propos
     home: true
@@ -69,7 +76,7 @@ links:
     menu: false
     order: 7
     icon: person-vcard-fill
-    rel: author
+    rel: me
   - title: Github
     url: https://github.com/marcwrobel
     home: true
