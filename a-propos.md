@@ -30,7 +30,7 @@ translated_title: English version
   - automatisation du déploiement (Ansible, Docker, CI/CD).
 - Management d’équipe (4 développeurs).
 - Maintien en condition opérationnelle de serveurs Windows.
-- Mots-clés : Java, Spring Boot, Angular, Typescript, HTML, CSS, Keycloak, PostgreSQL, Docker,
+- Environnement : Java, Spring Boot, Angular, Typescript, HTML, CSS, Keycloak, PostgreSQL, Docker,
   Ansible, Linux, Windows, GitLab CI/CD, Azure DevOps, SonarQube, Nexus, Artifactory, Black Duck,
   Confluence, Jira, Scrum.
 
@@ -49,7 +49,7 @@ translated_title: English version
 - Maintien en condition opérationnelle et sécurisation des serveurs et des services.
 - Amélioration et maintenance de l’outillage utilisé par les développeurs / SysOps.
 - Mentorat de développeurs / SysOps.
-- Mots-clés : Java, Spring, Spring Boot, Groovy, Grails, Angular, HTML, CSS, PostgreSQL, Docker,
+- Environnement : Java, Spring, Spring Boot, Groovy, Grails, Angular, HTML, CSS, PostgreSQL, Docker,
   Linux, Ansible, Stack Elastic (ELK), GitLab CI/CD, SonarQube, Nexus, Confluence, Jira.
 
 #### Développeur, [Alsyon Technologies](https://www.cambonpartners.com/en/transactions/none-none-62) (avr. 2011 - juil. 2014)
@@ -62,26 +62,26 @@ translated_title: English version
   - une solution de gestion des mandats et des prélèvements SEPA.
 - Migration de la suite logicielle vers le SaaS.
 - Maintenance de l’outillage utilisé par les développeurs.
-- Mots-clés : Java, Spring, Groovy, Grails, HTML, CSS, PostgreSQL, Linux, Bash, Jenkins, SonarQube,
+- Environnement : Java, Spring, Groovy, Grails, HTML, CSS, PostgreSQL, Linux, Bash, Jenkins, SonarQube,
   Archiva, Confluence.
 
 #### Développeur, [Weka](https://www.linkedin.com/company/weka-france/)/[Excilys](https://www.linkedin.com/company/groupe-excilys/) (avr. 2010 - mars 2011)
 
 - Domaine de la formation professionnelle, au sein d’une équipe de 10+ personnes.
 - Développement de plateformes web hébergeant le contenu de formation.
-- Mots-clés : Java, Spring, HTML, CSS, SQL.
+- Environnement : Java, Spring, HTML, CSS, SQL.
 
 #### Développeur junior, [AOL](https://www.linkedin.com/company/aol/)/[Excilys](https://www.linkedin.com/company/groupe-excilys/) (nov. 2007 - mars 2010)
 
 - Domaine de la publicité et des médias, au sein d’une équipe de 30+ personnes.
 - Maintenance et fermeture des sites du portail Web d’AOL France.
-- Mots-clés : Java, Spring, HTML, CSS, Hibernate.
+- Environnement : Java, Spring, HTML, CSS, Hibernate.
 
 #### Développeur junior (Stage), [Excilys](https://www.linkedin.com/company/groupe-excilys/) (avr. 2007 - sept. 2007)
 
 - Développement du logiciel interne de gestion des congés / feuilles de temps.
 - Réalisation de tests de charge sur les sites du portail Web d’AOL France.
-- Mots-clés : Java EE, JSP, JPA, HTML, CSS, SQL, JMeter.
+- Environnement : Java EE, JSP, JPA, HTML, CSS, SQL, JMeter.
 
 ## Éducation
 
