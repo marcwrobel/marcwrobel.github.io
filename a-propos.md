@@ -82,7 +82,7 @@ translated_title: English version
 - Réalisation de tests de charge sur les sites du portail Web d’AOL France.
 - Environnement : Java EE, JSP, JPA, HTML, CSS, SQL, JMeter.
 
-## Éducation
+## Formation
 
 - Master Professionnel Ingénierie Logiciel pour l’Internet
   ([ILI](https://www.cril.univ-artois.fr/master/ili/m2proili-home.html)), Mention Bien, Université
