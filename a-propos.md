@@ -27,7 +27,7 @@ translated_title: English version
   - recrutement et montée en compétences des développeurs,
   - définition de l’architecture et des pratiques de développement,
   - développement du back-end (Spring Boot) et du front-end (Angular),
-  - automatisation du déploiement (Ansible, Docker, CI/CD).
+  - automatisation du déploiement (Linux, Ansible, Docker, CI/CD).
 - Management d’équipe (4 développeurs).
 - Maintien en condition opérationnelle de serveurs Windows.
 - Environnement : Java, Spring Boot, Angular, Typescript, HTML, CSS, Keycloak, PostgreSQL, Docker,
