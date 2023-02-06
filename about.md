@@ -16,20 +16,75 @@ translated_title: Version française
 
 ## Experience
 
-- Lead developer, [Cegid](https://www.linkedin.com/company/cegid/) (Jan 2020 — Jul 2022)
-- Senior developer / DevOps, [ACA](https://www.cegid.com/fr/presse/cegid-confirme-lacquisition-daca/) (Aug 2014 — Dec 2019)
-- Developer, [Alsyon Technologies](https://www.cambonpartners.com/en/transactions/none-none-62) (oct. 2011 - déc. 2014)
-- Java consultant, [Excilys](https://www.linkedin.com/company/groupe-excilys/) (avr. 2007 - sept. 2011)
-  - [Alsyon Technologies](https://www.linkedin.com/company/alsyon-technologies) (avr. 2011 - sept. 2014),
-  - [Weka](https://www.linkedin.com/company/weka-france/) (avr. 2010 - mars 2011),
-  - [AOL](https://www.linkedin.com/company/aol/) (juin 2007 - mars 2010),
-  - [Excilys](https://www.linkedin.com/company/groupe-excilys/) (avr. 2007 - mai 2007).
+#### Career Break (Aug 2022 - Jan 2023)
+
+Family, travel, rest.
+
+#### Lead developer, [Cegid](https://www.linkedin.com/company/cegid/) (Jan 2020 — Jul 2022)
+
+As part of an agile team of 4 people, in the field of corporate treasury:
+
+- Development of a new medium-term cash flow forecasting application (architecture, development
+  practices, back-end/front-end development, automation, recruitment and mentoring),
+- Team management.
+
+Environment: Java, Spring Boot, Angular, Typescript, HTML, CSS, Maven, Keycloak, PostgreSQL, Docker,
+Ansible, Linux, GitLab CI/CD, Azure DevOps, SonarQube, Nexus, Artifactory, Black Duck, Confluence,
+Jira, Scrum.
+
+#### Senior developer / DevOps, [ACA](https://www.cegid.com/fr/presse/cegid-confirme-lacquisition-daca/) (Jan 2015 — Dec 2019)
+
+As part of a team of 15 people, in the field of corporate treasury:
+
+- Development of a [cash flow management software suite](https://www.cegid.com/fr/produits/cegid-treasury/)
+  used by large companies.
+- Automation of the deployment of 30+ Linux servers / 100+ services (Ansible).
+- Keep servers and services running and secure.
+- Improvement and maintenance of the tools used by the developers / SysOps.
+- Mentoring of developers / SysOps.
+
+Environment: Java, Spring, Spring Boot, Groovy, Grails, Angular, HTML, CSS, Maven, PostgreSQL,
+Docker, Linux, Ansible, Stack Elastic (ELK), GitLab CI/CD, SonarQube, Nexus, Confluence, Jira.
+
+#### Developer, [Alsyon Technologies](https://www.cambonpartners.com/en/transactions/none-none-62) (Oct 2011 - Dec 2014)
+
+As part of a team of 10 people, in the field of corporate treasury:
+
+- Development of a cash flow management software suite used by large companies, including:
+  - features around banking communication
+    ([SWIFT certification](https://www.swift.com/about-us/swift-partner-programme/find-partner/swift-compatible-interface-programme),
+    [FileAct](https://www.swift.com/our-solutions/global-financial-messaging/fileact),
+    [FIN](https://www.swift.com/our-solutions/global-financial-messaging/fin),
+    [EBICS](https://fr.wikipedia.org/wiki/Electronic_Banking_Internet_Communication_Standard),
+    [3SKey](https://www.swift.com/our-solutions/corporates/control/order-3skey)…),
+  - a solution for managing SEPA mandates and direct debits.
+- Migration of the software suite to the SaaS model.
+- Maintenance of the tools used by the developers.
+
+Environment: Java, Spring, Groovy, Grails, HTML, CSS, Maven, PostgreSQL, Linux, Bash, Jenkins,
+SonarQube, Archiva, Confluence.
+
+#### Java consultant, [Excilys](https://www.linkedin.com/company/groupe-excilys/) (Apr 2007 - Sep 2011)
+
+Several jobs as a junior Java developer:
+
+- [Alsyon Technologies](https://www.linkedin.com/company/alsyon-technologies) (Apr 2011 - Sep 2011) -
+  Migration of a legacy Delphi software suite to Java.
+- [Weka](https://www.linkedin.com/company/weka-france/) (Apr 2010 - Mar 2011) - Development of
+  professional training platforms.
+- [AOL](https://www.linkedin.com/company/aol/) (Nov 2007 - Mar 2010) - Maintenance of the AOL
+  France Web portal.
+- [AOL](https://www.linkedin.com/company/aol/) (Jul 2007 - Sep 2007) - Load test of the AOL
+  France Web portal.
+- [Excilys](https://www.linkedin.com/company/groupe-excilys/) (Apr 2007 - Jun 2007) - Développement
+  du logiciel de gestion des congés / feuilles de temps.
+
+Environment : Java, Java EE, Spring, Hibernate, HTML, CSS, SQL, Maven, JMeter.
 
 ## Education
 
-- Master Professionnel Ingénierie Logiciel pour l’Internet
-  ([ILI](https://www.cril.univ-artois.fr/master/ili/m2proili-home.html)), Mention Bien, Université
-  Jean Perrin, Lens (2007),
+- Master Professionnel [ILI](https://www.cril.univ-artois.fr/master/ili/m2proili-home.html),
+  Université d'Artois, Lens (2007),
 - Languages: French (native), English (professional).
 
 ## Projects
