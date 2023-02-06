@@ -32,7 +32,7 @@ Au sein d’une équipe agile de 4 personnes, dans le domaine de la trésorerie 
   - recrutement et montée en compétences des développeurs.
 - Management d’équipe.
 
-Environnement : Java, Spring Boot, Angular, Typescript, HTML, CSS, Keycloak, PostgreSQL, Docker,
+Environnement : Java, Spring Boot, Angular, Typescript, HTML, CSS, Maven, Keycloak, PostgreSQL, Docker,
 Ansible, Linux, GitLab CI/CD, Azure DevOps, SonarQube, Nexus, Artifactory, Black Duck, Confluence,
 Jira, Scrum.
 
@@ -40,12 +40,12 @@ Jira, Scrum.
 
 Au sein d’une équipe de 15 personnes, dans le domaine de la trésorerie d’entreprise :
 
-- Développement d’une [suite logicielle](https://www.cegid.com/fr/produits/cegid-treasury/) de
-  gestion opérationnelle des flux de trésorerie pour les grandes entreprises, dont notamment :
+- Développement d’une [suite logicielle de gestion opérationnelle des flux de trésorerie](https://www.cegid.com/fr/produits/cegid-treasury/)
+  pour les grandes entreprises, dont notamment :
   - des fonctionnalités autour des pouvoirs bancaires, de la signature électronique et de
     l’authentification,
   - la sécurisation des logiciels, plateformes et processus de développement dans le cadre du
-    [Customer Security Programme (CSP)](https://www.swift.com/myswift/customer-security-programme-csp)
+    [Customer Security Programme](https://www.swift.com/myswift/customer-security-programme-csp) de
     SWIFT,
   - la mise en place de tableaux de bord métier (Kibana).
 - Automatisation du déploiement des 30+ serveurs Linux / 100+ services (Ansible).
@@ -53,15 +53,15 @@ Au sein d’une équipe de 15 personnes, dans le domaine de la trésorerie d’e
 - Amélioration et maintenance de l’outillage utilisé par les développeurs / SysOps.
 - Mentorat de développeurs / SysOps.
 
-Environnement : Java, Spring, Spring Boot, Groovy, Grails, Angular, HTML, CSS, PostgreSQL, Docker,
-Linux, Ansible, Stack Elastic (ELK), GitLab CI/CD, SonarQube, Nexus, Confluence, Jira.
+Environnement : Java, Spring, Spring Boot, Groovy, Grails, Angular, HTML, CSS, Maven, PostgreSQL,
+Docker, Linux, Ansible, Stack Elastic (ELK), GitLab CI/CD, SonarQube, Nexus, Confluence, Jira.
 
 #### Développeur, [Alsyon Technologies](https://www.cambonpartners.com/en/transactions/none-none-62) (oct. 2011 - déc. 2014)
 
 Au sein d’une équipe de 10 personnes, dans le domaine de la trésorerie d’entreprise :
 
-- Développement d’une suite logicielle de sécurisation des pouvoirs bancaires et de gestion des flux
-  bancaires pour les grandes entreprises, dont notamment :
+- Développement d’une suite logicielle de gestion des flux bancaires pour les grandes entreprises,
+  dont notamment :
   - des fonctionnalités autour de la communication bancaire
     ([certification SWIFT](https://www.swift.com/about-us/swift-partner-programme/find-partner/swift-compatible-interface-programme),
     [FileAct](https://www.swift.com/our-solutions/global-financial-messaging/fileact),
@@ -69,29 +69,29 @@ Au sein d’une équipe de 10 personnes, dans le domaine de la trésorerie d’e
     [EBICS](https://fr.wikipedia.org/wiki/Electronic_Banking_Internet_Communication_Standard),
     [3SKey](https://www.swift.com/our-solutions/corporates/control/order-3skey)…),
   - une solution de gestion des mandats et des prélèvements SEPA.
-- Migration de la suite logicielle vers le SaaS.
+- Migration de la suite logicielle vers le modèle SaaS.
 - Maintenance de l’outillage utilisé par les développeurs.
 
-Environnement : Java, Spring, Groovy, Grails, HTML, CSS, PostgreSQL, Linux, Bash, Jenkins,
+Environnement : Java, Spring, Groovy, Grails, HTML, CSS, Maven, PostgreSQL, Linux, Bash, Jenkins,
 SonarQube, Archiva, Confluence.
 
 #### Consultant Java, [Excilys](https://www.linkedin.com/company/groupe-excilys/) (avr. 2007 - sept. 2011)
 
 Plusieurs missions en tant que développeur Java junior :
 
-- [Alsyon Technologies](https://www.linkedin.com/company/alsyon-technologies) (avr. 2011 - sept. 2014) -
+- [Alsyon Technologies](https://www.linkedin.com/company/alsyon-technologies) (avr. 2011 - sept. 2011) -
   Migration vers Java d’une suite logicielle dédiée à la gestion des flux bancaires pour les grandes
   entreprises.
 - [Weka](https://www.linkedin.com/company/weka-france/) (avr. 2010 - mars 2011) - Développement de
   plateformes de formation professionnelle.
 - [AOL](https://www.linkedin.com/company/aol/) (nov. 2007 - mars 2010) - Maintenance des sites du
   portail Web d’AOL France.
-- [AOL](https://www.linkedin.com/company/aol/) (juin 2007 - sept. 2007) - Tests de charge sur les
+- [AOL](https://www.linkedin.com/company/aol/) (juil. 2007 - sept. 2007) - Tests de charge sur les
   sites du portail Web d’AOL France.
-- [Excilys](https://www.linkedin.com/company/groupe-excilys/) (avr. 2007 - mai 2007) - Développement
+- [Excilys](https://www.linkedin.com/company/groupe-excilys/) (avr. 2007 - juin 2007) - Développement
   du logiciel de gestion des congés / feuilles de temps.
 
-Environnement : Java, Java EE, Spring, Hibernate, HTML, CSS, SQL, JMeter.
+Environnement : Java, Java EE, Spring, Hibernate, HTML, CSS, SQL, Maven, JMeter.
 
 ## Formation
 
