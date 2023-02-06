@@ -75,9 +75,9 @@ Au sein d’une équipe de 10 personnes, dans le domaine de la trésorerie d’e
 Environnement : Java, Spring, Groovy, Grails, HTML, CSS, PostgreSQL, Linux, Bash, Jenkins,
 SonarQube, Archiva, Confluence.
 
-#### Développeur junior, [Excilys](https://www.linkedin.com/company/groupe-excilys/) (avr. 2007 - sept. 2011)
+#### Consultant Java, [Excilys](https://www.linkedin.com/company/groupe-excilys/) (avr. 2007 - sept. 2011)
 
-Plusieurs missions en tant que consultant en développement Java :
+Plusieurs missions en tant que développeur Java junior :
 
 - [Alsyon Technologies](https://www.linkedin.com/company/alsyon-technologies) (avr. 2011 - sept. 2014) -
   Migration vers Java d’une suite logicielle dédiée à la gestion des flux bancaires pour les grandes
@@ -105,9 +105,10 @@ Environnement : Java, Java EE, Spring, Hibernate, HTML, CSS, SQL, JMeter.
 - Auteur de [www.marcwrobel.fr](https://www.marcwrobel.fr/), un blog où je consigne notamment les
   découvertes faites lors de ma veille technologique.
 - Créateur de [jbanking](https://github.com/marcwrobel/jbanking), une librairie Java qui aide au
-  développement de fonctionnalités liées au monde bancaire, et de
-  [lcc-slack-bot](https://github.com/lescastcodeurs/lcc-slack-bot), un bot Slack qui automatise la
-  création des notes des épisodes du podcast [Les Cast Codeurs](https://lescastcodeurs.com/).
+  développement de fonctionnalités liées au monde bancaire.
+- Créateur de [lcc-slack-bot](https://github.com/lescastcodeurs/lcc-slack-bot), un bot Slack qui
+  automatise la création des notes des épisodes du podcast
+  [Les Cast Codeurs](https://lescastcodeurs.com/).
 - [Contributeur](https://github.com/marcwrobel) à divers projets open source, tels
   que [endoflife.date](https://github.com/endoflife-date/endoflife.date) ou
   [asdf](https://github.com/asdf-community).
