@@ -8,7 +8,8 @@ layout: default
     <div class="col-sm-12 col-lg-10 py-3 mx-auto">
       <article itemscope itemtype="https://schema.org/Person">
         <header class="text-center">
-          <h1 itemprop="name">Marc Wrobel</h1>
+          <h1 itemprop="name" class="mb-0">{{ author.name }}</h1>
+          <small class="h5">{{ page.subtitle }}</small>
 
           {%- assign icon_size = "1" -%}
           {%- assign show_text = true -%}

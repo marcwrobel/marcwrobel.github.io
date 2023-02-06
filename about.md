@@ -3,6 +3,7 @@ layout: about-me
 title: About
 permalink: /about
 lang: en
+subtitle: Senior developer / DevOps
 translated_page: /a-propos
 translated_title: Version française
 ---
