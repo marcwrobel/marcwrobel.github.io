@@ -40,12 +40,13 @@ Jira, Scrum.
 
 Au sein d’une équipe de 15 personnes, dans le domaine de la trésorerie d’entreprise :
 
-- Développement et maintenance d’une suite logicielle de gestion opérationnelle des flux de
-  trésorerie pour les grandes entreprises, dont notamment :
+- Développement d’une [suite logicielle](https://www.cegid.com/fr/produits/cegid-treasury/) de
+  gestion opérationnelle des flux de trésorerie pour les grandes entreprises, dont notamment :
   - des fonctionnalités autour des pouvoirs bancaires, de la signature électronique et de
     l’authentification,
   - la sécurisation des logiciels, plateformes et processus de développement dans le cadre du
-    Customer Security Programme (CSP) SWIFT,
+    [Customer Security Programme (CSP)](https://www.swift.com/myswift/customer-security-programme-csp)
+    SWIFT,
   - la mise en place de tableaux de bord métier (Kibana).
 - Automatisation du déploiement des 30+ serveurs Linux / 100+ services (Ansible).
 - Maintien en condition opérationnelle et sécurisation des serveurs et des services.
@@ -61,8 +62,12 @@ Au sein d’une équipe de 10 personnes, dans le domaine de la trésorerie d’e
 
 - Développement d’une suite logicielle de sécurisation des pouvoirs bancaires et de gestion des flux
   bancaires pour les grandes entreprises, dont notamment :
-  - des fonctionnalités autour de la communication bancaire ([certification SWIFT](https://www.swift.com/swift-resource/164791/download),
-    FileAct, FIN, EBICS, 3SKey...),
+  - des fonctionnalités autour de la communication bancaire
+    ([certification SWIFT](https://www.swift.com/about-us/swift-partner-programme/find-partner/swift-compatible-interface-programme),
+    [FileAct](https://www.swift.com/our-solutions/global-financial-messaging/fileact),
+    [FIN](https://www.swift.com/our-solutions/global-financial-messaging/fin),
+    [EBICS](https://fr.wikipedia.org/wiki/Electronic_Banking_Internet_Communication_Standard),
+    [3SKey](https://www.swift.com/our-solutions/corporates/control/order-3skey)…),
   - une solution de gestion des mandats et des prélèvements SEPA.
 - Migration de la suite logicielle vers le SaaS.
 - Maintenance de l’outillage utilisé par les développeurs.
