@@ -23,19 +23,18 @@ Repos, famille, voyages.
 
 #### Lead développeur, [Cegid](https://www.linkedin.com/company/cegid/) (janv. 2020 - juil. 2022)
 
-Au sein d’une équipe agile de 8 personnes, dans le domaine de la trésorerie d’entreprise :
+Au sein d’une équipe agile de 4 personnes, dans le domaine de la trésorerie d’entreprise :
 
 - Création d’une nouvelle application de gestion des prévisions de trésorerie moyen terme :
   - définition de l’architecture et des pratiques de développement,
   - développement du back-end (Spring Boot) et du front-end (Angular),
   - automatisation du déploiement (Linux, Ansible, Docker, CI/CD),
   - recrutement et montée en compétences des développeurs.
-- Management d’équipe (4 développeurs).
-- Maintien en condition opérationnelle de serveurs Windows.
+- Management d’équipe.
 
 Environnement : Java, Spring Boot, Angular, Typescript, HTML, CSS, Keycloak, PostgreSQL, Docker,
-Ansible, Linux, Windows, GitLab CI/CD, Azure DevOps, SonarQube, Nexus, Artifactory, Black Duck,
-Confluence, Jira, Scrum.
+Ansible, Linux, GitLab CI/CD, Azure DevOps, SonarQube, Nexus, Artifactory, Black Duck, Confluence,
+Jira, Scrum.
 
 #### Développeur senior / DevOps, [ACA](https://www.cegid.com/fr/presse/cegid-confirme-lacquisition-daca/) (janv. 2015 - déc. 2019)
 
