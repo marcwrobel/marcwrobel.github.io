@@ -18,7 +18,7 @@ translated_title: English version
 
 #### Pause professionnelle (août. 2022 - janv. 2023)
 
-Repos, voyages, temps en famille, loisirs…
+Repos, famille, voyages.
 
 #### Lead développeur, [Cegid](https://www.linkedin.com/company/cegid/) (janv. 2020 - juil. 2022)
 
