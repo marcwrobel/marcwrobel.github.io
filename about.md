@@ -28,9 +28,8 @@ As part of an agile team of 4 people, in the field of corporate treasury:
   practices, back-end/front-end development, automation, recruitment and mentoring),
 - Team management.
 
-Environment: Java, Spring Boot, Angular, Typescript, HTML, CSS, Maven, Keycloak, PostgreSQL, Docker,
-Ansible, Linux, GitLab CI/CD, Azure DevOps, SonarQube, Nexus, Artifactory, Black Duck, Confluence,
-Jira, Scrum.
+Environment: Java, Spring Boot, Angular, Bootstrap, Keycloak, PostgreSQL, Docker,
+Ansible, Linux, GitLab CI/CD, Azure DevOps, Scrum.
 
 #### Senior developer / DevOps, [ACA](https://www.cegid.com/fr/presse/cegid-confirme-lacquisition-daca/) (Jan 2015 — Dec 2019)
 
@@ -43,8 +42,8 @@ As part of a team of 15 people, in the field of corporate treasury:
 - Improvement and maintenance of the tools used by the developers / SysOps.
 - Mentoring of developers / SysOps.
 
-Environment: Java, Spring, Spring Boot, Groovy, Grails, Angular, HTML, CSS, Maven, PostgreSQL,
-Docker, Linux, Ansible, Stack Elastic (ELK), GitLab CI/CD, SonarQube, Nexus, Confluence, Jira.
+Environment: Java, Spring, Groovy, Grails, Angular, Bootstrap, PostgreSQL, Docker, Linux,
+Ansible, GitLab CI/CD, Confluence, Jira.
 
 #### Developer, [Alsyon Technologies](https://www.cambonpartners.com/en/transactions/none-none-62) (Oct 2011 - Dec 2014)
 
@@ -61,8 +60,7 @@ As part of a team of 10 people, in the field of corporate treasury:
 - Migration of the software suite to the SaaS model.
 - Maintenance of the tools used by the developers.
 
-Environment: Java, Spring, Groovy, Grails, HTML, CSS, Maven, PostgreSQL, Linux, Bash, Jenkins,
-SonarQube, Archiva, Confluence.
+Environment: Java, Spring, Groovy, Grails, PostgreSQL, Linux, Bash, Jenkins, Git, Confluence.
 
 #### Java consultant, [Excilys](https://www.linkedin.com/company/groupe-excilys/) (Apr 2007 - Sep 2011)
 
@@ -75,11 +73,11 @@ Several jobs as a junior Java developer:
 - [AOL](https://www.linkedin.com/company/aol/) (Nov 2007 - Mar 2010) - Maintenance of the AOL
   France Web portal.
 - [AOL](https://www.linkedin.com/company/aol/) (Jul 2007 - Sep 2007) - Load test of the AOL
-  France Web portal.
+  France Web portal (JMeter).
 - [Excilys](https://www.linkedin.com/company/groupe-excilys/) (Apr 2007 - Jun 2007) - Développement
   du logiciel de gestion des congés / feuilles de temps.
 
-Environment : Java, Java EE, Spring, Hibernate, HTML, CSS, SQL, Maven, JMeter.
+Environment : Java, Java EE, Spring, Hibernate, HTML, CSS, SQL, Maven.
 
 ## Education
 

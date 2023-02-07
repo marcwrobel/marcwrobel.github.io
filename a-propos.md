@@ -32,9 +32,8 @@ Au sein d’une équipe agile de 4 personnes, dans le domaine de la trésorerie 
   - recrutement et montée en compétences des développeurs.
 - Management d’équipe.
 
-Environnement : Java, Spring Boot, Angular, Typescript, HTML, CSS, Maven, Keycloak, PostgreSQL, Docker,
-Ansible, Linux, GitLab CI/CD, Azure DevOps, SonarQube, Nexus, Artifactory, Black Duck, Confluence,
-Jira, Scrum.
+Environnement : Java, Spring Boot, Angular, Bootstrap, Keycloak, PostgreSQL, Docker,
+Ansible, Linux, GitLab CI/CD, Azure DevOps, Scrum.
 
 #### Développeur senior / DevOps, [ACA](https://www.cegid.com/fr/presse/cegid-confirme-lacquisition-daca/) (janv. 2015 - déc. 2019)
 
@@ -47,14 +46,14 @@ Au sein d’une équipe de 15 personnes, dans le domaine de la trésorerie d’e
   - la sécurisation des logiciels, plateformes et processus de développement dans le cadre du
     [Customer Security Programme](https://www.swift.com/myswift/customer-security-programme-csp) de
     SWIFT,
-  - la mise en place de tableaux de bord métier (Kibana).
+  - la mise en place de tableaux de bord métier (ELK).
 - Automatisation du déploiement des 30+ serveurs Linux / 100+ services (Ansible).
 - Maintien en condition opérationnelle et sécurisation des serveurs et des services.
 - Amélioration et maintenance de l’outillage utilisé par les développeurs / SysOps.
 - Mentorat de développeurs / SysOps.
 
-Environnement : Java, Spring, Spring Boot, Groovy, Grails, Angular, HTML, CSS, Maven, PostgreSQL,
-Docker, Linux, Ansible, Stack Elastic (ELK), GitLab CI/CD, SonarQube, Nexus, Confluence, Jira.
+Environnement : Java, Spring, Groovy, Grails, Angular, Bootstrap, PostgreSQL, Docker, Linux,
+Ansible, GitLab CI/CD, Confluence, Jira.
 
 #### Développeur, [Alsyon Technologies](https://www.cambonpartners.com/en/transactions/none-none-62) (oct. 2011 - déc. 2014)
 
@@ -72,8 +71,7 @@ Au sein d’une équipe de 10 personnes, dans le domaine de la trésorerie d’e
 - Migration de la suite logicielle vers le modèle SaaS.
 - Maintenance de l’outillage utilisé par les développeurs.
 
-Environnement : Java, Spring, Groovy, Grails, HTML, CSS, Maven, PostgreSQL, Linux, Bash, Jenkins,
-SonarQube, Archiva, Confluence.
+Environnement : Java, Spring, Groovy, Grails, PostgreSQL, Linux, Bash, Jenkins, Confluence.
 
 #### Consultant Java, [Excilys](https://www.linkedin.com/company/groupe-excilys/) (avr. 2007 - sept. 2011)
 
@@ -87,11 +85,11 @@ Plusieurs missions en tant que développeur Java junior :
 - [AOL](https://www.linkedin.com/company/aol/) (nov. 2007 - mars 2010) - Maintenance des sites du
   portail Web d’AOL France.
 - [AOL](https://www.linkedin.com/company/aol/) (juil. 2007 - sept. 2007) - Tests de charge sur les
-  sites du portail Web d’AOL France.
+  sites du portail Web d’AOL France (JMeter).
 - [Excilys](https://www.linkedin.com/company/groupe-excilys/) (avr. 2007 - juin 2007) - Développement
   du logiciel de gestion des congés / feuilles de temps.
 
-Environnement : Java, Java EE, Spring, Hibernate, HTML, CSS, SQL, Maven, JMeter.
+Environnement : Java, Java EE, Spring, Hibernate, HTML, CSS, SQL, Maven.
 
 ## Formation
 
