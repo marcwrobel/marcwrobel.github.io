@@ -8,12 +8,23 @@ translated_page: /about
 translated_title: English version
 ---
 
-## En résumé
+## À propos
 
-- 15 ans d’expérience en développement d’applications web et back-end, principalement en Java.
-- Une bonne connaissance des outils et pratiques DevOps.
-- Des compétences en administration système Linux (installation, configuration, supervision,
-  scripting…).
+Développeur depuis plus de 15 ans, j'ai eu l'opportunité d'intervenir sur plusieurs applications web
+et back-end, de leur conception jusqu'à leur exploitation en production. J'ai acquis grâce à ces
+expériences une bonne connaissance de l'écosystème Java, des outils et pratiques DevOps, et de
+l'administration système Linux.
+
+J'apprécie le travail en équipe, les échanges avec le métier et le partage des connaissances (mentorer et être mentoré).
+J'aime aussi beaucoup l'automatisation sous toutes ses formes (scripting, CI/CD, configuration as code…).
+
+Après une dizaine d'années passées dans le domaine de la trésorerie d'entreprise, je suis prêt à me
+lancer dans une nouvelle aventure professionnelle. Je recherche un poste de développeur senior en
+région parisienne et dans une équipe à taille humaine. La possibilité d'évoluer vers un poste de
+lead développeur ou de contributeur individuel serait un gros plus. J'ai principalement développé
+sur une stack Java/Spring/PostgreSQL, mais je ne suis pas religieux à ce sujet. Donc n'hésitez pas
+à me contacter pour en discuter !
+
 
 ## Expériences
 
