@@ -10,19 +10,18 @@ translated_title: English version
 
 ## À propos
 
-Développeur depuis plus de 15 ans, j'ai eu l'opportunité d'intervenir sur plusieurs applications web
-et back-end, de leur conception jusqu'à leur exploitation en production. J'ai acquis grâce à ces
-expériences une bonne connaissance de l'écosystème Java, des outils et pratiques DevOps, et de
-l'administration système Linux.
+Développeur depuis plus de quinze ans, dont une dizaine d'années passées dans le domaine de la
+trésorerie d'entreprise, j'ai eu l'occasion d'intervenir sur toutes les étapes de construction
+d'applications web et back-end. Grâce à ces expériences, j'ai acquis une bonne connaissance de
+l'écosystème Java, des outils et pratiques DevOps, de l'administration système Linux, ainsi qu'une
+sensibilité à la sécurisation des applications.
 
-J'apprécie le travail en équipe, les échanges avec le métier et le partage des connaissances (mentorer et être mentoré).
-J'aime aussi beaucoup l'automatisation sous toutes ses formes (scripting, CI/CD, configuration as code…).
+Rigoureux et volontaire, j'ai le sens du collectif et j'apprécie beaucoup le travail en équipe afin
+de mener à bien les missions qui nous sont confiées. Je sais aussi me montrer force de proposition
+quand il le faut et j'aime partager mes connaissances.
 
-Après une dizaine d'années passées dans le domaine de la trésorerie d'entreprise, je suis prêt à me
-lancer dans une nouvelle aventure professionnelle. Je recherche un poste de développeur senior en
-région parisienne et dans une équipe à taille humaine. La possibilité d'évoluer vers un poste de
-lead développeur ou de contributeur individuel serait un gros plus. J'ai principalement développé
-sur une stack Java/Spring/PostgreSQL, mais je ne suis pas religieux à ce sujet. Donc n'hésitez pas
+Je recherche un poste de développeur senior dans une équipe à taille humaine en région parisienne.
+J'ai principalement développé en Java mais je ne suis pas religieux à ce sujet, donc n'hésitez pas
 à me contacter pour en discuter !
 
 
