@@ -10,18 +10,18 @@ translated_title: English version
 
 ## À propos
 
-Développeur depuis plus de quinze ans, dont une dizaine d'années passées dans le domaine de la
-trésorerie d'entreprise, j'ai eu l'occasion d'intervenir sur toutes les étapes de construction
-d'applications web et back-end. Grâce à ces expériences, j'ai acquis une bonne connaissance de
-l'écosystème Java, des outils et pratiques DevOps, de l'administration système Linux, ainsi qu'une
+Développeur depuis plus de quinze ans, dont une dizaine d’années passées dans le domaine de la
+trésorerie d’entreprise, j’ai eu l’occasion d’intervenir sur toutes les étapes de construction
+d’applications web et back-end. Grâce à ces expériences, j’ai acquis une bonne connaissance de
+l’écosystème Java, des outils et pratiques DevOps, de l’administration système Linux, ainsi qu’une
 sensibilité à la sécurisation des applications.
 
-Rigoureux et volontaire, j'ai le sens du collectif et j'apprécie beaucoup le travail en équipe afin
+Rigoureux et volontaire, j’ai le sens du collectif et j’apprécie beaucoup le travail en équipe afin
 de mener à bien les missions qui nous sont confiées. Je sais aussi me montrer force de proposition
-quand il le faut et j'aime partager mes connaissances.
+quand il le faut et j’aime partager mes connaissances.
 
 Je recherche un poste de développeur senior dans une équipe à taille humaine en région parisienne.
-J'ai principalement développé en Java mais je ne suis pas religieux à ce sujet, donc n'hésitez pas
+J’ai principalement développé en Java mais je ne suis pas religieux à ce sujet, donc n’hésitez pas
 à me contacter pour en discuter !
 
 
@@ -105,7 +105,7 @@ Environnement : Java, Java EE, Spring, Hibernate, HTML, CSS, SQL, Maven.
 
 - Master Professionnel Ingénierie Logicielle pour l’Internet
   ([ILI](https://www.cril.univ-artois.fr/master/ili/m2proili-home.html)), Mention Bien, Université
-  d'Artois, Lens (2007),
+  d’Artois, Lens (2007),
 - Langues : Français (langue maternelle), Anglais (professionnel).
 
 ## Projets
