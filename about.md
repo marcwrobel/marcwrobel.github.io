@@ -8,11 +8,18 @@ translated_page: /a-propos
 translated_title: Version française
 ---
 
-## Summary
+## About me
 
-- 15+ years of experience developing web applications and back-ends, primarily in Java.
-- Good knowledge of DevOps tools and practices.
-- Linux system administration skills (installation, configuration, monitoring, scripting…).
+Developer for more than fifteen years, including a decade spent in the field of corporate treasury,
+I had the opportunity to intervene on all stages of building web and back-end applications. Thanks
+to these experiences, I acquired a good knowledge of the Java ecosystem, DevOps tools and practices,
+Linux system administration, as well as a sensitivity to application security.
+
+Rigorous and willing, I value teamwork a lot and I think it is what makes a project a success. I
+also know how to be a force of proposal when it is necessary and I like to share my knowledge.
+
+I am looking for a senior developer position in a human-sized team in the Paris area. I have mainly
+developed in Java but I'm not religious about it, so don't hesitate to contact me!
 
 ## Experience
 
