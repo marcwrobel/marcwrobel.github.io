@@ -21,8 +21,8 @@ layout: default
 
         {% if paginator.page == 1 -%}
         <div itemprop="creator" itemtype="https://schema.org/Person" class="d-none">
-          <label itemprop="name">{{ author.name }}</label>
-          <label itemprop="url">{{ author.url }}</label>
+          <span itemprop="name">{{ author.name }}</span>
+          <span itemprop="url">{{ author.url }}</span>
         </div>
 
         <div itemprop="abstract" class="text-center">
