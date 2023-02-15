@@ -80,11 +80,11 @@ Several jobs as a junior Java developer:
 - [AOL](https://www.linkedin.com/company/aol/) (Nov 2007 - Mar 2010) - Maintenance of the AOL
   France Web portal.
 - [AOL](https://www.linkedin.com/company/aol/) (Jul 2007 - Sep 2007) - Load test of the AOL
-  France Web portal (JMeter).
+  France Web portal.
 - [Excilys](https://www.linkedin.com/company/groupe-excilys/) (Apr 2007 - Jun 2007) - Développement
   du logiciel de gestion des congés / feuilles de temps.
 
-Environment : Java, Java EE, Spring, Hibernate, HTML, CSS, SQL, Maven.
+Environment : Java, Java EE, Spring, Hibernate, HTML, CSS, SQL, Maven, JMeter.
 
 ## Education
 

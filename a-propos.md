@@ -95,17 +95,16 @@ Plusieurs missions en tant que développeur Java junior :
 - [AOL](https://www.linkedin.com/company/aol/) (nov. 2007 - mars 2010) - Maintenance des sites du
   portail Web d’AOL France.
 - [AOL](https://www.linkedin.com/company/aol/) (juil. 2007 - sept. 2007) - Tests de charge sur les
-  sites du portail Web d’AOL France (JMeter).
+  sites du portail Web d’AOL France.
 - [Excilys](https://www.linkedin.com/company/groupe-excilys/) (avr. 2007 - juin 2007) - Développement
   du logiciel de gestion des congés / feuilles de temps.
 
-Environnement : Java, Java EE, Spring, Hibernate, HTML, CSS, SQL, Maven.
+Environnement : Java, Java EE, Spring, Hibernate, HTML, CSS, SQL, Maven, JMeter.
 
 ## Formation
 
-- Master Professionnel Ingénierie Logicielle pour l’Internet
-  ([ILI](https://www.cril.univ-artois.fr/master/ili/m2proili-home.html)), Mention Bien, Université
-  d’Artois, Lens (2007),
+- Master Professionnel [ILI](https://www.cril.univ-artois.fr/master/ili/m2proili-home.html), Mention
+  Bien, Université d’Artois, Lens (2007),
 - Langues : Français (langue maternelle), Anglais (professionnel).
 
 ## Projets
