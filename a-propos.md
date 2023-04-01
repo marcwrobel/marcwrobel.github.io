@@ -20,14 +20,14 @@ Rigoureux et volontaire, j’ai le sens du collectif et j’apprécie beaucoup l
 de mener à bien les missions qui nous sont confiées. Je sais aussi me montrer force de proposition
 quand il le faut et j’aime partager mes connaissances.
 
-Je recherche un poste de développeur senior dans une équipe à taille humaine en région parisienne.
-J’ai principalement développé en Java mais je ne suis pas religieux à ce sujet, donc n’hésitez pas
-à me contacter pour en discuter !
-
 
 ## Expériences
 
-#### Pause professionnelle (août. 2022 - janv. 2023)
+####  Ingénieur logiciel senior, [Mirakl](https://www.linkedin.com/company/mirakl/) (depuis avr. 2023)
+
+Environnement : Java, React, Spring Boot, jOOQ, Kafka, ElasticSearch, PostgreSQL, GitHub.
+
+#### Pause professionnelle (août. 2022 - mars 2023)
 
 Famille, voyages, repos.
 

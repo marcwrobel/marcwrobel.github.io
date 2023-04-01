@@ -18,12 +18,13 @@ Linux system administration, as well as a sensitivity to application security.
 Rigorous and willing, I value teamwork a lot and I think it is what makes a project a success. I
 also know how to be a force of proposal when it is necessary and I like to share my knowledge.
 
-I am looking for a senior developer position in a human-sized team in the Paris area. I have mainly
-developed in Java but I'm not religious about it, so don't hesitate to contact me!
-
 ## Experience
 
-#### Career Break (Aug 2022 - Jan 2023)
+####  Ingénieur logiciel senior, [Mirakl](https://www.linkedin.com/company/mirakl/) (since Apr 2023)
+
+Environment : Java, React, Spring Boot, jOOQ, Kafka, ElasticSearch, PostgreSQL, GitHub.
+
+#### Career Break (Aug 2022 - Mar 2023)
 
 Family, travel, rest.
 
