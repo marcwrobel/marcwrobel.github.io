@@ -23,12 +23,12 @@ Puis, avant d’ouvrir le moindre projet, installer ou activez les plugins suiva
 
 Puis configurer le comportement par défaut depuis l'onglet  _Customize_ (lien _All Settings_) de l'écran de démarrage :
 
-- décocher l'option _Reopen projects on startup_ dans _File | Settings | Appearance & Behavior | System Settings_,
-- cocher l’option _Enable annotation processing_ dans _File | Settings | Build, Execution, Deployment | Compiler | Annotation Processors_,
-- cocher _Add unambiguous import on the fly_ et _Optimize import on the fly_ dans _File | Settings | Editor | General | Auto Import_,
-- cocher _Ensure every saved file ends with a line break_ et _Remove trailing blank lines at the end of saved files_ dans _File | Settings | Editor | General_,
-- cocher _Change font size with Control+Mouse Wheel in_ dans _File | Settings | Editor | General_,
-- cocher _Transparent native-to-ascii conversion_ dans _File | Settings | Editor | File Encodings_,
-- ajouter _Français_ à la liste des langages dans _File | Settings | Editor | Natural Languages_.
+- décocher l'option _Reopen projects on startup_ dans _File \| Settings \| Appearance & Behavior \| System Settings_,
+- cocher l’option _Enable annotation processing_ dans _File \| Settings \| Build, Execution, Deployment \| Compiler \| Annotation Processors_,
+- cocher _Add unambiguous import on the fly_ et _Optimize import on the fly_ dans _File \| Settings \| Editor \| General \| Auto Import_,
+- cocher _Ensure every saved file ends with a line break_ et _Remove trailing blank lines at the end of saved files_ dans _File \| Settings \| Editor \| General_,
+- cocher _Change font size with Control+Mouse Wheel in_ dans _File \| Settings \| Editor \| General_,
+- cocher _Transparent native-to-ascii conversion_ dans _File \| Settings \| Editor \| File Encodings_,
+- ajouter _Français_ à la liste des langages dans _File \| Settings \| Editor \| Natural Languages_.
 
-Il faudra ensuite ouvrir un projet pour pouvoir configurer les SDK depuis _File | Project Structure_.
+Il faudra ensuite ouvrir un projet pour pouvoir configurer les SDK depuis _File \| Project Structure_.
