@@ -37,7 +37,7 @@ Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de
 - [What is OpenJDK?](https://www.azul.com/blog/what-is-openjdk/)
   — plein de chose.
 - [Formater son code avec Prettier-java](https://blog.ippon.fr/2021/09/20/formater-son-code-avec-prettier-java/)
-  — intéressant pour les projets qui utilisent plusieurs languages.
+  — intéressant pour les projets qui utilisent plusieurs langages.
 - [30 things you didn't know about the Linux kernel](https://opensource.com/article/21/8/linux-kernel)
   — 30 ans déjà !
 - [Does Your Organization Have a Security.txt File?](https://krebsonsecurity.com/2021/09/does-your-organization-have-a-security-txt-file/)

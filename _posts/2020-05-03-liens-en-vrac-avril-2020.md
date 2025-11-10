@@ -29,7 +29,7 @@ Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois d�
   les [release trains](https://en.wikipedia.org/wiki/Software_versioning#Release_train), et
   à [SemVer](https://semver.org/) pour les projets.
 - [Another one-line npm package breaks the JavaScript ecosystem](https://www.zdnet.com/article/another-one-line-npm-package-breaks-the-javascript-ecosystem/)
-  — ce genre de problème semble avoir moins d’impacts dans d’autres languages car l’utilisation de
+  — ce genre de problème semble avoir moins d’impacts dans d’autres langages car l’utilisation de
   versions [non-fixes](https://docs.npmjs.com/about-semantic-versioning#using-semantic-versioning-to-specify-update-types-your-package-can-accept)
   est, heureusement, moins répandue.
 - [Announcing the Compose Specification](https://www.docker.com/blog/announcing-the-compose-specification/)

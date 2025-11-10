@@ -68,8 +68,8 @@ Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de
   — bon à savoir : il est possible d’avoir du support sur Quarkus en utilisant les
   [Red Hat builds of Quarkus](https://access.redhat.com/products/quarkus).
 - [Why Isn’t Functional Programming the Norm?](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
-  — excellente présentation de Richard Feldman sur l’histoire des languages, ce qui a fait leur popularité et pourquoi
-  il n'y a pas de langage "purement fonctionnel" dans les languages les plus populaires. Dans la même veine, vous pouvez
+  — excellente présentation de Richard Feldman sur l’histoire des langages, ce qui a fait leur popularité et pourquoi
+  il n'y a pas de langage "purement fonctionnel" dans les langages les plus populaires. Dans la même veine, vous pouvez
   aussi lire l'article de Ties van de Ven : [The Problem with Functional
   Programming](https://foojay.io/today/the-problem-with-functional-programming/).
 - [A poor man’s API](https://blog.frankel.ch/poor-man-api/)
