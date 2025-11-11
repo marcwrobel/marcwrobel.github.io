@@ -50,7 +50,7 @@ exécuter :
 Il ne reste alors plus qu’à tester que le site fonctionne bien puis commiter le tout, généralement en
 séparant le type de mise à jour (Jekyll, Bootstrap...).
 
-Quelques petites choses doivent de plus être connus en fonction du type de dépendances.
+Quelques petites choses doivent de plus être connues en fonction du type de dépendances.
 
 ### Paquets Ruby
 

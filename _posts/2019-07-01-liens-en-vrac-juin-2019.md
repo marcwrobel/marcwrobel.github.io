@@ -47,7 +47,7 @@ Nouvelles, articles, podcasts, vidéos et découvertes intéressantes du mois de
 ## Découvertes
 
 - [EditorConfig](https://editorconfig.org/)
-  — un bon début pour conserver un style uniforme quelque soit l’IDE.
+  — un bon début pour conserver un style uniforme quel que soit l’IDE.
 - [Bash trick: Repeat last command until success](https://medium.com/@marko.luksa/bash-trick-repeat-last-command-until-success-750a61c43c8a)
   — simple et efficace.
 - [OpenSSL – Formats & Cheat-Sheet](https://net-security.fr/security/openssl-formats-cheat-sheet/)
