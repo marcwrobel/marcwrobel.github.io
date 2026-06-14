@@ -97,7 +97,7 @@ echo '/swap none swap sw 0 0' | sudo tee -a /etc/fstab
 - logiciels : Gnome, SSH server, standard system utilities
 
 <!-- prettier-ignore-start -->
-*[DHCP]: Dynamic Host Control Protocol
+*[DHCP]: Dynamic Host Configuration Protocol
 *[HTTP]: Hypertext Transfer Protocol
 *[IP]: Internet Protocol
 *[LVM]: Logical Volume Manager
