@@ -15,7 +15,8 @@ layout: default
             {%- include category-icon.html -%}
             •
             <time datetime="{{ page.date | date_to_xmlschema }}">
-              {{ page.date | date: site.date_format }}
+              {%- assign last_modified_date = page.seo.date_modified | default: page.date -%}
+              {{ last_modified_date | date: site.date_format }}
             </time>
             •
             <span itemprop="author" itemscope itemtype="https://schema.org/Person">
